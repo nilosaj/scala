@@ -11,7 +11,7 @@ if (inputargs[2]==='verificalogs'){
 
 
 function verificaLogs(){
-    console.log(`iniciando verificalogs  em  ${inputargs[3]}`)
+    console.log(`[######### INICIANDO VERIFICACAO DE LOGS  NO DIRETORIO  ${inputargs[3]} #########]`)
     bwfs.verificaDiretorio(inputargs[3],inputargs[4]);
 };
 
