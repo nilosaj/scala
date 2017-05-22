@@ -1,0 +1,15 @@
+{
+  "name": "bwutilities",
+  "version": "1.0.0",
+  "description": "app e utilidades para bw",
+  "main": "bwutil.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nilosaj",
+  "license": "ISC",
+  "dependencies": {
+    "bytes": "^2.5.0",
+    "lodash": "^4.17.4"
+  }
+}
