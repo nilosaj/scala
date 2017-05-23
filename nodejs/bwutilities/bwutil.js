@@ -1,11 +1,13 @@
 var _ = require('lodash');
+var yargs = require('yargs');
 var bwfs = require('./bwfiles');
 var bwcomm = require('./bwnotification.js');
 
-var inputargs = process.argv
+
+var inputargs = yargs.argv;
 var listaArquivosGrandes = [];
 
-if (inputargs[2]==='verificalogs'){
+if (inputargs._[0]==='verificalogs'){
    verificaLogs()
    
 }else{
@@ -14,8 +16,8 @@ if (inputargs[2]==='verificalogs'){
 
 
 function verificaLogs(){
-    console.log(`[######### INICIANDO VERIFICACAO DE LOGS  NO DIRETORIO  ${inputargs[3]} #########]`)
-    bwfs.verificaDiretorio(inputargs[3],inputargs[4],(retorno)=>{
+    console.log(`[######### INICIANDO VERIFICACAO DE LOGS  NO DIRETORIO  ${inputargs._[1]} #########]`)
+    bwfs.verificaDiretorio(inputargs._[1],inputargs._[2],(retorno)=>{
        listaArquivosGrandes = retorno //melhorar  aqui
        listaArquivosgrandes()
     });
