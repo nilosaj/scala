@@ -1,4 +1,5 @@
 {
     "token":"368750321:AAE1Ldh4l3pzqe_uhFP70soVFSCcCCfaa_Q",
-    "chatId":"-204773379"
+    "chatId":"-204773379",
+    "ignoreExtensions": [".tar",".zip",".exe",".rar",".pkg"]
 }

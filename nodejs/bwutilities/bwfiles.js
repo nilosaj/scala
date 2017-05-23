@@ -3,6 +3,8 @@ var _ = require('lodash');
 var bt = require('bytes');
 var path = require('path');
 
+var config = require('./config.json');
+
 var arquivosGrandes = []
 var arquivoGrande = function(caminho,tamanho){
    this.caminho = caminho;
@@ -17,7 +19,7 @@ exports.verificaDiretorio = function verificaDiretorio(diretorio,tamanho,callbac
          if (status.isDirectory()){
            verificaDiretorio(caminho,tamanho)
          }else{
-           if ((status.size >= bt.parse(tamanho)) && ( ['.tar','.zip','.exe','.rar'].indexOf(path.extname(arquivo))<0)){  
+           if ((status.size >= bt.parse(tamanho)) && ( config.ignoreExtensions.indexOf(path.extname(arquivo))<0)){  
                 console.log(caminho,'  [',bt.format(status.size),']')
                 var arqGrande = new arquivoGrande(caminho,bt.format(status.size))  
                 arquivosGrandes.push(arqGrande)   
