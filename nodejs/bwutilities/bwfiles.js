@@ -17,7 +17,7 @@ exports.verificaDiretorio = function verificaDiretorio(diretorio,tamanho,callbac
          if (status.isDirectory()){
            verificaDiretorio(caminho,tamanho)
          }else{
-           if (status.size >= bt.parse(tamanho)){  
+           if ((status.size >= bt.parse(tamanho)) && ( ['.tar','.zip','.exe','.rar'].indexOf(path.extname(arquivo))<0)){  
                 console.log(caminho,'  [',bt.format(status.size),']')
                 var arqGrande = new arquivoGrande(caminho,bt.format(status.size))  
                 arquivosGrandes.push(arqGrande)   
