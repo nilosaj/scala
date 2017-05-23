@@ -3,9 +3,13 @@ var _ = require('lodash');
 var bt = require('bytes');
 var path = require('path');
 
+var arquivosGrandes = []
+var arquivoGrande = function(caminho,tamanho){
+   this.caminho = caminho;
+   this.tamanho = tamanho;
+}
 
-
-exports.verificaDiretorio = function verificaDiretorio(diretorio,tamanho){
+exports.verificaDiretorio = function verificaDiretorio(diretorio,tamanho,callback){
     fs.readdir(diretorio,(err,arquivos)=>{
         arquivos.forEach(arquivo => {
          var caminho = path.join(diretorio,arquivo);
@@ -15,10 +19,14 @@ exports.verificaDiretorio = function verificaDiretorio(diretorio,tamanho){
          }else{
            if (status.size >= bt.parse(tamanho)){  
                 console.log(caminho,'  [',bt.format(status.size),']')
+                var arqGrande = new arquivoGrande(caminho,bt.format(status.size))  
+                arquivosGrandes.push(arqGrande)   
            }
-         }
-        });
-    });
-
+        }
+      });
+    return callback(arquivosGrandes)  
+  });
+    
 };
+
 

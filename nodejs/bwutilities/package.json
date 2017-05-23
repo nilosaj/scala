@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "bytes": "^2.5.0",
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.4",
+    "node-telegram-bot-api": "^0.27.1"
   }
 }
