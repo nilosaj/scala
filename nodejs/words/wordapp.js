@@ -42,7 +42,7 @@ function testeConsulta(id,pool,callback){
 // Checkout a connection from the pool
   pool.getConnection(function(err, connection) {
     if (err) {
-      console.log('Deu Erro 1');
+      console.log('Deu Erro  aqui 1');
       return;
     }
 
