@@ -1,0 +1,14 @@
+{
+  "name": "words",
+  "version": "1.0.0",
+  "description": "teste de oracle. organizador de palavras",
+  "main": "wordapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nilosaj",
+  "license": "ISC",
+  "dependencies": {
+    "oracledb": "^1.13.1"
+  }
+}
