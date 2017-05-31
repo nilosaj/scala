@@ -9,6 +9,10 @@
   "author": "nilosaj",
   "license": "ISC",
   "dependencies": {
-    "oracledb": "^1.13.1"
+    "bluebird": "^3.5.0",
+    "oracledb": "^1.13.1",
+    "pmx": "^1.2.0",
+    "redis": "^2.7.1",
+    "yargs": "^8.0.1"
   }
 }
