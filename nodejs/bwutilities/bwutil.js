@@ -14,7 +14,7 @@ var listarArquivosGrandes = function (arquivosGrandes) {
             var msg = 'ARQUIVO: ' + item['caminho'] + ' TAMANHO: [' + item['tamanho'] + ']';
             console.log(msg);
         }
-        //bwcomm.enviaMensagem(msg);
+        bwcomm.enviaMensagem(msg);
     })
 };
 
