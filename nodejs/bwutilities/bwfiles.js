@@ -5,30 +5,56 @@ var path = require('path');
 
 var config = require('./config.json');
 
-var arquivosGrandes = []
-var arquivoGrande = function(caminho,tamanho){
-   this.caminho = caminho;
-   this.tamanho = tamanho;
+fs.readdirAsync = function (dir) {
+  return new Promise(function (resolve, reject) {
+    fs.readdir(dir, function (err, list) {
+      if (err) {
+        reject(err);
+      } else {
+        resolve(list);
+      }
+    });
+  });
 }
 
-exports.verificaDiretorio = function verificaDiretorio(diretorio,tamanho,callback){
-    fs.readdir(diretorio,(err,arquivos)=>{
-        arquivos.forEach(arquivo => {
-         var caminho = path.join(diretorio,arquivo);
-         var status = fs.statSync(caminho);
-         if (status.isDirectory()){
-           verificaDiretorio(caminho,tamanho)
-         }else{
-           if ((status.size >= bt.parse(tamanho)) && ( config.ignoreExtensions.indexOf(path.extname(arquivo))<0)){  
-                console.log(caminho,'  [',bt.format(status.size),']')
-                var arqGrande = new arquivoGrande(caminho,bt.format(status.size))  
-                arquivosGrandes.push(arqGrande)   
-           }
+fs.statAsync = function (file) {
+  return new Promise(function (resolve, reject) {
+    fs.stat(file, function (err, stat) {
+      if (err) {
+        reject(err);
+      } else {
+        resolve(stat);
+      }
+    });
+  });
+}
+
+var arquivoGrande = function (caminho, tamanho) {
+  this.caminho = caminho;
+  this.tamanho = tamanho;
+}
+
+function verificaDiretorio(dir, tamanho) {
+  return fs.readdirAsync(dir).then(function (list) {
+    return Promise.all(list.map(function (file) {
+      file = path.join(dir, file);
+      return fs.statAsync(file).then(function (stat) {
+        if (stat.isDirectory()) {
+          return verificaDiretorio(file, tamanho);
+        } else {
+          if ((stat.size >= bt.parse(tamanho)) && (config.ignoreExtensions.indexOf(path.extname(file)) < 0)) {
+            return new arquivoGrande(file, bt.format(stat.size));
+          } else {
+            return null;
+          }
         }
       });
-    return callback(arquivosGrandes)  
+    }));
+  }).then(function (results) {
+    return Array.prototype.concat.apply([], results);
   });
-    
+}
+
+module.exports = {
+  verificaDiretorio: verificaDiretorio
 };
-
-
