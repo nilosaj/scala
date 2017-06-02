@@ -13,11 +13,6 @@ function removeNull (item) {
 var listarArquivosGrandes = function (arquivosGrandes) {
     arquivosGrandes = arquivosGrandes.filter(removeNull);
     arquivosGrandes.forEach((item) => {
-
-        if (item) {
-            var msg = 'ARQUIVO: ' + item['caminho'] + ' TAMANHO: [' + item['tamanho'] + ']';
-            console.log(msg);
-        }
         var msg = 'ARQUIVO: ' + item['caminho'] + ' TAMANHO: [' + item['tamanho'] + ']';
         bwcomm.enviaMensagem(msg);
     })
