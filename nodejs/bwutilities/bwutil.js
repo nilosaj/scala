@@ -8,12 +8,19 @@ var bwcomm = require('./bwnotification.js');
 var inputargs = yargs.argv;
 //var listaArquivosGrandes = [];
 
+function removeNull (item) {
+    return item !== null;
+}
+
 var listarArquivosGrandes = function (arquivosGrandes) {
+    arquivosGrandes = arquivosGrandes.filter(removeNull);
     arquivosGrandes.forEach((item) => {
+
         if (item) {
             var msg = 'ARQUIVO: ' + item['caminho'] + ' TAMANHO: [' + item['tamanho'] + ']';
             console.log(msg);
         }
+        var msg = 'ARQUIVO: ' + item['caminho'] + ' TAMANHO: [' + item['tamanho'] + ']';
         bwcomm.enviaMensagem(msg);
     })
 };
