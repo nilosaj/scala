@@ -4,9 +4,7 @@ var yargs = require('yargs');
 var bwfs = require('./bwfiles');
 var bwcomm = require('./bwnotification.js');
 
-
 var inputargs = yargs.argv;
-//var listaArquivosGrandes = [];
 
 function removeNull (item) {
     return item !== null;
