@@ -1,0 +1,19 @@
+{
+  "name": "analise_futebol",
+  "version": "1.0.0",
+  "description": "trabalho pos graduacao infinet",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilosaj/analise_futebol.git"
+  },
+  "author": "nilosaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nilosaj/analise_futebol/issues"
+  },
+  "homepage": "https://github.com/nilosaj/analise_futebol#readme"
+}
