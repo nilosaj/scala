@@ -14,7 +14,8 @@ var listarArquivosGrandes = function (arquivosGrandes) {
     arquivosGrandes = arquivosGrandes.filter(removeNull);
     arquivosGrandes.forEach((item) => {
         var msg = 'ARQUIVO: ' + item['caminho'] + ' TAMANHO: [' + item['tamanho'] + ']';
-        bwcomm.enviaMensagem(msg);
+        console.log(msg)
+       // bwcomm.enviaMensagem(msg);
     })
 };
 

@@ -1,7 +1,7 @@
 {
   "name": "analise_futebol",
   "version": "1.0.0",
-  "description": "trabalho pos graduacao infinet",
+  "description": "projeto de big data",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/nilosaj/analise_futebol.git"
   },
-  "author": "nilosaj",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nilosaj/analise_futebol/issues"
   },
-  "homepage": "https://github.com/nilosaj/analise_futebol#readme"
+  "homepage": "https://github.com/nilosaj/analise_futebol#readme",
+  "dependencies": {
+    "sqlite3": "^3.1.8"
+  }
 }
