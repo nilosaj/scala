@@ -1,0 +1,591 @@
+microregiao;obitos
+11001 Porto Velho;1825
+11002 Guajar�-Mirim;199
+11003 Ariquemes;545
+11004 Ji-Paran�;898
+11005 Alvorada D'Oeste;187
+11006 Cacoal;727
+11007 Vilhena;418
+11008 Colorado Oeste;155
+11000 Ignorado - RO;5
+12001 Cruzeiro do Sul;305
+12002 Tarauac�;152
+12003 Sena Madureira;111
+12004 Rio Branco;1313
+12005 Brasil�ia;152
+12000 Ignorado - AC;1
+13001 Rio Negro AM;217
+13002 Japur�;23
+13003 Alto Solim�es;425
+13004 Juru�;248
+13005 Tef�;159
+13006 Coari;245
+13007 Manaus;7025
+13008 R.Preto da Eva;113
+13009 Itacoatiara;295
+13010 Parintins;487
+13011 Boca do Acre;92
+13012 Purus;124
+13013 Madeira;285
+13000 Ignorado - AM;28
+14001 Boa Vista;900
+14002 Nordeste RR;113
+14003 Caracara�;124
+14004 Sudeste RR;97
+14000 Ignorado - RR;1
+15001 �bidos;368
+15002 Santar�m;1288
+15003 Almeirim;112
+15004 Portel;194
+15005 Furos de Breves;278
+15006 Arari;267
+15007 Bel�m;7841
+15008 Castanhal;951
+15009 Salgado;690
+15010 Bragantina;1095
+15011 Camet�;930
+15012 Tom�-A�u;760
+15013 Guam�;1025
+15014 Itaituba;647
+15015 Altamira;942
+15016 Tucuru�;821
+15017 Paragominas;788
+15018 S.F�lix Xingu;357
+15019 Parauapebas;839
+15020 Marab�;959
+15021 Reden��o;625
+15022 Conc.Araguaia;375
+15000 Ignorado - PA;6
+16001 Oiapoque;60
+16002 Amap�;41
+16003 Macap�;1572
+16004 Mazag�o;127
+17001 Bico Papagaio;626
+17002 Aragua�na;961
+17003 Miracema TO;440
+17004 Rio Formoso;378
+17005 Gurupi TO;402
+17006 Porto Nacional;980
+17007 Jalap�o;181
+17008 Dian�polis;354
+17000 Ignorado - TO;12
+21001 Litoral Ocid.MA;431
+21002 S�o Lu�s;4659
+21003 Ros�rio;423
+21004 Len��is MA;383
+21005 Baixada MA;1515
+21006 Itapecuru Mirim;509
+21007 Gurupi MA;494
+21008 Pindar�;1711
+21009 Imperatriz;1921
+21010 M�dio Mearim;1324
+21011 A.Mearim/Graja�;821
+21012 Pres. Dutra;593
+21013 B.Parna�ba MA;285
+21014 Chapadinha;544
+21015 Cod�;853
+21016 Coelho Neto;251
+21017 Caxias;1389
+21018 Chap.Itapecuru;573
+21019 Porto Franco;345
+21020 Gerais Balsas;429
+21021 Chap.Mangab.;164
+21000 Ignorado - MA;15
+22001 B.Parna�ba PI;956
+22002 Litoral PI;971
+22003 Teresina;3670
+22004 Campo Maior;722
+22005 M.Parna�ba PI;471
+22006 Valen�a PI;331
+22007 A.Parna�ba PI;127
+22008 Bertol�nia;120
+22009 Floriano;391
+22010 A.M.Gurgu�ia;256
+22011 S.Raim.Nonato;335
+22012 Chap.Ext.Sul PI;185
+22013 Picos;704
+22014 Pio IX;199
+22015 A.M.Canind�;804
+22000 Ignorado - PI;27
+23001 Camocim/Acara�;1025
+23002 Ibiapaba;953
+23003 Corea�;173
+23004 Meruoca;70
+23005 Sobral;1236
+23006 Ipu;454
+23007 Santa Quit�ria;225
+23008 Itapipoca;533
+23009 Baixo Curu;292
+23010 Uruburetama;340
+23011 M�dio Curu;259
+23012 Canind�;396
+23013 Baturit�;594
+23014 Chorozinho;235
+23015 Cascavel CE;395
+23016 Fortaleza;12374
+23017 Pacajus;460
+23018 Sert�o Crat�us;805
+23019 Quixeramobim;841
+23020 Sert�o Inhamuns;451
+23021 Senador Pompeu;728
+23022 Litoral Aracati;328
+23023 Baixo Jaguaribe;1227
+23024 M�dio Jaguaribe;214
+23025 Serra Pereiro;102
+23026 Iguatu;779
+23027 V�rzea Alegre;301
+23028 Lavr.Mangabeira;169
+23029 Chap.Araripe;314
+23030 Cariria�u;151
+23031 Barro;232
+23032 Cariri;1930
+23033 Brejo Santo;313
+23000 Ignorado - CE;4
+24001 Mossor�;1239
+24002 Chap.Apodi;225
+24003 M�dio Oeste;91
+24004 Vale do A�u;496
+24005 Serra S.Miguel;242
+24006 Pau dos Ferros;383
+24007 Umarizal;257
+24008 Macau;164
+24009 Angicos;144
+24010 Serra Santana;169
+24011 Serid� Ocid.;373
+24012 Serid� Oriental;365
+24013 Baixa Verde;199
+24014 Borborema RN;397
+24015 Agreste RN;666
+24016 Litoral NE;192
+24017 Maca�ba;1099
+24018 Natal;3518
+24019 Litoral Sul RN;436
+24000 Ignorado - RN;1
+25001 Catol� do Rocha;394
+25002 Cajazeiras;609
+25003 Sousa;634
+25004 Patos;472
+25005 Pianc�;233
+25006 Itaporanga;234
+25007 Serra Teixeira;406
+25008 Serid� Ocid.PB;108
+25009 Serid� Or.PB;235
+25010 Cariri Ocid.;436
+25011 Cariri Oriental;207
+25012 Curimata� Ocid.;395
+25013 Curimata� Or.;303
+25014 Esperan�a;184
+25015 Brejo PB;385
+25016 Guarabira;606
+25017 Campina Grande;1822
+25018 Itabaiana;318
+25019 Umbuzeiro;170
+25020 Litoral Norte;491
+25021 Sap�;502
+25022 Jo�o Pessoa;4004
+25023 Litoral Sul PB;350
+25000 Ignorado - PB;27
+26001 Araripina;967
+26002 Salgueiro;511
+26003 Paje�;1127
+26004 Sert�o Moxot�;643
+26005 Petrolina;1325
+26006 Itaparica;432
+26007 Vale do Ipanema;580
+26008 Vale do Ipojuca;3371
+26009 Alto Capibaribe;909
+26010 M.Capibaribe;913
+26011 Garanhuns;1711
+26012 Brejo PE;843
+26013 Mata Set.PE;2086
+26014 Vit�ria S.Ant�o;781
+26015 Mata Merid.PE;2211
+26016 Itamarac�;621
+26017 Recife;12968
+26018 Suape;1181
+26019 Fern.Noronha;2
+26000 Ignorado - PE;162
+27001 Serr.Sert�o AL;250
+27002 Sert.S.Franc.AL;273
+27003 Santana Ipanema;530
+27004 Batalha;354
+27005 Palmeira �ndios;673
+27006 Arapiraca;1662
+27007 Traipu;100
+27008 Serr.Quilombos;564
+27009 Mata AL;1183
+27010 Litoral N AL;229
+27011 Macei�;5038
+27012 S.Miguel Campos;1047
+27013 Penedo;421
+27000 Ignorado - AL;1
+28001 Sert.S.Franc.SE;452
+28002 Carira;268
+28003 NS das Dores;260
+28004 Agr.Itabaiana;565
+28005 Tobias Barreto;425
+28006 Agr.Lagarto;430
+28007 Propri�;338
+28008 Cotinguiba;170
+28009 Japaratuba;153
+28010 B.Cotinguiba;334
+28011 Aracaju;2955
+28012 Boquim;555
+28013 Est�ncia;430
+28000 Ignorado - SE;28
+29001 Barreiras;886
+29002 Cotegipe;278
+29003 S Maria Vit�ria;407
+29004 Juazeiro;1450
+29005 Paulo Afonso;589
+29006 Barra;511
+29007 B Jesus da Lapa;449
+29008 Senhor Bonfim;894
+29009 Irec�;1249
+29010 Jacobina;1151
+29011 Itaberaba;825
+29012 F Santana;3740
+29013 Jeremoabo;244
+29014 Euclides Cunha;813
+29015 Ribeira Pombal;965
+29016 Serrinha;1188
+29017 Alagoinhas;1108
+29018 Entre Rios;384
+29019 Catu;839
+29020 S Ant�nio Jesus;2004
+29021 Salvador;13333
+29022 Boquira;502
+29023 Seabra;809
+29024 Jequi�;1656
+29025 Livr.Brumado;226
+29026 Guanambi;976
+29027 Brumado;599
+29028 Vit.Conquista;2165
+29029 Itapetinga;740
+29030 Valen�a;841
+29031 Ilh�us-Itabuna;4172
+29032 Porto Seguro;2778
+29000 Ignorado - BA;334
+31001 Una�;517
+31002 Paracatu;820
+31003 Janu�ria;865
+31004 Jana�ba;843
+31005 Salinas;659
+31006 Pirapora;612
+31007 Montes Claros;2127
+31008 Gr�o Mogol;128
+31009 Bocai�va;272
+31010 Diamantina;307
+31011 Capelinha;612
+31012 Ara�ua�;564
+31013 Pedra Azul;329
+31014 Almenara;567
+31015 Te�filo Otoni;1138
+31016 Nanuque;479
+31017 Ituiutaba;609
+31018 Uberl�ndia;3048
+31019 Patroc�nio;784
+31020 Patos de Minas;903
+31021 Frutal;751
+31022 Uberaba;1468
+31023 Arax�;866
+31024 Tr�s Marias;359
+31025 Curvelo;561
+31026 Bom Despacho;664
+31027 Sete Lagoas;1404
+31028 Conc. M. Dentro;225
+31029 Par� de Minas;439
+31030 B Horizonte;16769
+31031 Itabira;1264
+31032 Itaguara;252
+31033 Ouro Preto;631
+31034 Cons. Lafaiete;910
+31035 Guanh�es;505
+31036 Pe�anha;255
+31037 Gov. Valadares;1685
+31038 Mantena;260
+31039 Ipatinga;1732
+31040 Caratinga;980
+31041 Aimor�s;593
+31042 Piu�;319
+31043 Divin�polis;1733
+31044 Formiga;597
+31045 Campo Belo;428
+31046 Oliveira;495
+31047 Passos;895
+31048 S. Seb. Para�so;991
+31049 Alfenas;866
+31050 Varginha;1638
+31051 P. Caldas;1367
+31052 P. Alegre;1179
+31053 S Rita Sapuca�;552
+31054 S. Louren�o;853
+31055 Andrel�ndia;307
+31056 Itajub�;758
+31057 Lavras;598
+31058 S J del Rei;736
+31059 Barbacena;970
+31060 Ponte Nova;750
+31061 Manhua�u;953
+31062 Vi�osa;844
+31063 Muria�;1152
+31064 Ub�;1073
+31065 Juiz de Fora;3180
+31066 Cataguases;942
+31000 Ignorado - MG;170
+32001 Barra S.Franc.;364
+32002 Nova Ven�cia;451
+32003 Colatina;783
+32004 Montanha;219
+32005 S�o Mateus;665
+32006 Linhares;1141
+32007 Afonso Cl�udio;423
+32008 Santa Teresa;374
+32009 Vit�ria;5852
+32010 Guarapari;691
+32011 Alegre;550
+32012 Cach.Itapemirim;1317
+32013 Itapemirim;278
+32000 Ignorado - ES;10
+33001 Itaperuna;855
+33002 S.Ant�nio P�dua;563
+33003 Campos Goytac.;2815
+33004 Maca�;1010
+33005 Tr�s Rios;771
+33006 Cantag/Cordeiro;288
+33007 Nova Friburgo;1010
+33008 S.M.Madalena;137
+33009 Bacia de S.Jo�o;668
+33010 Lagos;2573
+33011 Vale Para�ba RJ;3019
+33012 Barra do Pira�;878
+33013 Ba�a I.Grande;791
+33014 Vassouras;849
+33015 Serrana;2353
+33016 Macacu-Caceribu;489
+33017 Itagua�;1113
+33018 Rio de Janeiro;53836
+33000 Ignorado - RJ;464
+35001 Jales;633
+35002 Fernand�polis;431
+35003 Votuporanga;605
+35004 S.Jos� R.Preto;2915
+35005 Catanduva;887
+35006 Auriflama;199
+35007 Nhandeara;262
+35008 Novo Horizonte;323
+35009 Barretos;666
+35010 S.Joaquim Barra;835
+35011 Ituverava;425
+35012 Franca;1438
+35013 Jaboticabal;1542
+35014 Ribeir�o Preto;3818
+35015 Batatais;420
+35016 Andradina;777
+35017 Ara�atuba;1181
+35018 Birigui;983
+35019 Lins;724
+35020 Bauru;2232
+35021 Ja�;1553
+35022 Avar�;752
+35023 Botucatu;775
+35024 Araraquara;1958
+35025 S�o Carlos;1249
+35026 Rio Claro;958
+35027 Limeira;2252
+35028 Piracicaba;2161
+35029 Pirassununga;731
+35030 S.Jo�o B.Vista;1814
+35031 Mogi Mirim;1568
+35032 Campinas;9090
+35033 Amparo;690
+35034 Dracena;474
+35035 Adamantina;597
+35036 Pres.Prudente;2345
+35037 Tup�;468
+35038 Mar�lia;1275
+35039 Assis;1186
+35040 Ourinhos;1273
+35041 Itapeva;1036
+35042 Itapetininga;753
+35043 Tatu�;1106
+35044 Cap�o Bonito;558
+35045 Piedade;884
+35046 Sorocaba;5211
+35047 Jundia�;2228
+35048 Bragan�a SP;1989
+35049 Campos Jord�o;265
+35050 S.Jos� Campos;5049
+35051 Guaratinguet�;1838
+35052 Bananal;93
+35053 Par./Paraitinga;250
+35054 Caraguatatuba;1121
+35055 Registro;1001
+35056 Itanha�m;1185
+35057 Osasco;6818
+35058 Franco da Rocha;1758
+35059 Guarulhos;5268
+35060 Itapec.Serra;3945
+35061 S�o Paulo;49034
+35062 Mogi das Cruzes;5130
+35063 Santos;6420
+35000 Ignorado - SP;346
+41001 Paranava�;1109
+41002 Umuarama;1146
+41003 Cianorte;514
+41004 Goioer�;548
+41005 Campo Mour�o;951
+41006 Astorga;768
+41007 Porecatu;373
+41008 Flora�;129
+41009 Maring�;1815
+41010 Apucarana;1120
+41011 Londrina;2846
+41012 Faxinal;201
+41013 Ivaipor�;568
+41014 Assa�;284
+41015 Corn.Proc�pio;751
+41016 Jacarezinho;553
+41017 Ibaiti;321
+41018 Wenceslau Braz;417
+41019 Tel�maco Borba;702
+41020 Jaguaria�va;431
+41021 Ponta Grossa;1732
+41022 Toledo;1446
+41023 Cascavel PR;1506
+41024 Foz do Igua�u;1586
+41025 Capanema;406
+41026 Franc.Beltr�o;832
+41027 Pato Branco;595
+41028 Pitanga;282
+41029 Guarapuava;1507
+41030 Palmas;344
+41031 Prudent�polis;508
+41032 Irati;402
+41033 Uni�o Vit�ria;481
+41034 S.Mateus do Sul;249
+41035 Cerro Azul;121
+41036 Lapa;200
+41037 Curitiba;11101
+41038 Paranagu�;1241
+41039 Rio Negro PR;326
+41000 Ignorado - PR;45
+42001 S.Miguel Oeste;529
+42002 Chapec�;1246
+42003 Xanxer�;494
+42004 Joa�aba;1147
+42005 Conc�rdia;412
+42006 Canoinhas;955
+42007 S.Bento do Sul;480
+42008 Joinville;2717
+42009 Curitibanos;516
+42010 Campos de Lages;1311
+42011 Rio do Sul;783
+42012 Blumenau;2247
+42013 Itaja�;2161
+42014 Ituporanga;201
+42015 Tijucas;315
+42016 Florian�polis;2817
+42017 Tabuleiro;79
+42018 Tubar�o;1453
+42019 Crici�ma;1358
+42020 Ararangu�;681
+42000 Ignorado - SC;4
+43001 Santa Rosa;621
+43002 Tr�s Passos;577
+43003 Fred.Westphalen;642
+43004 Erechim;708
+43005 Sananduva;182
+43006 Cerro Largo;296
+43007 Santo �ngelo;839
+43008 Iju�;652
+43009 Carazinho;620
+43010 Passo Fundo;1216
+43011 Cruz Alta;635
+43012 N�o-Me-Toque;165
+43013 Soledade;333
+43014 Guapor�;395
+43015 Vacaria;669
+43016 Caxias do Sul;2525
+43017 Santiago;458
+43018 Santa Maria;1450
+43019 Restinga Seca;244
+43020 S. Cruz do Sul;1364
+43021 Lajeado-Estrela;1247
+43022 Cachoeira Sul;773
+43023 Montenegro;768
+43024 Gramado-Canela;1153
+43025 S. Jer�nimo;653
+43026 Porto Alegre;16466
+43027 Os�rio;1624
+43028 Camaqu�;574
+43029 Campanha Ocid.;1682
+43030 Campanha Centr.;885
+43031 Campanha Merid.;796
+43032 Serras Sudeste;515
+43033 Pelotas;2396
+43034 Jaguar�o;258
+43035 Litoral Lagunar;1321
+43000 Ignorado - RS;2
+50001 Baixo Pantanal;513
+50002 Aquidauana;398
+50003 Alto Taquari;386
+50004 Campo Grande;3166
+50005 Cassil�ndia;223
+50006 Parana�ba;305
+50007 Tr�s Lagoas;599
+50008 Nova Andradina;319
+50009 Bodoquena;328
+50010 Dourados;1934
+50011 Iguatemi;942
+50000 Ignorado - MS;2
+51001 Aripuan�;391
+51002 Alta Floresta;407
+51003 Col�der;496
+51004 Parecis;313
+51005 Arinos;255
+51006 A.Teles Pires;570
+51007 Sinop;629
+51008 Paranatinga;130
+51009 Norte Araguaia;303
+51010 Canarana;279
+51011 M�dio Araguaia;260
+51012 Alto Guapor�;208
+51013 Tangar� Serra;492
+51014 Jauru;315
+51015 Alto Paraguai;135
+51016 Ros�rio Oeste;125
+51017 Cuiab�;3515
+51018 Alto Pantanal;534
+51019 Primavera Leste;348
+51020 Tesouro;214
+51021 Rondon�polis;1127
+51022 Alto Araguaia;116
+51000 Ignorado - MT;8
+52001 S.Miguel Arag.;301
+52002 Rio Vermelho;381
+52003 Aragar�as;236
+52004 Porangatu;809
+52005 Chap.Veadeiros;215
+52006 Ceres;905
+52007 An�polis;2373
+52008 Ipor�;272
+52009 Anicuns;419
+52010 Goi�nia;8688
+52011 V�o do Paran�;375
+52012 Ent.Bras�lia;3610
+52013 SO de Goi�s;1708
+52014 Vale Rio Bois;469
+52015 Meia Ponte;1560
+52016 Pires do Rio;396
+52017 Catal�o;542
+52018 Quirin�polis;470
+52000 Ignorado - GO;64
+53001 Bras�lia;7429
+Total;709435
+ Fonte: MS/SVS/CGIAE - Sistema de Informa��es sobre Mortalidade - SIM
+ Nota:
+
+ Em 2011, houve uma mudan�a no conte�do da Declara��o de �bito, com maior detalhamento das informa��es coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formul�rios. Para mais detalhes sobre as mudan�as ocorridas e os seus efeitos, veja o documento
+ Sistema de Informa��es sobre Mortalidade - SIM. Consolida��o da base de dados de 2011.

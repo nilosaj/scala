@@ -1,0 +1,569 @@
+microregiao;PIB_per_capita
+11001 Porto Velho;21585,73
+11002 Guajar�-Mirim;14553,78
+11003 Ariquemes;14852,49
+11004 Ji-Paran�;15977,72
+11005 Alvorada D'Oeste;12972,47
+11006 Cacoal;15085,52
+11007 Vilhena;21111,88
+11008 Colorado Oeste;16780,58
+12001 Cruzeiro do Sul;10843,51
+12002 Tarauac�;8572,33
+12003 Sena Madureira;10206,78
+12004 Rio Branco;17851,07
+12005 Brasil�ia;12741,42
+13001 Rio Negro AM;5158,19
+13002 Japur�;6071,49
+13003 Alto Solim�es;5995,60
+13004 Juru�;7362,30
+13005 Tef�;8124,47
+13006 Coari;33086,87
+13007 Manaus;29680,93
+13008 R.Preto da Eva;17406,06
+13009 Itacoatiara;11248,53
+13010 Parintins;8103,15
+13011 Boca do Acre;6743,57
+13012 Purus;8250,61
+13013 Madeira;7217,10
+14001 Boa Vista;20537,31
+14002 Nordeste RR;12292,90
+14003 Caracara�;13025,25
+14004 Sudeste RR;14934,41
+15001 �bidos;17004,17
+15002 Santar�m;10775,29
+15003 Almeirim;9452,67
+15004 Portel;6141,08
+15005 Furos de Breves;5749,43
+15006 Arari;5486,74
+15007 Bel�m;16372,62
+15008 Castanhal;12763,47
+15009 Salgado;5927,23
+15010 Bragantina;8485,83
+15011 Camet�;7021,32
+15012 Tom�-A�u;9303,25
+15013 Guam�;7803,37
+15014 Itaituba;9701,90
+15015 Altamira;16938,02
+15016 Tucuru�;16103,47
+15017 Paragominas;14092,80
+15018 S.F�lix Xingu;11609,72
+15019 Parauapebas;86998,40
+15020 Marab�;18304,85
+15021 Reden��o;14225,59
+15022 Conc.Araguaia;10501,95
+16001 Oiapoque;13112,05
+16002 Amap�;14327,33
+16003 Macap�;18432,80
+16004 Mazag�o;11876,34
+17001 Bico Papagaio;8422,29
+17002 Aragua�na;15651,49
+17003 Miracema TO;13794,53
+17004 Rio Formoso;16564,41
+17005 Gurupi TO;21544,79
+17006 Porto Nacional;21214,93
+17007 Jalap�o;12471,13
+17008 Dian�polis;13200,57
+21001 Litoral Ocid.MA;4268,69
+21002 S�o Lu�s;18485,17
+21003 Ros�rio;5781,41
+21004 Len��is MA;4555,03
+21005 Baixada MA;5258,32
+21006 Itapecuru Mirim;5299,50
+21007 Gurupi MA;5655,04
+21008 Pindar�;6489,34
+21009 Imperatriz;13868,90
+21010 M�dio Mearim;10628,15
+21011 A.Mearim/Graja�;5716,61
+21012 Pres. Dutra;6186,32
+21013 B.Parna�ba MA;4989,64
+21014 Chapadinha;5324,75
+21015 Cod�;5630,03
+21016 Coelho Neto;4904,66
+21017 Caxias;6998,09
+21018 Chap.Itapecuru;5595,25
+21019 Porto Franco;14448,34
+21020 Gerais Balsas;27703,70
+21021 Chap.Mangab.;13760,92
+22001 B.Parna�ba PI;5448,43
+22002 Litoral PI;7429,04
+22003 Teresina;15520,65
+22004 Campo Maior;5515,46
+22005 M.Parna�ba PI;5546,90
+22006 Valen�a PI;5565,13
+22007 A.Parna�ba PI;27728,53
+22008 Bertol�nia;8922,98
+22009 Floriano;9878,02
+22010 A.M.Gurgu�ia;9131,01
+22011 S.Raim.Nonato;5828,72
+22012 Chap.Ext.Sul PI;6184,52
+22013 Picos;8707,65
+22014 Pio IX;5055,22
+22015 A.M.Canind�;5944,45
+23001 Camocim/Acara�;6447,88
+23002 Ibiapaba;7211,69
+23003 Corea�;5408,46
+23004 Meruoca;4473,64
+23005 Sobral;10911,87
+23006 Ipu;5713,37
+23007 Santa Quit�ria;6320,80
+23008 Itapipoca;8828,04
+23009 Baixo Curu;13016,18
+23010 Uruburetama;7917,00
+23011 M�dio Curu;6822,10
+23012 Canind�;5456,24
+23013 Baturit�;6152,22
+23014 Chorozinho;5041,03
+23015 Cascavel CE;8933,65
+23016 Fortaleza;18993,18
+23017 Pacajus;15588,72
+23018 Sert�o Crat�us;5575,30
+23019 Quixeramobim;6978,28
+23020 Sert�o Inhamuns;5384,40
+23021 Senador Pompeu;5399,15
+23022 Litoral Aracati;12112,19
+23023 Baixo Jaguaribe;10780,66
+23024 M�dio Jaguaribe;9024,65
+23025 Serra Pereiro;5627,12
+23026 Iguatu;8570,37
+23027 V�rzea Alegre;5396,88
+23028 Lavr.Mangabeira;5081,52
+23029 Chap.Araripe;6071,57
+23030 Cariria�u;5147,10
+23031 Barro;5513,71
+23032 Cariri;10069,94
+23033 Brejo Santo;6291,53
+24001 Mossor�;23470,75
+24002 Chap.Apodi;15389,83
+24003 M�dio Oeste;8997,23
+24004 Vale do A�u;15746,32
+24005 Serra S.Miguel;6219,06
+24006 Pau dos Ferros;7632,48
+24007 Umarizal;6496,54
+24008 Macau;19832,26
+24009 Angicos;6770,51
+24010 Serra Santana;10491,41
+24011 Serid� Ocid.;12669,35
+24012 Serid� Oriental;10155,32
+24013 Baixa Verde;10913,90
+24014 Borborema RN;6294,22
+24015 Agreste RN;6895,20
+24016 Litoral NE;8353,48
+24017 Maca�ba;11578,52
+24018 Natal;21275,95
+24019 Litoral Sul RN;10488,46
+25001 Catol� do Rocha;7179,81
+25002 Cajazeiras;8885,73
+25003 Sousa;8640,94
+25004 Patos;10172,59
+25005 Pianc�;6718,74
+25006 Itaporanga;6757,73
+25007 Serra Teixeira;5803,82
+25008 Serid� Ocid.PB;7641,02
+25009 Serid� Or.PB;6330,28
+25010 Cariri Ocid.;7205,30
+25011 Cariri Oriental;7079,95
+25012 Curimata� Ocid.;7236,42
+25013 Curimata� Or.;6055,96
+25014 Esperan�a;8005,51
+25015 Brejo PB;8149,51
+25016 Guarabira;8009,55
+25017 Campina Grande;14397,60
+25018 Itabaiana;7034,83
+25019 Umbuzeiro;5812,94
+25020 Litoral Norte;8680,22
+25021 Sap�;6952,74
+25022 Jo�o Pessoa;18643,38
+25023 Litoral Sul PB;17738,57
+26001 Araripina;6898,30
+26002 Salgueiro;8129,50
+26003 Paje�;8083,71
+26004 Sert�o Moxot�;7704,71
+26005 Petrolina;13331,88
+26006 Itaparica;8820,37
+26007 Vale do Ipanema;5804,20
+26008 Vale do Ipojuca;11655,50
+26009 Alto Capibaribe;9788,14
+26010 M.Capibaribe;7120,78
+26011 Garanhuns;8444,05
+26012 Brejo PE;6345,01
+26013 Mata Set.PE;10696,18
+26014 Vit�ria S.Ant�o;14092,45
+26015 Mata Merid.PE;7983,63
+26016 Itamarac�;18622,40
+26017 Recife;20792,71
+26018 Suape;55524,08
+26019 Fern.Noronha;26673,95
+27001 Serr.Sert�o AL;4906,22
+27002 Sert.S.Franc.AL;7902,02
+27003 Santana Ipanema;6011,65
+27004 Batalha;6404,03
+27005 Palmeira �ndios;7063,78
+27006 Arapiraca;9749,83
+27007 Traipu;5350,36
+27008 Serr.Quilombos;8069,78
+27009 Mata AL;7370,02
+27010 Litoral N AL;9481,61
+27011 Macei�;16058,24
+27012 S.Miguel Campos;12136,64
+27013 Penedo;9164,24
+28001 Sert.S.Franc.SE;10242,16
+28002 Carira;11834,85
+28003 NS das Dores;9797,79
+28004 Agr.Itabaiana;11461,44
+28005 Tobias Barreto;9202,11
+28006 Agr.Lagarto;11159,11
+28007 Propri�;9854,61
+28008 Cotinguiba;16017,13
+28009 Japaratuba;20436,50
+28010 B.Cotinguiba;31403,20
+28011 Aracaju;19489,75
+28012 Boquim;8463,82
+28013 Est�ncia;22014,08
+29001 Barreiras;30815,79
+29002 Cotegipe;5809,94
+29003 S Maria Vit�ria;12927,73
+29004 Juazeiro;8712,77
+29005 Paulo Afonso;10047,32
+29006 Barra;5642,26
+29007 B Jesus da Lapa;6301,86
+29008 Senhor Bonfim;7377,93
+29009 Irec�;6095,15
+29010 Jacobina;7089,97
+29011 Itaberaba;6419,48
+29012 F Santana;14529,93
+29013 Jeremoabo;5797,25
+29014 Euclides Cunha;5822,71
+29015 Ribeira Pombal;6584,24
+29016 Serrinha;6670,72
+29017 Alagoinhas;13976,98
+29018 Entre Rios;15931,10
+29019 Catu;19437,68
+29020 S Ant�nio Jesus;10566,45
+29021 Salvador;22691,66
+29022 Boquira;5165,28
+29023 Seabra;6918,51
+29024 Jequi�;8160,72
+29025 Livr.Brumado;6163,37
+29026 Guanambi;6855,10
+29027 Brumado;8157,09
+29028 Vit.Conquista;10353,10
+29029 Itapetinga;8390,52
+29030 Valen�a;18043,33
+29031 Ilh�us-Itabuna;11049,93
+29032 Porto Seguro;13018,50
+31001 Una�;22725,55
+31002 Paracatu;25147,02
+31003 Janu�ria;6922,05
+31004 Jana�ba;8503,18
+31005 Salinas;8102,79
+31006 Pirapora;15983,69
+31007 Montes Claros;14122,02
+31008 Gr�o Mogol;12461,69
+31009 Bocai�va;11577,61
+31010 Diamantina;10616,38
+31011 Capelinha;8111,46
+31012 Ara�ua�;6207,43
+31013 Pedra Azul;8689,16
+31014 Almenara;6886,00
+31015 Te�filo Otoni;10122,65
+31016 Nanuque;10874,54
+31017 Ituiutaba;23718,91
+31018 Uberl�ndia;36437,82
+31019 Patroc�nio;24061,87
+31020 Patos de Minas;19440,65
+31021 Frutal;28578,20
+31022 Uberaba;33783,59
+31023 Arax�;37764,02
+31024 Tr�s Marias;21647,23
+31025 Curvelo;14168,89
+31026 Bom Despacho;18919,37
+31027 Sete Lagoas;26330,29
+31028 Conc. M. Dentro;11046,01
+31029 Par� de Minas;20953,01
+31030 B Horizonte;32255,75
+31031 Itabira;40675,44
+31032 Itaguara;43621,88
+31033 Ouro Preto;94217,05
+31034 Cons. Lafaiete;32538,76
+31035 Guanh�es;10337,59
+31036 Pe�anha;7672,78
+31037 Gov. Valadares;13621,15
+31038 Mantena;9057,09
+31039 Ipatinga;27362,11
+31040 Caratinga;9194,61
+31041 Aimor�s;10588,09
+31042 Piu�;19241,64
+31043 Divin�polis;21187,89
+31044 Formiga;21910,41
+31045 Campo Belo;13735,01
+31046 Oliveira;13996,23
+31047 Passos;19261,92
+31048 S. Seb. Para�so;17992,27
+31049 Alfenas;16892,77
+31050 Varginha;19959,06
+31051 P. Caldas;24127,15
+31052 P. Alegre;33802,66
+31053 S Rita Sapuca�;18929,37
+31054 S. Louren�o;15539,39
+31055 Andrel�ndia;12177,92
+31056 Itajub�;17910,26
+31057 Lavras;19675,11
+31058 S J del Rei;15038,59
+31059 Barbacena;15450,33
+31060 Ponte Nova;12463,76
+31061 Manhua�u;12769,51
+31062 Vi�osa;10618,93
+31063 Muria�;12512,66
+31064 Ub�;17546,57
+31065 Juiz de Fora;20970,87
+31066 Cataguases;16285,65
+32001 Barra S.Franc.;13408,75
+32002 Nova Ven�cia;14380,63
+32003 Colatina;17350,63
+32004 Montanha;13372,68
+32005 S�o Mateus;15504,49
+32006 Linhares;35086,12
+32007 Afonso Cl�udio;14872,95
+32008 Santa Teresa;16514,72
+32009 Vit�ria;32599,65
+32010 Guarapari;34527,98
+32011 Alegre;11416,25
+32012 Cach.Itapemirim;17535,21
+32013 Itapemirim;229246,30
+33001 Itaperuna;17531,76
+33002 S.Ant�nio P�dua;17286,36
+33003 Campos Goytac.;112387,67
+33004 Maca�;89081,94
+33005 Tr�s Rios;29797,94
+33006 Cantag/Cordeiro;24561,55
+33007 Nova Friburgo;20337,85
+33008 S.M.Madalena;14909,31
+33009 Bacia de S.Jo�o;105957,68
+33010 Lagos;46967,59
+33011 Vale Para�ba RJ;48567,60
+33012 Barra do Pira�;18395,79
+33013 Ba�a I.Grande;41957,06
+33014 Vassouras;16257,28
+33015 Serrana;28218,27
+33016 Macacu-Caceribu;20977,90
+33017 Itagua�;49006,39
+33018 Rio de Janeiro;33273,34
+35001 Jales;19220,83
+35002 Fernand�polis;27997,64
+35003 Votuporanga;22078,96
+35004 S.Jos� R.Preto;28003,60
+35005 Catanduva;23400,84
+35006 Auriflama;17514,50
+35007 Nhandeara;22480,21
+35008 Novo Horizonte;22051,76
+35009 Barretos;29642,79
+35010 S.Joaquim Barra;30653,37
+35011 Ituverava;27629,07
+35012 Franca;22302,92
+35013 Jaboticabal;23445,13
+35014 Ribeir�o Preto;32162,24
+35015 Batatais;21634,43
+35016 Andradina;24569,53
+35017 Ara�atuba;27458,61
+35018 Birigui;20021,02
+35019 Lins;31002,95
+35020 Bauru;28113,21
+35021 Ja�;26114,11
+35022 Avar�;19471,13
+35023 Botucatu;24984,43
+35024 Araraquara;27957,44
+35025 S�o Carlos;33930,78
+35026 Rio Claro;36383,29
+35027 Limeira;35355,24
+35028 Piracicaba;43942,71
+35029 Pirassununga;23396,34
+35030 S.Jo�o B.Vista;22382,94
+35031 Mogi Mirim;31406,70
+35032 Campinas;48199,57
+35033 Amparo;27273,24
+35034 Dracena;19315,77
+35035 Adamantina;18104,73
+35036 Pres.Prudente;22800,08
+35037 Tup�;24138,66
+35038 Mar�lia;32398,73
+35039 Assis;26111,78
+35040 Ourinhos;21152,73
+35041 Itapeva;17250,50
+35042 Itapetininga;21885,14
+35043 Tatu�;31118,68
+35044 Cap�o Bonito;16432,64
+35045 Piedade;16366,21
+35046 Sorocaba;38740,97
+35047 Jundia�;81202,35
+35048 Bragan�a SP;30923,26
+35049 Campos Jord�o;16423,67
+35050 S.Jos� Campos;40223,42
+35051 Guaratinguet�;23215,40
+35052 Bananal;10944,23
+35053 Par./Paraitinga;13481,82
+35054 Caraguatatuba;42267,25
+35055 Registro;33492,21
+35056 Itanha�m;15055,98
+35057 Osasco;70280,86
+35058 Franco da Rocha;16001,37
+35059 Guarulhos;37352,73
+35060 Itapec.Serra;29631,96
+35061 S�o Paulo;47259,22
+35062 Mogi das Cruzes;26497,56
+35063 Santos;28639,77
+41001 Paranava�;18280,70
+41002 Umuarama;21603,39
+41003 Cianorte;25028,55
+41004 Goioer�;24058,83
+41005 Campo Mour�o;24596,80
+41006 Astorga;20652,31
+41007 Porecatu;20764,31
+41008 Flora�;25267,81
+41009 Maring�;29501,16
+41010 Apucarana;26347,78
+41011 Londrina;30158,42
+41012 Faxinal;19239,65
+41013 Ivaipor�;16902,91
+41014 Assa�;17555,98
+41015 Corn.Proc�pio;20292,43
+41016 Jacarezinho;19197,35
+41017 Ibaiti;13913,80
+41018 Wenceslau Braz;18524,70
+41019 Tel�maco Borba;25966,74
+41020 Jaguaria�va;26218,50
+41021 Ponta Grossa;31185,24
+41022 Toledo;29534,21
+41023 Cascavel PR;29245,01
+41024 Foz do Igua�u;33784,08
+41025 Capanema;21677,54
+41026 Franc.Beltr�o;22569,61
+41027 Pato Branco;34305,99
+41028 Pitanga;15526,48
+41029 Guarapuava;22301,54
+41030 Palmas;26214,62
+41031 Prudent�polis;18419,56
+41032 Irati;22895,55
+41033 Uni�o Vit�ria;18270,55
+41034 S.Mateus do Sul;22515,56
+41035 Cerro Azul;12177,03
+41036 Lapa;24231,01
+41037 Curitiba;40986,10
+41038 Paranagu�;29075,74
+41039 Rio Negro PR;24676,26
+42001 S.Miguel Oeste;27424,22
+42002 Chapec�;33471,06
+42003 Xanxer�;32269,75
+42004 Joa�aba;29441,20
+42005 Conc�rdia;31287,29
+42006 Canoinhas;24712,66
+42007 S.Bento do Sul;29160,15
+42008 Joinville;41764,09
+42009 Curitibanos;28390,12
+42010 Campos de Lages;23821,73
+42011 Rio do Sul;25112,21
+42012 Blumenau;36199,10
+42013 Itaja�;43407,82
+42014 Ituporanga;25295,23
+42015 Tijucas;24391,36
+42016 Florian�polis;30933,74
+42017 Tabuleiro;20323,99
+42018 Tubar�o;24346,07
+42019 Crici�ma;27527,01
+42020 Ararangu�;19308,49
+43001 Santa Rosa;26946,35
+43002 Tr�s Passos;28969,42
+43003 Fred.Westphalen;20176,97
+43004 Erechim;34512,32
+43005 Sananduva;23701,42
+43006 Cerro Largo;24449,79
+43007 Santo �ngelo;25274,14
+43008 Iju�;33760,48
+43009 Carazinho;28675,41
+43010 Passo Fundo;35637,85
+43011 Cruz Alta;40506,92
+43012 N�o-Me-Toque;46700,41
+43013 Soledade;16359,17
+43014 Guapor�;30913,39
+43015 Vacaria;27135,23
+43016 Caxias do Sul;42724,09
+43017 Santiago;29693,46
+43018 Santa Maria;20595,44
+43019 Restinga Seca;20276,72
+43020 S. Cruz do Sul;35696,55
+43021 Lajeado-Estrela;29653,34
+43022 Cachoeira Sul;19931,90
+43023 Montenegro;30586,43
+43024 Gramado-Canela;29232,72
+43025 S. Jer�nimo;54542,32
+43026 Porto Alegre;31997,18
+43027 Os�rio;19014,16
+43028 Camaqu�;18787,97
+43029 Campanha Ocid.;19503,61
+43030 Campanha Centr.;17502,25
+43031 Campanha Merid.;19490,17
+43032 Serras Sudeste;15234,97
+43033 Pelotas;16651,68
+43034 Jaguar�o;19101,86
+43035 Litoral Lagunar;33944,07
+50001 Baixo Pantanal;22625,36
+50002 Aquidauana;13648,40
+50003 Alto Taquari;26510,25
+50004 Campo Grande;24375,35
+50005 Cassil�ndia;43251,79
+50006 Parana�ba;44017,42
+50007 Tr�s Lagoas;49263,57
+50008 Nova Andradina;26492,03
+50009 Bodoquena;16319,44
+50010 Dourados;28013,19
+50011 Iguatemi;20190,34
+51001 Aripuan�;15962,08
+51002 Alta Floresta;21979,88
+51003 Col�der;16437,47
+51004 Parecis;63165,79
+51005 Arinos;24400,54
+51006 A.Teles Pires;50199,26
+51007 Sinop;27672,67
+51008 Paranatinga;29156,04
+51009 Norte Araguaia;16175,19
+51010 Canarana;32125,63
+51011 M�dio Araguaia;20638,61
+51012 Alto Guapor�;19298,64
+51013 Tangar� Serra;24987,96
+51014 Jauru;18200,07
+51015 Alto Paraguai;13951,51
+51016 Ros�rio Oeste;14083,78
+51017 Cuiab�;26950,07
+51018 Alto Pantanal;12543,45
+51019 Primavera Leste;46359,59
+51020 Tesouro;20709,65
+51021 Rondon�polis;33132,04
+51022 Alto Araguaia;53859,89
+52001 S.Miguel Arag.;20336,11
+52002 Rio Vermelho;16718,39
+52003 Aragar�as;16458,20
+52004 Porangatu;20370,43
+52005 Chap.Veadeiros;14696,34
+52006 Ceres;15624,90
+52007 An�polis;26557,61
+52008 Ipor�;13585,73
+52009 Anicuns;15081,58
+52010 Goi�nia;25120,69
+52011 V�o do Paran�;9590,70
+52012 Ent.Bras�lia;12787,06
+52013 SO de Goi�s;34687,57
+52014 Vale Rio Bois;29707,31
+52015 Meia Ponte;29552,33
+52016 Pires do Rio;22192,35
+52017 Catal�o;52986,44
+52018 Quirin�polis;33610,12
+53001 Bras�lia;62859,43
+Total;26445,72
+ Fonte: IBGE, em parceria com os �rg�os Estaduais de Estat�stica, Secretarias Estaduais de Governo e Superintend�ncia da Zona Franca
+ de Manaus - SUFRAMA.
+ Notas:
+
+ Valores do PIB per capita est�o em reais correntes. Os demais valores est�o em milhares de reais correntes.
+ Os valores do PIB per capita podem divergir do publicado em outras fontes, caso haja diferen�a
+ nos valores estimados da popula��o.
+ S�rie hist�rica constru�da com a refer�ncia 2010.
+ Para mais detalhes sobre a metodologia de c�lculo, consulte o s�tio do IBGE.
