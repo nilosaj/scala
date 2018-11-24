@@ -1,5 +1,8 @@
 package com.infnet.ml
 
+import org.apache.spark.ml.evaluation.RegressionEvaluator
+import org.apache.spark.ml.tuning.TrainValidationSplit
+
 object RegressaoLinearObitos {
 
   def main(args: Array[String]): Unit = {
@@ -65,7 +68,9 @@ object RegressaoLinearObitos {
 
     import org.apache.spark.ml.regression.LinearRegression
     import org.apache.spark.ml.feature.VectorAssembler
-    import org.apache.spark.ml.linalg.Vectors
+    //import org.apache.spark.ml.tuning.{ParamGridBuilder,TrainValidationSplit}
+    //import org.apache.spark.ml.linalg.Vectors
+
 
     val va = new VectorAssembler().setInputCols(Array("Quantidade_existente","SUS","NSUS")).setOutputCol("features")
 
@@ -74,9 +79,24 @@ object RegressaoLinearObitos {
     output.show()
 
     val lr = new LinearRegression()
+
+
+    val trainValSplit = new TrainValidationSplit().setEstimator(lr).setEvaluator(new RegressionEvaluator).setTrainRatio(0.8)
+
     val model = lr.fit(output)
 
     println(s"Coeficientes : ${model.coefficients}   Intercept :  ${model.intercept} ")
+
+    val summTraining = model.summary
+
+    println(s"numero de iterações: ${summTraining.totalIterations}")
+
+    summTraining.residuals.show()
+    summTraining.predictions.show()
+
+    println(s"RMSE: ${summTraining.rootMeanSquaredError}")
+    println(s"MSE: ${summTraining.meanSquaredError}")
+    println(s"R2: ${summTraining.r2}")
   }
 
 
