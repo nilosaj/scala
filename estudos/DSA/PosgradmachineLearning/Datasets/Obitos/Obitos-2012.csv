@@ -1,0 +1,5590 @@
+municipios;obitos
+110001 Alta Floresta D'Oeste;122
+110037 Alto Alegre dos Parecis;54
+110040 Alto Para�so;58
+110034 Alvorada D'Oeste;73
+110002 Ariquemes;486
+110045 Buritis;134
+110003 Cabixi;21
+110060 Cacaul�ndia;22
+110004 Cacoal;356
+110070 Campo Novo de Rond�nia;47
+110080 Candeias do Jamari;113
+110090 Castanheiras;17
+110005 Cerejeiras;105
+110092 Chupinguaia;24
+110006 Colorado do Oeste;103
+110007 Corumbiara;23
+110008 Costa Marques;76
+110094 Cujubim;54
+110009 Espig�o D'Oeste;140
+110100 Governador Jorge Teixeira;32
+110010 Guajar�-Mirim;206
+110110 Itapu� do Oeste;36
+110011 Jaru;221
+110012 Ji-Paran�;662
+110013 Machadinho D'Oeste;144
+110120 Ministro Andreazza;39
+110130 Mirante da Serra;53
+110140 Monte Negro;45
+110014 Nova Brasil�ndia D'Oeste;67
+110033 Nova Mamor�;105
+110143 Nova Uni�o;25
+110050 Novo Horizonte do Oeste;41
+110015 Ouro Preto do Oeste;212
+110145 Parecis;14
+110018 Pimenta Bueno;174
+110146 Pimenteiras do Oeste;8
+110020 Porto Velho;2233
+110025 Presidente M�dici;108
+110147 Primavera de Rond�nia;21
+110026 Rio Crespo;15
+110028 Rolim de Moura;254
+110029 Santa Luzia D'Oeste;42
+110148 S�o Felipe D'Oeste;19
+110149 S�o Francisco do Guapor�;60
+110032 S�o Miguel do Guapor�;81
+110150 Seringueiras;47
+110155 Teixeir�polis;18
+110160 Theobroma;41
+110170 Urup�;55
+110175 Vale do Anari;40
+110180 Vale do Para�so;23
+110030 Vilhena;417
+110000 Munic�pio ignorado - RO;16
+120001 Acrel�ndia;52
+120005 Assis Brasil;34
+120010 Brasil�ia;96
+120013 Bujari;31
+120017 Capixaba;34
+120020 Cruzeiro do Sul;346
+120025 Epitaciol�ndia;68
+120030 Feij�;113
+120032 Jord�o;36
+120033 M�ncio Lima;45
+120034 Manoel Urbano;29
+120035 Marechal Thaumaturgo;29
+120038 Pl�cido de Castro;68
+120080 Porto Acre;62
+120039 Porto Walter;30
+120040 Rio Branco;1682
+120042 Rodrigues Alves;30
+120043 Santa Rosa do Purus;22
+120050 Sena Madureira;163
+120045 Senador Guiomard;88
+120060 Tarauac�;146
+120070 Xapuri;84
+120000 Munic�pio ignorado - AC;5
+130002 Alvar�es;25
+130006 Amatur�;24
+130008 Anam�;32
+130010 Anori;50
+130014 Apu�;54
+130020 Atalaia do Norte;46
+130030 Autazes;105
+130040 Barcelos;90
+130050 Barreirinha;84
+130060 Benjamin Constant;129
+130063 Beruri;36
+130068 Boa Vista do Ramos;54
+130070 Boca do Acre;105
+130080 Borba;107
+130083 Caapiranga;23
+130090 Canutama;30
+130100 Carauari;117
+130110 Careiro;105
+130115 Careiro da V�rzea;50
+130120 Coari;245
+130130 Codaj�s;48
+130140 Eirunep�;129
+130150 Envira;36
+130160 Fonte Boa;41
+130165 Guajar�;52
+130170 Humait�;172
+130180 Ipixuna;29
+130185 Iranduba;148
+130190 Itacoatiara;358
+130195 Itamarati;20
+130200 Itapiranga;35
+130210 Japur�;16
+130220 Juru�;28
+130230 Juta�;55
+130240 L�brea;137
+130250 Manacapuru;344
+130255 Manaquiri;51
+130260 Manaus;9315
+130270 Manicor�;134
+130280 Mara�;26
+130290 Mau�s;196
+130300 Nhamund�;58
+130310 Nova Olinda do Norte;84
+130320 Novo Air�o;44
+130330 Novo Aripuan�;54
+130340 Parintins;376
+130350 Pauini;36
+130353 Presidente Figueiredo;74
+130356 Rio Preto da Eva;73
+130360 Santa Isabel do Rio Negro;45
+130370 Santo Ant�nio do I��;71
+130380 S�o Gabriel da Cachoeira;231
+130390 S�o Paulo de Oliven�a;111
+130395 S�o Sebasti�o do Uatum�;23
+130400 Silves;37
+130406 Tabatinga;214
+130410 Tapau�;55
+130420 Tef�;227
+130423 Tonantins;28
+130426 Uarini;36
+130430 Urucar�;48
+130440 Urucurituba;33
+130000 Munic�pio ignorado - AM;8
+140005 Alto Alegre;98
+140002 Amajari;54
+140010 Boa Vista;1162
+140015 Bonfim;23
+140017 Cant�;57
+140020 Caracara�;71
+140023 Caroebe;32
+140028 Iracema;18
+140030 Mucaja�;49
+140040 Normandia;31
+140045 Pacaraima;35
+140047 Rorain�polis;86
+140050 S�o Jo�o da Baliza;29
+140060 S�o Luiz;14
+140070 Uiramut�;24
+150010 Abaetetuba;561
+150013 Abel Figueiredo;31
+150020 Acar�;151
+150030 Afu�;68
+150034 �gua Azul do Norte;45
+150040 Alenquer;221
+150050 Almeirim;116
+150060 Altamira;553
+150070 Anaj�s;82
+150080 Ananindeua;2391
+150085 Anapu;73
+150090 Augusto Corr�a;138
+150095 Aurora do Par�;83
+150100 Aveiro;37
+150110 Bagre;43
+150120 Bai�o;75
+150125 Bannach;12
+150130 Barcarena;372
+150140 Bel�m;8826
+150145 Belterra;71
+150150 Benevides;240
+150157 Bom Jesus do Tocantins;55
+150160 Bonito;42
+150170 Bragan�a;587
+150172 Brasil Novo;82
+150175 Brejo Grande do Araguaia;31
+150178 Breu Branco;152
+150180 Breves;329
+150190 Bujaru;95
+150200 Cachoeira do Arari;53
+150195 Cachoeira do Piri�;65
+150210 Camet�;442
+150215 Cana� dos Caraj�s;116
+150220 Capanema;386
+150230 Capit�o Po�o;160
+150240 Castanhal;901
+150250 Chaves;32
+150260 Colares;51
+150270 Concei��o do Araguaia;227
+150275 Conc�rdia do Par�;114
+150276 Cumaru do Norte;47
+150277 Curion�polis;111
+150280 Curralinho;60
+150285 Curu�;42
+150290 Curu��;155
+150293 Dom Eliseu;154
+150295 Eldorado do Caraj�s;160
+150300 Faro;23
+150304 Floresta do Araguaia;57
+150307 Garraf�o do Norte;94
+150309 Goian�sia do Par�;135
+150310 Gurup�;53
+150320 Igarap�-A�u;188
+150330 Igarap�-Miri;219
+150340 Inhangapi;46
+150345 Ipixuna do Par�;115
+150350 Irituia;109
+150360 Itaituba;464
+150370 Itupiranga;210
+150375 Jacareacanga;62
+150380 Jacund�;223
+150390 Juruti;81
+150400 Limoeiro do Ajuru;68
+150405 M�e do Rio;174
+150410 Magalh�es Barata;45
+150420 Marab�;1221
+150430 Maracan�;111
+150440 Marapanim;122
+150442 Marituba;529
+150445 Medicil�ndia;87
+150450 Melga�o;37
+150460 Mocajuba;88
+150470 Moju;189
+150480 Monte Alegre;196
+150490 Muan�;92
+150495 Nova Esperan�a do Piri�;58
+150497 Nova Ipixuna;55
+150500 Nova Timboteua;81
+150503 Novo Progresso;128
+150506 Novo Repartimento;171
+150510 �bidos;192
+150520 Oeiras do Par�;79
+150530 Oriximin�;233
+150540 Our�m;58
+150543 Ouril�ndia do Norte;135
+150548 Pacaj�;169
+150549 Palestina do Par�;45
+150550 Paragominas;414
+150553 Parauapebas;642
+150555 Pau D'Arco;30
+150560 Peixe-Boi;39
+150563 Pi�arra;34
+150565 Placas;54
+150570 Ponta de Pedras;68
+150580 Portel;157
+150590 Porto de Moz;91
+150600 Prainha;81
+150610 Primavera;52
+150611 Quatipuru;48
+150613 Reden��o;407
+150616 Rio Maria;79
+150618 Rondon do Par�;204
+150619 Rur�polis;108
+150620 Salin�polis;175
+150630 Salvaterra;100
+150635 Santa B�rbara do Par�;83
+150640 Santa Cruz do Arari;23
+150650 Santa Izabel do Par�;281
+150655 Santa Luzia do Par�;82
+150658 Santa Maria das Barreiras;78
+150660 Santa Maria do Par�;128
+150670 Santana do Araguaia;134
+150680 Santar�m;1346
+150690 Santar�m Novo;21
+150700 Santo Ant�nio do Tau�;136
+150710 S�o Caetano de Odivelas;89
+150715 S�o Domingos do Araguaia;101
+150720 S�o Domingos do Capim;106
+150730 S�o F�lix do Xingu;202
+150740 S�o Francisco do Par�;66
+150745 S�o Geraldo do Araguaia;113
+150746 S�o Jo�o da Ponta;18
+150747 S�o Jo�o de Pirabas;93
+150750 S�o Jo�o do Araguaia;56
+150760 S�o Miguel do Guam�;234
+150770 S�o Sebasti�o da Boa Vista;52
+150775 Sapucaia;23
+150780 Senador Jos� Porf�rio;42
+150790 Soure;74
+150795 Tail�ndia;275
+150796 Terra Alta;58
+150797 Terra Santa;48
+150800 Tom�-A�u;279
+150803 Tracuateua;117
+150805 Trair�o;53
+150808 Tucum�;136
+150810 Tucuru�;405
+150812 Ulian�polis;87
+150815 Uruar�;156
+150820 Vigia;209
+150830 Viseu;183
+150835 Vit�ria do Xingu;43
+150840 Xinguara;175
+150000 Munic�pio ignorado - PA;30
+160010 Amap�;26
+160020 Cal�oene;29
+160021 Cutias;14
+160023 Ferreira Gomes;13
+160025 Itaubal;8
+160027 Laranjal do Jari;124
+160030 Macap�;1674
+160040 Mazag�o;43
+160050 Oiapoque;68
+160015 Pedra Branca do Amapari;42
+160053 Porto Grande;55
+160055 Pracu�ba;4
+160060 Santana;424
+160005 Serra do Navio;7
+160070 Tartarugalzinho;31
+160080 Vit�ria do Jari;38
+160000 Munic�pio ignorado - AP;1
+170025 Abreul�ndia;4
+170030 Aguiarn�polis;21
+170035 Alian�a do Tocantins;27
+170040 Almas;43
+170070 Alvorada;52
+170100 Anan�s;40
+170105 Angico;15
+170110 Aparecida do Rio Negro;18
+170130 Aragominas;23
+170190 Araguacema;31
+170200 Aragua�u;43
+170210 Aragua�na;774
+170215 Araguan�;27
+170220 Araguatins;154
+170230 Arapoema;26
+170240 Arraias;63
+170255 Augustin�polis;68
+170270 Aurora do Tocantins;22
+170290 Axix� do Tocantins;61
+170300 Baba�ul�ndia;50
+170305 Bandeirantes do Tocantins;21
+170307 Barra do Ouro;11
+170310 Barrol�ndia;26
+170320 Bernardo Say�o;15
+170330 Bom Jesus do Tocantins;23
+170360 Brasil�ndia do Tocantins;13
+170370 Brejinho de Nazar�;33
+170380 Buriti do Tocantins;35
+170382 Cachoeirinha;10
+170384 Campos Lindos;37
+170386 Cariri do Tocantins;22
+170388 Carmol�ndia;16
+170389 Carrasco Bonito;14
+170390 Caseara;21
+170410 Centen�rio;18
+170510 Chapada da Natividade;21
+170460 Chapada de Areia;8
+170550 Colinas do Tocantins;181
+171670 Colm�ia;47
+170555 Combinado;19
+170560 Concei��o do Tocantins;15
+170600 Couto Magalh�es;22
+170610 Cristal�ndia;57
+170625 Crix�s do Tocantins;6
+170650 Darcin�polis;25
+170700 Dian�polis;102
+170710 Divin�polis do Tocantins;40
+170720 Dois Irm�os do Tocantins;40
+170730 Duer�;14
+170740 Esperantina;35
+170755 F�tima;13
+170765 Figueir�polis;27
+170770 Filad�lfia;55
+170820 Formoso do Araguaia;99
+170825 Fortaleza do Taboc�o;17
+170830 Goianorte;24
+170900 Goiatins;53
+170930 Guara�;127
+170950 Gurupi;388
+170980 Ipueiras;8
+171050 Itacaj�;44
+171070 Itaguatins;27
+171090 Itapiratins;11
+171110 Itapor� do Tocantins;5
+171150 Ja� do Tocantins;22
+171180 Juarina;10
+171190 Lagoa da Confus�o;41
+171195 Lagoa do Tocantins;10
+171200 Lajeado;14
+171215 Lavandeira;7
+171240 Lizarda;15
+171245 Luzin�polis;12
+171250 Marian�polis do Tocantins;22
+171270 Mateiros;11
+171280 Mauril�ndia do Tocantins;18
+171320 Miracema do Tocantins;116
+171330 Miranorte;79
+171360 Monte do Carmo;27
+171370 Monte Santo do Tocantins;11
+171395 Muricil�ndia;13
+171420 Natividade;56
+171430 Nazar�;23
+171488 Nova Olinda;47
+171500 Nova Rosal�ndia;21
+171510 Novo Acordo;25
+171515 Novo Alegre;11
+171525 Novo Jardim;15
+171550 Oliveira de F�tima;1
+172100 Palmas;789
+171570 Palmeirante;24
+171380 Palmeiras do Tocantins;22
+171575 Palmeir�polis;40
+171610 Para�so do Tocantins;205
+171620 Paran�;51
+171630 Pau D'Arco;25
+171650 Pedro Afonso;67
+171660 Peixe;49
+171665 Pequizeiro;15
+171700 Pindorama do Tocantins;20
+171720 Piraqu�;19
+171750 Pium;35
+171780 Ponte Alta do Bom Jesus;21
+171790 Ponte Alta do Tocantins;51
+171800 Porto Alegre do Tocantins;18
+171820 Porto Nacional;288
+171830 Praia Norte;32
+171840 Presidente Kennedy;20
+171845 Pugmil;6
+171850 Recursol�ndia;17
+171855 Riachinho;15
+171865 Rio da Concei��o;5
+171870 Rio dos Bois;12
+171875 Rio Sono;22
+171880 Sampaio;22
+171884 Sandol�ndia;20
+171886 Santa F� do Araguaia;24
+171888 Santa Maria do Tocantins;18
+171889 Santa Rita do Tocantins;8
+171890 Santa Rosa do Tocantins;19
+171900 Santa Tereza do Tocantins;10
+172000 Santa Terezinha do Tocantins;6
+172010 S�o Bento do Tocantins;19
+172015 S�o F�lix do Tocantins;7
+172020 S�o Miguel do Tocantins;42
+172025 S�o Salvador do Tocantins;13
+172030 S�o Sebasti�o do Tocantins;16
+172049 S�o Val�rio;28
+172065 Silvan�polis;26
+172080 S�tio Novo do Tocantins;36
+172085 Sucupira;7
+172090 Taguatinga;72
+172093 Taipas do Tocantins;7
+172097 Talism�;13
+172110 Tocant�nia;31
+172120 Tocantin�polis;138
+172125 Tupirama;5
+172130 Tupiratins;5
+172208 Wanderl�ndia;52
+172210 Xambio�;72
+170000 Munic�pio ignorado - TO;24
+210005 A�ail�ndia;455
+210010 Afonso Cunha;16
+210015 �gua Doce do Maranh�o;22
+210020 Alc�ntara;71
+210030 Aldeias Altas;87
+210040 Altamira do Maranh�o;19
+210043 Alto Alegre do Maranh�o;82
+210047 Alto Alegre do Pindar�;126
+210050 Alto Parna�ba;38
+210055 Amap� do Maranh�o;18
+210060 Amarante do Maranh�o;171
+210070 Anajatuba;77
+210080 Anapurus;49
+210083 Apicum-A�u;50
+210087 Araguan�;24
+210090 Araioses;139
+210095 Arame;120
+210100 Arari;114
+210110 Axix�;35
+210120 Bacabal;523
+210125 Bacabeira;56
+210130 Bacuri;66
+210135 Bacurituba;10
+210140 Balsas;372
+210150 Bar�o de Graja�;83
+210160 Barra do Corda;397
+210170 Barreirinhas;187
+210177 Bela Vista do Maranh�o;40
+210173 Bel�gua;19
+210180 Benedito Leite;20
+210190 Bequim�o;48
+210193 Bernardo do Mearim;25
+210197 Boa Vista do Gurupi;28
+210200 Bom Jardim;159
+210203 Bom Jesus das Selvas;97
+210207 Bom Lugar;43
+210210 Brejo;132
+210215 Brejo de Areia;38
+210220 Buriti;111
+210230 Buriti Bravo;92
+210232 Buriticupu;260
+210235 Buritirana;48
+210237 Cachoeira Grande;33
+210240 Cajapi�;32
+210250 Cajari;55
+210255 Campestre do Maranh�o;66
+210260 C�ndido Mendes;54
+210270 Cantanhede;87
+210275 Capinzal do Norte;58
+210280 Carolina;130
+210290 Carutapera;92
+210300 Caxias;894
+210310 Cedral;25
+210312 Central do Maranh�o;20
+210315 Centro do Guilherme;34
+210317 Centro Novo do Maranh�o;45
+210320 Chapadinha;352
+210325 Cidel�ndia;39
+210330 Cod�;556
+210340 Coelho Neto;236
+210350 Colinas;147
+210355 Concei��o do Lago-A�u;48
+210360 Coroat�;299
+210370 Cururupu;158
+210375 Davin�polis;63
+210380 Dom Pedro;112
+210390 Duque Bacelar;51
+210400 Esperantin�polis;73
+210405 Estreito;127
+210407 Feira Nova do Maranh�o;30
+210408 Fernando Falc�o;17
+210409 Formosa da Serra Negra;49
+210410 Fortaleza dos Nogueiras;40
+210420 Fortuna;78
+210430 Godofredo Viana;34
+210440 Gon�alves Dias;70
+210450 Governador Archer;40
+210455 Governador Edison Lob�o;89
+210460 Governador Eug�nio Barros;47
+210462 Governador Luiz Rocha;27
+210465 Governador Newton Bello;37
+210467 Governador Nunes Freire;92
+210470 Gra�a Aranha;19
+210480 Graja�;256
+210490 Guimar�es;54
+210500 Humberto de Campos;90
+210510 Icatu;72
+210515 Igarap� do Meio;49
+210520 Igarap� Grande;43
+210530 Imperatriz;1492
+210535 Itaipava do Graja�;43
+210540 Itapecuru Mirim;291
+210542 Itinga do Maranh�o;120
+210545 Jatob�;25
+210547 Jenipapo dos Vieiras;43
+210550 Jo�o Lisboa;106
+210560 Josel�ndia;90
+210565 Junco do Maranh�o;22
+210570 Lago da Pedra;199
+210580 Lago do Junco;42
+210594 Lago dos Rodrigues;41
+210590 Lago Verde;54
+210592 Lagoa do Mato;30
+210596 Lagoa Grande do Maranh�o;40
+210598 Lajeado Novo;29
+210600 Lima Campos;50
+210610 Loreto;41
+210620 Lu�s Domingues;30
+210630 Magalh�es de Almeida;63
+210632 Maraca�um�;86
+210635 Maraj� do Sena;23
+210637 Maranh�ozinho;51
+210640 Mata Roma;41
+210650 Matinha;77
+210660 Mat�es;104
+210663 Mat�es do Norte;29
+210667 Milagres do Maranh�o;15
+210670 Mirador;85
+210675 Miranda do Norte;108
+210680 Mirinzal;42
+210690 Mon��o;131
+210700 Montes Altos;40
+210710 Morros;46
+210720 Nina Rodrigues;34
+210725 Nova Colinas;22
+210730 Nova Iorque;19
+210735 Nova Olinda do Maranh�o;64
+210740 Olho d'�gua das Cunh�s;68
+210745 Olinda Nova do Maranh�o;43
+210750 Pa�o do Lumiar;402
+210760 Palmeir�ndia;65
+210770 Paraibano;94
+210780 Parnarama;147
+210790 Passagem Franca;68
+210800 Pastos Bons;96
+210805 Paulino Neves;41
+210810 Paulo Ramos;102
+210820 Pedreiras;206
+210825 Pedro do Ros�rio;52
+210830 Penalva;160
+210840 Peri Mirim;52
+210845 Peritor�;80
+210850 Pindar�-Mirim;166
+210860 Pinheiro;375
+210870 Pio XII;77
+210880 Pirapemas;64
+210890 Po��o de Pedras;80
+210900 Porto Franco;105
+210905 Porto Rico do Maranh�o;18
+210910 Presidente Dutra;229
+210920 Presidente Juscelino;30
+210923 Presidente M�dici;24
+210927 Presidente Sarney;40
+210930 Presidente Vargas;32
+210940 Primeira Cruz;34
+210945 Raposa;125
+210950 Riach�o;92
+210955 Ribamar Fiquene;38
+210960 Ros�rio;183
+210970 Samba�ba;30
+210975 Santa Filomena do Maranh�o;20
+210980 Santa Helena;125
+210990 Santa In�s;464
+211000 Santa Luzia;323
+211003 Santa Luzia do Paru�;85
+211010 Santa Quit�ria do Maranh�o;95
+211020 Santa Rita;124
+211023 Santana do Maranh�o;22
+211027 Santo Amaro do Maranh�o;21
+211030 Santo Ant�nio dos Lopes;68
+211040 S�o Benedito do Rio Preto;78
+211050 S�o Bento;125
+211060 S�o Bernardo;115
+211065 S�o Domingos do Azeit�o;25
+211070 S�o Domingos do Maranh�o;146
+211080 S�o F�lix de Balsas;25
+211085 S�o Francisco do Brej�o;34
+211090 S�o Francisco do Maranh�o;46
+211100 S�o Jo�o Batista;69
+211102 S�o Jo�o do Car�;24
+211105 S�o Jo�o do Para�so;35
+211107 S�o Jo�o do Soter;70
+211110 S�o Jo�o dos Patos;149
+211120 S�o Jos� de Ribamar;679
+211125 S�o Jos� dos Bas�lios;37
+211130 S�o Lu�s;5283
+211140 S�o Lu�s Gonzaga do Maranh�o;68
+211150 S�o Mateus do Maranh�o;205
+211153 S�o Pedro da �gua Branca;48
+211157 S�o Pedro dos Crentes;21
+211160 S�o Raimundo das Mangabeiras;93
+211163 S�o Raimundo do Doca Bezerra;21
+211167 S�o Roberto;19
+211170 S�o Vicente Ferrer;67
+211172 Satubinha;23
+211174 Senador Alexandre Costa;48
+211176 Senador La Rocque;88
+211178 Serrano do Maranh�o;34
+211180 S�tio Novo;70
+211190 Sucupira do Norte;38
+211195 Sucupira do Riach�o;24
+211200 Tasso Fragoso;30
+211210 Timbiras;95
+211220 Timon;868
+211223 Trizidela do Vale;112
+211227 Tufil�ndia;28
+211230 Tuntum;185
+211240 Turia�u;110
+211245 Turil�ndia;58
+211250 Tut�ia;174
+211260 Urbano Santos;57
+211270 Vargem Grande;180
+211280 Viana;229
+211285 Vila Nova dos Mart�rios;31
+211290 Vit�ria do Mearim;137
+211300 Vitorino Freire;159
+211400 Z� Doca;236
+210000 Munic�pio ignorado - MA;23
+220005 Acau�;33
+220010 Agricol�ndia;29
+220020 �gua Branca;101
+220025 Alagoinha do Piau�;42
+220027 Alegrete do Piau�;23
+220030 Alto Long�;83
+220040 Altos;226
+220045 Alvorada do Gurgu�ia;27
+220050 Amarante;104
+220060 Angical do Piau�;45
+220070 An�sio de Abreu;31
+220080 Ant�nio Almeida;25
+220090 Aroazes;36
+220095 Aroeiras do Itaim;10
+220100 Arraial;22
+220105 Assun��o do Piau�;34
+220110 Avelino Lopes;45
+220115 Baixa Grande do Ribeiro;38
+220117 Barra D'Alc�ntara;20
+220120 Barras;208
+220130 Barreiras do Piau�;20
+220140 Barro Duro;44
+220150 Batalha;126
+220155 Bela Vista do Piau�;19
+220157 Bel�m do Piau�;18
+220160 Beneditinos;70
+220170 Bertol�nia;28
+220173 Bet�nia do Piau�;38
+220177 Boa Hora;26
+220180 Bocaina;36
+220190 Bom Jesus;92
+220191 Bom Princ�pio do Piau�;32
+220192 Bonfim do Piau�;30
+220194 Boqueir�o do Piau�;45
+220196 Brasileira;31
+220198 Brejo do Piau�;18
+220200 Buriti dos Lopes;118
+220202 Buriti dos Montes;25
+220205 Cabeceiras do Piau�;40
+220207 Cajazeiras do Piau�;18
+220208 Cajueiro da Praia;42
+220209 Caldeir�o Grande do Piau�;25
+220210 Campinas do Piau�;29
+220211 Campo Alegre do Fidalgo;23
+220213 Campo Grande do Piau�;24
+220217 Campo Largo do Piau�;26
+220220 Campo Maior;296
+220225 Canavieira;20
+220230 Canto do Buriti;119
+220240 Capit�o de Campos;62
+220245 Capit�o Gerv�sio Oliveira;16
+220250 Caracol;43
+220253 Cara�bas do Piau�;32
+220255 Caridade do Piau�;19
+220260 Castelo do Piau�;130
+220265 Caxing�;22
+220270 Cocal;136
+220271 Cocal de Telha;20
+220272 Cocal dos Alves;25
+220273 Coivaras;26
+220275 Col�nia do Gurgu�ia;33
+220277 Col�nia do Piau�;36
+220280 Concei��o do Canind�;32
+220285 Coronel Jos� Dias;21
+220290 Corrente;135
+220300 Cristal�ndia do Piau�;26
+220310 Cristino Castro;59
+220320 Curimat�;43
+220323 Currais;19
+220327 Curral Novo do Piau�;20
+220325 Curralinhos;16
+220330 Demerval Lob�o;86
+220335 Dirceu Arcoverde;36
+220340 Dom Expedito Lopes;41
+220345 Dom Inoc�ncio;52
+220342 Domingos Mour�o;32
+220350 Elesb�o Veloso;104
+220360 Eliseu Martins;22
+220370 Esperantina;191
+220375 Fartura do Piau�;22
+220380 Flores do Piau�;30
+220385 Floresta do Piau�;14
+220390 Floriano;356
+220400 Francin�polis;27
+220410 Francisco Ayres;38
+220415 Francisco Macedo;13
+220420 Francisco Santos;46
+220430 Fronteiras;57
+220435 Geminiano;38
+220440 Gilbu�s;46
+220450 Guadalupe;65
+220455 Guaribas;13
+220460 Hugo Napole�o;29
+220465 Ilha Grande;68
+220470 Inhuma;70
+220480 Ipiranga do Piau�;56
+220490 Isa�as Coelho;38
+220500 Itain�polis;73
+220510 Itaueira;70
+220515 Jacobina do Piau�;19
+220520 Jaic�s;89
+220525 Jardim do Mulato;25
+220527 Jatob� do Piau�;26
+220530 Jerumenha;21
+220535 Jo�o Costa;17
+220540 Joaquim Pires;68
+220545 Joca Marques;21
+220550 Jos� de Freitas;181
+220551 Juazeiro do Piau�;27
+220552 J�lio Borges;24
+220553 Jurema;32
+220555 Lagoa Alegre;34
+220557 Lagoa de S�o Francisco;31
+220556 Lagoa do Barro do Piau�;26
+220558 Lagoa do Piau�;17
+220559 Lagoa do S�tio;22
+220554 Lagoinha do Piau�;15
+220560 Landri Sales;36
+220570 Lu�s Correia;133
+220580 Luzil�ndia;147
+220585 Madeiro;38
+220590 Manoel Em�dio;31
+220595 Marcol�ndia;54
+220600 Marcos Parente;26
+220605 Massap� do Piau�;39
+220610 Matias Ol�mpio;45
+220620 Miguel Alves;140
+220630 Miguel Le�o;5
+220635 Milton Brand�o;26
+220640 Monsenhor Gil;52
+220650 Monsenhor Hip�lito;44
+220660 Monte Alegre do Piau�;45
+220665 Morro Cabe�a no Tempo;19
+220667 Morro do Chap�u do Piau�;29
+220669 Murici dos Portelas;24
+220670 Nazar� do Piau�;61
+220672 Naz�ria;56
+220675 Nossa Senhora de Nazar�;24
+220680 Nossa Senhora dos Rem�dios;44
+220795 Nova Santa Rita;23
+220690 Novo Oriente do Piau�;44
+220695 Novo Santo Ant�nio;18
+220700 Oeiras;248
+220710 Olho D'�gua do Piau�;13
+220720 Padre Marcos;50
+220730 Paes Landim;22
+220735 Paje� do Piau�;21
+220740 Palmeira do Piau�;30
+220750 Palmeirais;75
+220755 Paquet�;19
+220760 Parnagu�;37
+220770 Parna�ba;844
+220775 Passagem Franca do Piau�;18
+220777 Patos do Piau�;46
+220779 Pau D'Arco do Piau�;25
+220780 Paulistana;102
+220785 Pavussu;27
+220790 Pedro II;204
+220793 Pedro Laurentino;8
+220800 Picos;470
+220810 Pimenteiras;71
+220820 Pio IX;78
+220830 Piracuruca;162
+220840 Piripiri;400
+220850 Porto;52
+220855 Porto Alegre do Piau�;16
+220860 Prata do Piau�;20
+220865 Queimada Nova;36
+220870 Reden��o do Gurgu�ia;41
+220880 Regenera��o;121
+220885 Riacho Frio;22
+220887 Ribeira do Piau�;13
+220890 Ribeiro Gon�alves;24
+220900 Rio Grande do Piau�;41
+220910 Santa Cruz do Piau�;34
+220915 Santa Cruz dos Milagres;16
+220920 Santa Filomena;25
+220930 Santa Luz;28
+220937 Santa Rosa do Piau�;28
+220935 Santana do Piau�;23
+220940 Santo Ant�nio de Lisboa;50
+220945 Santo Ant�nio dos Milagres;13
+220950 Santo In�cio do Piau�;20
+220955 S�o Braz do Piau�;33
+220960 S�o F�lix do Piau�;20
+220965 S�o Francisco de Assis do Piau�;31
+220970 S�o Francisco do Piau�;34
+220975 S�o Gon�alo do Gurgu�ia;13
+220980 S�o Gon�alo do Piau�;25
+220985 S�o Jo�o da Canabrava;27
+220987 S�o Jo�o da Fronteira;21
+220990 S�o Jo�o da Serra;32
+220995 S�o Jo�o da Varjota;24
+220997 S�o Jo�o do Arraial;32
+221000 S�o Jo�o do Piau�;110
+221005 S�o Jos� do Divino;27
+221010 S�o Jos� do Peixe;22
+221020 S�o Jos� do Piau�;49
+221030 S�o Juli�o;40
+221035 S�o Louren�o do Piau�;23
+221037 S�o Luis do Piau�;20
+221038 S�o Miguel da Baixa Grande;14
+221039 S�o Miguel do Fidalgo;12
+221040 S�o Miguel do Tapuio;89
+221050 S�o Pedro do Piau�;78
+221060 S�o Raimundo Nonato;173
+221062 Sebasti�o Barros;8
+221063 Sebasti�o Leal;15
+221065 Sigefredo Pacheco;50
+221070 Sim�es;74
+221080 Simpl�cio Mendes;86
+221090 Socorro do Piau�;30
+221093 Sussuapara;37
+221095 Tamboril do Piau�;15
+221097 Tanque do Piau�;8
+221100 Teresina;4611
+221110 Uni�o;266
+221120 Uru�u�;116
+221130 Valen�a do Piau�;161
+221135 V�rzea Branca;20
+221140 V�rzea Grande;48
+221150 Vera Mendes;22
+221160 Vila Nova do Piau�;12
+221170 Wall Ferraz;23
+220000 Munic�pio ignorado - PI;43
+230010 Abaiara;45
+230015 Acarape;77
+230020 Acara�;279
+230030 Acopiara;336
+230040 Aiuaba;67
+230050 Alc�ntaras;56
+230060 Altaneira;50
+230070 Alto Santo;80
+230075 Amontada;182
+230080 Antonina do Norte;47
+230090 Apuiar�s;56
+230100 Aquiraz;383
+230110 Aracati;396
+230120 Aracoiaba;154
+230125 Ararend�;75
+230130 Araripe;131
+230140 Aratuba;67
+230150 Arneiroz;41
+230160 Assar�;132
+230170 Aurora;148
+230180 Baixio;33
+230185 Banabui�;78
+230190 Barbalha;340
+230195 Barreira;107
+230200 Barro;138
+230205 Barroquinha;76
+230210 Baturit�;190
+230220 Beberibe;246
+230230 Bela Cruz;160
+230240 Boa Viagem;313
+230250 Brejo Santo;273
+230260 Camocim;338
+230270 Campos Sales;183
+230280 Canind�;460
+230290 Capistrano;103
+230300 Caridade;115
+230310 Carir�;105
+230320 Cariria�u;177
+230330 Cari�s;119
+230340 Carnaubal;87
+230350 Cascavel;351
+230360 Catarina;54
+230365 Catunda;52
+230370 Caucaia;1521
+230380 Cedro;182
+230390 Chaval;60
+230393 Chor�;71
+230395 Chorozinho;107
+230400 Corea�;103
+230410 Crate�s;494
+230420 Crato;767
+230423 Croat�;103
+230425 Cruz;116
+230426 Deputado Irapuan Pinheiro;69
+230427 Erer�;36
+230428 Eus�bio;247
+230430 Farias Brito;124
+230435 Forquilha;124
+230440 Fortaleza;14512
+230445 Fortim;54
+230450 Frecheirinha;72
+230460 General Sampaio;33
+230465 Gra�a;84
+230470 Granja;230
+230480 Granjeiro;14
+230490 Groa�ras;72
+230495 Guai�ba;120
+230500 Guaraciaba do Norte;273
+230510 Guaramiranga;33
+230520 Hidrol�ndia;124
+230523 Horizonte;301
+230526 Ibaretama;60
+230530 Ibiapina;145
+230533 Ibicuitinga;68
+230535 Icapu�;100
+230540 Ic�;422
+230550 Iguatu;624
+230560 Independ�ncia;176
+230565 Ipaporanga;75
+230570 Ipaumirim;76
+230580 Ipu;253
+230590 Ipueiras;239
+230600 Iracema;114
+230610 Irau�uba;98
+230620 Itai�aba;47
+230625 Itaitinga;168
+230630 Itapag�;279
+230640 Itapipoca;630
+230650 Itapi�na;94
+230655 Itarema;195
+230660 Itatira;91
+230670 Jaguaretama;129
+230680 Jaguaribara;59
+230690 Jaguaribe;222
+230700 Jaguaruana;203
+230710 Jardim;162
+230720 Jati;41
+230725 Jijoca de Jericoacoara;60
+230730 Juazeiro do Norte;1570
+230740 Juc�s;172
+230750 Lavras da Mangabeira;180
+230760 Limoeiro do Norte;344
+230763 Madalena;88
+230765 Maracana�;1130
+230770 Maranguape;588
+230780 Marco;128
+230790 Martin�pole;56
+230800 Massap�;174
+230810 Mauriti;254
+230820 Meruoca;73
+230830 Milagres;162
+230835 Milh�;102
+230837 Mira�ma;57
+230840 Miss�o Velha;214
+230850 Momba�a;255
+230860 Monsenhor Tabosa;105
+230870 Morada Nova;376
+230880 Mora�jo;38
+230890 Morrinhos;97
+230900 Mucambo;112
+230910 Mulungu;53
+230920 Nova Olinda;72
+230930 Nova Russas;235
+230940 Novo Oriente;145
+230945 Ocara;145
+230950 Or�s;167
+230960 Pacajus;310
+230970 Pacatuba;273
+230980 Pacoti;45
+230990 Pacuj�;43
+231000 Palhano;55
+231010 Palm�cia;70
+231020 Paracuru;170
+231025 Paraipaba;164
+231030 Parambu;188
+231040 Paramoti;63
+231050 Pedra Branca;240
+231060 Penaforte;54
+231070 Pentecoste;215
+231080 Pereiro;90
+231085 Pindoretama;145
+231090 Piquet Carneiro;114
+231095 Pires Ferreira;63
+231100 Poranga;84
+231110 Porteiras;96
+231120 Potengi;57
+231123 Potiretama;28
+231126 Quiterian�polis;112
+231130 Quixad�;478
+231135 Quixel�;112
+231140 Quixeramobim;396
+231150 Quixer�;119
+231160 Reden��o;174
+231170 Reriutaba;120
+231180 Russas;405
+231190 Saboeiro;82
+231195 Salitre;78
+231220 Santa Quit�ria;228
+231200 Santana do Acara�;157
+231210 Santana do Cariri;89
+231230 S�o Benedito;313
+231240 S�o Gon�alo do Amarante;218
+231250 S�o Jo�o do Jaguaribe;58
+231260 S�o Lu�s do Curu;69
+231270 Senador Pompeu;206
+231280 Senador S�;32
+231290 Sobral;1042
+231300 Solon�pole;125
+231310 Tabuleiro do Norte;200
+231320 Tamboril;157
+231325 Tarrafas;33
+231330 Tau�;366
+231335 Teju�uoca;84
+231340 Tiangu�;334
+231350 Trairi;223
+231355 Tururu;93
+231360 Ubajara;179
+231370 Umari;52
+231375 Umirim;107
+231380 Uruburetama;104
+231390 Uruoca;60
+231395 Varjota;131
+231400 V�rzea Alegre;255
+231410 Vi�osa do Cear�;282
+230000 Munic�pio ignorado - CE;4
+240010 Acari;80
+240020 A�u;241
+240030 Afonso Bezerra;49
+240040 �gua Nova;12
+240050 Alexandria;85
+240060 Almino Afonso;29
+240070 Alto do Rodrigues;67
+240080 Angicos;60
+240090 Ant�nio Martins;49
+240100 Apodi;177
+240110 Areia Branca;166
+240120 Ar�s;54
+240130 Augusto Severo;58
+240140 Ba�a Formosa;44
+240145 Bara�na;132
+240150 Barcelona;26
+240160 Bento Fernandes;28
+240165 Bod�;10
+240170 Bom Jesus;41
+240180 Brejinho;44
+240185 Cai�ara do Norte;24
+240190 Cai�ara do Rio do Vento;10
+240200 Caic�;388
+240210 Campo Redondo;69
+240220 Canguaretama;154
+240230 Cara�bas;151
+240240 Carna�ba dos Dantas;41
+240250 Carnaubais;47
+240260 Cear�-Mirim;407
+240270 Cerro Cor�;69
+240280 Coronel Ezequiel;28
+240290 Coronel Jo�o Pessoa;28
+240300 Cruzeta;62
+240310 Currais Novos;283
+240320 Doutor Severiano;35
+240330 Encanto;38
+240340 Equador;37
+240350 Esp�rito Santo;44
+240360 Extremoz;155
+240370 Felipe Guerra;46
+240375 Fernando Pedroza;19
+240380 Flor�nia;66
+240390 Francisco Dantas;19
+240400 Frutuoso Gomes;30
+240410 Galinhos;11
+240420 Goianinha;108
+240430 Governador Dix-Sept Rosado;62
+240440 Grossos;56
+240450 Guamar�;73
+240460 Ielmo Marinho;47
+240470 Ipangua�u;59
+240480 Ipueira;9
+240485 Itaj�;29
+240490 Ita�;43
+240500 Ja�an�;56
+240510 Janda�ra;27
+240520 Jandu�s;38
+240530 Janu�rio Cicco;44
+240540 Japi;22
+240550 Jardim de Angicos;10
+240560 Jardim de Piranhas;76
+240570 Jardim do Serid�;93
+240580 Jo�o C�mara;189
+240590 Jo�o Dias;9
+240600 Jos� da Penha;38
+240610 Jucurutu;124
+240615 Jundi�;15
+240620 Lagoa d'Anta;36
+240630 Lagoa de Pedras;46
+240640 Lagoa de Velhos;14
+240650 Lagoa Nova;70
+240660 Lagoa Salgada;47
+240670 Lajes;68
+240680 Lajes Pintadas;40
+240690 Lucr�cia;20
+240700 Lu�s Gomes;74
+240710 Maca�ba;372
+240720 Macau;144
+240725 Major Sales;27
+240730 Marcelino Vieira;48
+240740 Martins;57
+240750 Maxaranguape;42
+240760 Messias Targino;25
+240770 Montanhas;66
+240780 Monte Alegre;92
+240790 Monte das Gameleiras;10
+240800 Mossor�;1456
+240810 Natal;4887
+240820 N�sia Floresta;127
+240830 Nova Cruz;187
+240840 Olho-d'�gua do Borges;27
+240850 Ouro Branco;34
+240860 Paran�;19
+240870 Para�;30
+240880 Parazinho;28
+240890 Parelhas;129
+240325 Parnamirim;926
+240910 Passa e Fica;68
+240920 Passagem;19
+240930 Patu;85
+240940 Pau dos Ferros;144
+240950 Pedra Grande;13
+240960 Pedra Preta;7
+240970 Pedro Avelino;22
+240980 Pedro Velho;109
+240990 Pend�ncias;74
+241000 Pil�es;27
+241010 Po�o Branco;52
+241020 Portalegre;34
+241025 Porto do Mangue;31
+241040 Pureza;27
+241050 Rafael Fernandes;42
+241060 Rafael Godeiro;19
+241070 Riacho da Cruz;21
+241080 Riacho de Santana;22
+241090 Riachuelo;43
+240895 Rio do Fogo;46
+241100 Rodolfo Fernandes;38
+241110 Ruy Barbosa;13
+241120 Santa Cruz;198
+240933 Santa Maria;20
+241140 Santana do Matos;76
+241142 Santana do Serid�;13
+241150 Santo Ant�nio;144
+241160 S�o Bento do Norte;15
+241170 S�o Bento do Trair�;17
+241180 S�o Fernando;23
+241190 S�o Francisco do Oeste;28
+241200 S�o Gon�alo do Amarante;415
+241210 S�o Jo�o do Sabugi;50
+241220 S�o Jos� de Mipibu;231
+241230 S�o Jos� do Campestre;71
+241240 S�o Jos� do Serid�;32
+241250 S�o Miguel;157
+241255 S�o Miguel do Gostoso;33
+241260 S�o Paulo do Potengi;96
+241270 S�o Pedro;20
+241280 S�o Rafael;60
+241290 S�o Tom�;70
+241300 S�o Vicente;45
+241310 Senador El�i de Souza;21
+241320 Senador Georgino Avelino;22
+241030 Serra Caiada;44
+241330 Serra de S�o Bento;32
+241335 Serra do Mel;42
+241340 Serra Negra do Norte;32
+241350 Serrinha;33
+241355 Serrinha dos Pintos;24
+241360 Severiano Melo;18
+241370 S�tio Novo;20
+241380 Taboleiro Grande;13
+241390 Taipu;69
+241400 Tangar�;75
+241410 Tenente Ananias;52
+241415 Tenente Laurentino Cruz;28
+241105 Tibau;29
+241420 Tibau do Sul;43
+241430 Timba�ba dos Batistas;18
+241440 Touros;160
+241445 Triunfo Potiguar;15
+241450 Umarizal;84
+241460 Upanema;56
+241470 V�rzea;27
+241475 Venha-Ver;14
+241480 Vera Cruz;66
+241490 Vi�osa;6
+241500 Vila Flor;12
+240000 Munic�pio ignorado - RN;10
+250010 �gua Branca;47
+250020 Aguiar;46
+250030 Alagoa Grande;231
+250040 Alagoa Nova;152
+250050 Alagoinha;82
+250053 Alcantil;49
+250057 Algod�o de Janda�ra;7
+250060 Alhandra;125
+250073 Amparo;14
+250077 Aparecida;49
+250080 Ara�agi;135
+250090 Arara;124
+250100 Araruna;72
+250110 Areia;180
+250115 Areia de Bara�nas;16
+250120 Areial;56
+250130 Aroeiras;108
+250135 Assun��o;34
+250140 Ba�a da Trai��o;43
+250150 Bananeiras;141
+250153 Bara�na;21
+250160 Barra de Santa Rosa;101
+250157 Barra de Santana;67
+250170 Barra de S�o Miguel;26
+250180 Bayeux;644
+250190 Bel�m;152
+250200 Bel�m do Brejo do Cruz;34
+250205 Bernardino Batista;17
+250210 Boa Ventura;31
+250215 Boa Vista;40
+250220 Bom Jesus;27
+250230 Bom Sucesso;28
+250240 Bonito de Santa F�;55
+250250 Boqueir�o;106
+250270 Borborema;24
+250280 Brejo do Cruz;83
+250290 Brejo dos Santos;36
+250300 Caapor�;109
+250310 Cabaceiras;34
+250320 Cabedelo;359
+250330 Cachoeira dos �ndios;74
+250340 Cacimba de Areia;15
+250350 Cacimba de Dentro;87
+250355 Cacimbas;45
+250360 Cai�ara;56
+250370 Cajazeiras;387
+250375 Cajazeirinhas;12
+250380 Caldas Brand�o;28
+250390 Camala�;56
+250400 Campina Grande;2687
+250403 Capim;31
+250407 Cara�bas;22
+250410 Carrapateira;9
+250415 Casserengue;46
+250420 Catingueira;34
+250430 Catol� do Rocha;188
+250435 Caturit�;27
+250440 Concei��o;126
+250450 Condado;40
+250460 Conde;143
+250470 Congo;44
+250480 Coremas;103
+250485 Coxixola;14
+250490 Cruz do Esp�rito Santo;110
+250500 Cubati;68
+250510 Cuit�;157
+250523 Cuit� de Mamanguape;21
+250520 Cuitegi;58
+250527 Curral de Cima;46
+250530 Curral Velho;9
+250535 Dami�o;28
+250540 Desterro;60
+250560 Diamante;35
+250570 Dona In�s;59
+250580 Duas Estradas;46
+250590 Emas;12
+250600 Esperan�a;218
+250610 Fagundes;109
+250620 Frei Martinho;28
+250625 Gado Bravo;31
+250630 Guarabira;366
+250640 Gurinh�m;80
+250650 Gurj�o;21
+250660 Ibiara;49
+250260 Igaracy;42
+250670 Imaculada;64
+250680 Ing�;108
+250690 Itabaiana;176
+250700 Itaporanga;119
+250710 Itapororoca;106
+250720 Itatuba;75
+250730 Jacara�;96
+250740 Jeric�;45
+250750 Jo�o Pessoa;4742
+251365 Joca Claudino;12
+250760 Juarez T�vora;51
+250770 Juazeirinho;107
+250780 Junco do Serid�;29
+250790 Juripiranga;74
+250800 Juru;56
+250810 Lagoa;17
+250820 Lagoa de Dentro;63
+250830 Lagoa Seca;177
+250840 Lastro;14
+250850 Livramento;61
+250855 Logradouro;17
+250860 Lucena;63
+250870 M�e d'�gua;31
+250880 Malta;36
+250890 Mamanguape;289
+250900 Mana�ra;49
+250905 Marca��o;35
+250910 Mari;160
+250915 Mariz�polis;35
+250920 Massaranduba;79
+250930 Mataraca;35
+250933 Matinhas;25
+250937 Mato Grosso;18
+250939 Matur�ia;48
+250940 Mogeiro;79
+250950 Montadas;38
+250960 Monte Horebe;26
+250970 Monteiro;243
+250980 Mulungu;65
+250990 Natuba;49
+251000 Nazarezinho;47
+251010 Nova Floresta;83
+251020 Nova Olinda;26
+251030 Nova Palmeira;27
+251040 Olho d'�gua;34
+251050 Olivedos;19
+251060 Ouro Velho;26
+251065 Parari;5
+251070 Passagem;18
+251080 Patos;726
+251090 Paulista;62
+251100 Pedra Branca;20
+251110 Pedra Lavrada;32
+251120 Pedras de Fogo;176
+251272 Pedro R�gis;27
+251130 Pianc�;119
+251140 Picu�;138
+251150 Pilar;64
+251160 Pil�es;43
+251170 Pil�ezinhos;29
+251180 Pirpirituba;69
+251190 Pitimbu;79
+251200 Pocinhos;99
+251203 Po�o Dantas;20
+251207 Po�o de Jos� de Moura;27
+251210 Pombal;237
+251220 Prata;27
+251230 Princesa Isabel;141
+251240 Puxinan�;64
+251250 Queimadas;261
+251260 Quixab�;6
+251270 Rem�gio;139
+251274 Riach�o;17
+251275 Riach�o do Bacamarte;26
+251276 Riach�o do Po�o;19
+251278 Riacho de Santo Ant�nio;5
+251280 Riacho dos Cavalos;44
+251290 Rio Tinto;173
+251300 Salgadinho;11
+251310 Salgado de S�o F�lix;80
+251315 Santa Cec�lia;23
+251320 Santa Cruz;61
+251330 Santa Helena;42
+251335 Santa In�s;7
+251340 Santa Luzia;111
+251370 Santa Rita;971
+251380 Santa Teresinha;31
+251350 Santana de Mangueira;31
+251360 Santana dos Garrotes;50
+251385 Santo Andr�;23
+251392 S�o Bentinho;15
+251390 S�o Bento;141
+251396 S�o Domingos;17
+251394 S�o Domingos do Cariri;9
+251398 S�o Francisco;43
+251400 S�o Jo�o do Cariri;29
+250070 S�o Jo�o do Rio do Peixe;127
+251410 S�o Jo�o do Tigre;31
+251420 S�o Jos� da Lagoa Tapada;53
+251430 S�o Jos� de Caiana;24
+251440 S�o Jos� de Espinharas;21
+251450 S�o Jos� de Piranhas;121
+251455 S�o Jos� de Princesa;15
+251460 S�o Jos� do Bonfim;18
+251465 S�o Jos� do Brejo do Cruz;6
+251470 S�o Jos� do Sabugi;17
+251480 S�o Jos� dos Cordeiros;28
+251445 S�o Jos� dos Ramos;33
+251490 S�o Mamede;44
+251500 S�o Miguel de Taipu;43
+251510 S�o Sebasti�o de Lagoa de Ro�a;77
+251520 S�o Sebasti�o do Umbuzeiro;14
+251540 S�o Vicente do Serid�;44
+251530 Sap�;423
+251550 Serra Branca;103
+251560 Serra da Raiz;15
+251570 Serra Grande;17
+251580 Serra Redonda;51
+251590 Serraria;39
+251593 Sert�ozinho;29
+251597 Sobrado;45
+251600 Sol�nea;223
+251610 Soledade;114
+251615 Soss�go;15
+251620 Sousa;436
+251630 Sum�;141
+251640 Tacima;57
+251650 Tapero�;108
+251660 Tavares;88
+251670 Teixeira;114
+251675 Ten�rio;7
+251680 Triunfo;47
+251690 Uira�na;91
+251700 Umbuzeiro;54
+251710 V�rzea;22
+251720 Vieir�polis;31
+250550 Vista Serrana;22
+251740 Zabel�;18
+250000 Munic�pio ignorado - PB;29
+260005 Abreu e Lima;623
+260010 Afogados da Ingazeira;259
+260020 Afr�nio;82
+260030 Agrestina;195
+260040 �gua Preta;180
+260050 �guas Belas;301
+260060 Alagoinha;88
+260070 Alian�a;253
+260080 Altinho;156
+260090 Amaraji;131
+260100 Angelim;88
+260105 Ara�oiaba;119
+260110 Araripina;448
+260120 Arcoverde;470
+260130 Barra de Guabiraba;79
+260140 Barreiros;298
+260150 Bel�m de Maria;73
+260160 Bel�m do S�o Francisco;86
+260170 Belo Jardim;593
+260180 Bet�nia;71
+260190 Bezerros;568
+260200 Bodoc�;185
+260210 Bom Conselho;333
+260220 Bom Jardim;289
+260230 Bonito;273
+260240 Brej�o;79
+260250 Brejinho;50
+260260 Brejo da Madre de Deus;331
+260270 Buenos Aires;71
+260280 Bu�que;274
+260290 Cabo de Santo Agostinho;1236
+260300 Cabrob�;161
+260310 Cachoeirinha;137
+260320 Caet�s;170
+260330 Cal�ado;64
+260340 Calumbi;47
+260345 Camaragibe;863
+260350 Camocim de S�o F�lix;122
+260360 Camutanga;63
+260370 Canhotinho;199
+260380 Capoeiras;125
+260390 Carna�ba;138
+260392 Carnaubeira da Penha;66
+260400 Carpina;520
+260410 Caruaru;2033
+260415 Casinhas;79
+260420 Catende;252
+260430 Cedro;59
+260440 Ch� de Alegria;79
+260450 Ch� Grande;129
+260460 Condado;174
+260470 Correntes;89
+260480 Cort�s;73
+260490 Cumaru;89
+260500 Cupira;221
+260510 Cust�dia;209
+260515 Dormentes;68
+260520 Escada;441
+260530 Exu;160
+260540 Feira Nova;143
+260545 Fernando de Noronha;7
+260550 Ferreiros;81
+260560 Flores;171
+260570 Floresta;161
+260580 Frei Miguelinho;114
+260590 Gameleira;145
+260600 Garanhuns;865
+260610 Gl�ria do Goit�;163
+260620 Goiana;471
+260630 Granito;28
+260640 Gravat�;590
+260650 Iati;80
+260660 Ibimirim;174
+260670 Ibirajuba;64
+260680 Igarassu;570
+260690 Iguaracy;66
+260760 Ilha de Itamarac�;112
+260700 Inaj�;79
+260710 Ingazeira;31
+260720 Ipojuca;466
+260730 Ipubi;170
+260740 Itacuruba;27
+260750 Ita�ba;142
+260765 Itamb�;247
+260770 Itapetim;119
+260775 Itapissuma;145
+260780 Itaquitinga;97
+260790 Jaboat�o dos Guararapes;3644
+260795 Jaqueira;68
+260800 Jata�ba;118
+260805 Jatob�;77
+260810 Jo�o Alfredo;234
+260820 Joaquim Nabuco;75
+260825 Jucati;74
+260830 Jupi;128
+260840 Jurema;122
+260850 Lagoa de Itaenga;160
+260845 Lagoa do Carro;79
+260860 Lagoa do Ouro;87
+260870 Lagoa dos Gatos;119
+260875 Lagoa Grande;94
+260880 Lajedo;309
+260890 Limoeiro;454
+260900 Macaparana;187
+260910 Machados;92
+260915 Manari;55
+260920 Maraial;72
+260930 Mirandiba;77
+261430 Moreil�ndia;64
+260940 Moreno;338
+260950 Nazar� da Mata;217
+260960 Olinda;2834
+260970 Orob�;162
+260980 Oroc�;50
+260990 Ouricuri;361
+261000 Palmares;427
+261010 Palmeirina;78
+261020 Panelas;220
+261030 Paranatama;91
+261040 Parnamirim;108
+261050 Passira;230
+261060 Paudalho;342
+261070 Paulista;1837
+261080 Pedra;156
+261090 Pesqueira;514
+261100 Petrol�ndia;175
+261110 Petrolina;1300
+261120 Po��o;100
+261130 Pombos;174
+261140 Primavera;69
+261150 Quipap�;161
+261153 Quixaba;32
+261160 Recife;10702
+261170 Riacho das Almas;144
+261180 Ribeir�o;253
+261190 Rio Formoso;137
+261200 Sair�;57
+261210 Salgadinho;38
+261220 Salgueiro;328
+261230 Salo�;117
+261240 Sanhar�;127
+261245 Santa Cruz;80
+261247 Santa Cruz da Baixa Verde;81
+261250 Santa Cruz do Capibaribe;398
+261255 Santa Filomena;49
+261260 Santa Maria da Boa Vista;192
+261270 Santa Maria do Cambuc�;99
+261280 Santa Terezinha;59
+261290 S�o Benedito do Sul;71
+261300 S�o Bento do Una;289
+261310 S�o Caitano;282
+261320 S�o Jo�o;103
+261330 S�o Joaquim do Monte;159
+261340 S�o Jos� da Coroa Grande;120
+261350 S�o Jos� do Belmonte;180
+261360 S�o Jos� do Egito;223
+261370 S�o Louren�o da Mata;590
+261380 S�o Vicente Ferrer;117
+261390 Serra Talhada;496
+261400 Serrita;79
+261410 Sert�nia;241
+261420 Sirinha�m;189
+261440 Solid�o;34
+261450 Surubim;392
+261460 Tabira;214
+261470 Tacaimb�;60
+261480 Tacaratu;124
+261485 Tamandar�;123
+261500 Taquaritinga do Norte;140
+261510 Terezinha;55
+261520 Terra Nova;55
+261530 Timba�ba;386
+261540 Toritama;182
+261550 Tracunha�m;71
+261560 Trindade;160
+261570 Triunfo;143
+261580 Tupanatinga;123
+261590 Tuparetama;78
+261600 Venturosa;116
+261610 Verdejante;62
+261618 Vertente do L�rio;62
+261620 Vertentes;142
+261630 Vic�ncia;163
+261640 Vit�ria de Santo Ant�o;915
+261650 Xex�u;100
+260000 Munic�pio ignorado - PE;227
+270010 �gua Branca;115
+270020 Anadia;108
+270030 Arapiraca;1280
+270040 Atalaia;246
+270050 Barra de Santo Ant�nio;76
+270060 Barra de S�o Miguel;37
+270070 Batalha;57
+270080 Bel�m;33
+270090 Belo Monte;17
+270100 Boca da Mata;178
+270110 Branquinha;64
+270120 Cacimbinhas;62
+270130 Cajueiro;112
+270135 Campestre;34
+270140 Campo Alegre;176
+270150 Campo Grande;56
+270160 Canapi;94
+270170 Capela;115
+270180 Carneiros;34
+270190 Ch� Preta;48
+270200 Coit� do N�ia;71
+270210 Col�nia Leopoldina;126
+270220 Coqueiro Seco;25
+270230 Coruripe;273
+270235 Cra�bas;127
+270240 Delmiro Gouveia;285
+270250 Dois Riachos;65
+270255 Estrela de Alagoas;101
+270260 Feira Grande;91
+270270 Feliz Deserto;22
+270280 Flexeiras;62
+270290 Girau do Ponciano;175
+270300 Ibateguara;92
+270310 Igaci;178
+270320 Igreja Nova;147
+270330 Inhapi;97
+270340 Jacar� dos Homens;22
+270350 Jacu�pe;17
+270360 Japaratinga;24
+270370 Jaramataia;42
+270375 Jequi� da Praia;46
+270380 Joaquim Gomes;123
+270390 Jundi�;24
+270400 Junqueiro;121
+270410 Lagoa da Canoa;120
+270420 Limoeiro de Anadia;127
+270430 Macei�;5912
+270440 Major Isidoro;131
+270490 Mar Vermelho;16
+270450 Maragogi;123
+270460 Maravilha;51
+270470 Marechal Deodoro;303
+270480 Maribondo;92
+270500 Mata Grande;69
+270510 Matriz de Camaragibe;152
+270520 Messias;97
+270530 Minador do Negr�o;38
+270540 Monteir�polis;38
+270550 Murici;178
+270560 Novo Lino;50
+270570 Olho d'�gua das Flores;131
+270580 Olho d'�gua do Casado;30
+270590 Olho d'�gua Grande;12
+270600 Oliven�a;59
+270610 Ouro Branco;49
+270620 Palestina;27
+270630 Palmeira dos �ndios;550
+270640 P�o de A��car;111
+270642 Pariconha;71
+270644 Paripueira;64
+270650 Passo de Camaragibe;81
+270660 Paulo Jacinto;36
+270670 Penedo;386
+270680 Pia�abu�u;93
+270690 Pilar;242
+270700 Pindoba;19
+270710 Piranhas;99
+270720 Po�o das Trincheiras;66
+270730 Porto Calvo;140
+270740 Porto de Pedras;47
+270750 Porto Real do Col�gio;87
+270760 Quebrangulo;62
+270770 Rio Largo;459
+270780 Roteiro;32
+270790 Santa Luzia do Norte;39
+270800 Santana do Ipanema;300
+270810 Santana do Munda�;51
+270820 S�o Br�s;33
+270830 S�o Jos� da Laje;190
+270840 S�o Jos� da Tapera;169
+270850 S�o Lu�s do Quitunde;170
+270860 S�o Miguel dos Campos;337
+270870 S�o Miguel dos Milagres;28
+270880 S�o Sebasti�o;180
+270890 Satuba;68
+270895 Senador Rui Palmeira;79
+270900 Tanque d'Arca;35
+270910 Taquarana;106
+270915 Teot�nio Vilela;225
+270920 Traipu;110
+270930 Uni�o dos Palmares;379
+270940 Vi�osa;122
+270000 Munic�pio ignorado - AL;7
+280010 Amparo de S�o Francisco;21
+280020 Aquidab�;134
+280030 Aracaju;3232
+280040 Arau�;47
+280050 Areia Branca;85
+280060 Barra dos Coqueiros;155
+280067 Boquim;147
+280070 Brejo Grande;50
+280100 Campo do Brito;100
+280110 Canhoba;28
+280120 Canind� de S�o Francisco;146
+280130 Capela;183
+280140 Carira;115
+280150 Carm�polis;66
+280160 Cedro de S�o Jo�o;36
+280170 Cristin�polis;92
+280190 Cumbe;25
+280200 Divina Pastora;25
+280210 Est�ncia;366
+280220 Feira Nova;31
+280230 Frei Paulo;85
+280240 Gararu;52
+280250 General Maynard;18
+280260 Gracho Cardoso;34
+280270 Ilha das Flores;60
+280280 Indiaroba;80
+280290 Itabaiana;521
+280300 Itabaianinha;197
+280310 Itabi;33
+280320 Itaporanga d'Ajuda;165
+280330 Japaratuba;128
+280340 Japoat�;73
+280350 Lagarto;539
+280360 Laranjeiras;137
+280370 Macambira;50
+280380 Malhada dos Bois;21
+280390 Malhador;64
+280400 Maruim;93
+280410 Moita Bonita;74
+280420 Monte Alegre de Sergipe;57
+280430 Muribeca;51
+280440 Ne�polis;129
+280445 Nossa Senhora Aparecida;43
+280450 Nossa Senhora da Gl�ria;144
+280460 Nossa Senhora das Dores;148
+280470 Nossa Senhora de Lourdes;30
+280480 Nossa Senhora do Socorro;817
+280490 Pacatuba;73
+280500 Pedra Mole;17
+280510 Pedrinhas;47
+280520 Pinh�o;43
+280530 Pirambu;38
+280540 Po�o Redondo;145
+280550 Po�o Verde;157
+280560 Porto da Folha;137
+280570 Propri�;204
+280580 Riach�o do Dantas;121
+280590 Riachuelo;61
+280600 Ribeir�polis;111
+280610 Ros�rio do Catete;47
+280620 Salgado;85
+280630 Santa Luzia do Itanhy;57
+280650 Santa Rosa de Lima;23
+280640 Santana do S�o Francisco;42
+280660 Santo Amaro das Brotas;72
+280670 S�o Crist�v�o;414
+280680 S�o Domingos;53
+280690 S�o Francisco;13
+280700 S�o Miguel do Aleixo;22
+280710 Sim�o Dias;282
+280720 Siriri;42
+280730 Telha;18
+280740 Tobias Barreto;326
+280750 Tomar do Geru;73
+280760 Umba�ba;133
+280000 Munic�pio ignorado - SE;54
+290010 Aba�ra;44
+290020 Abar�;84
+290030 Acajutiba;101
+290035 Adustina;75
+290040 �gua Fria;91
+290060 Aiquara;29
+290070 Alagoinhas;963
+290080 Alcoba�a;121
+290090 Almadina;45
+290100 Amargosa;249
+290110 Am�lia Rodrigues;150
+290115 Am�rica Dourada;63
+290120 Anag�;124
+290130 Andara�;75
+290135 Andorinha;77
+290140 Angical;68
+290150 Anguera;57
+290160 Antas;78
+290170 Ant�nio Cardoso;70
+290180 Ant�nio Gon�alves;54
+290190 Apor�;99
+290195 Apuarema;49
+290205 Ara�as;46
+290200 Aracatu;83
+290210 Araci;270
+290220 Aramari;51
+290225 Arataca;53
+290230 Aratu�pe;38
+290240 Aurelino Leal;80
+290250 Baian�polis;64
+290260 Baixa Grande;120
+290265 Banza�;53
+290270 Barra;209
+290280 Barra da Estiva;125
+290290 Barra do Cho�a;197
+290300 Barra do Mendes;63
+290310 Barra do Rocha;31
+290320 Barreiras;651
+290323 Barro Alto;92
+290330 Barro Preto;49
+290327 Barrocas;60
+290340 Belmonte;144
+290350 Belo Campo;96
+290360 Biritinga;100
+290370 Boa Nova;113
+290380 Boa Vista do Tupim;87
+290390 Bom Jesus da Lapa;304
+290395 Bom Jesus da Serra;62
+290400 Boninal;74
+290405 Bonito;63
+290410 Boquira;155
+290420 Botupor�;54
+290430 Brej�es;104
+290440 Brejol�ndia;24
+290450 Brotas de Maca�bas;96
+290460 Brumado;404
+290470 Buerarema;156
+290475 Buritirama;60
+290480 Caatiba;22
+290485 Cabaceiras do Paragua�u;98
+290490 Cachoeira;213
+290500 Cacul�;124
+290510 Ca�m;53
+290515 Caetanos;46
+290520 Caetit�;301
+290530 Cafarnaum;53
+290540 Cairu;37
+290550 Caldeir�o Grande;74
+290560 Camacan;253
+290570 Cama�ari;1158
+290580 Camamu;128
+290590 Campo Alegre de Lourdes;134
+290600 Campo Formoso;318
+290610 Can�polis;20
+290620 Canarana;117
+290630 Canavieiras;235
+290640 Candeal;45
+290650 Candeias;465
+290660 Candiba;80
+290670 C�ndido Sales;147
+290680 Cansan��o;170
+290682 Canudos;65
+290685 Capela do Alto Alegre;65
+290687 Capim Grosso;168
+290689 Cara�bas;61
+290690 Caravelas;94
+290700 Cardeal da Silva;37
+290710 Carinhanha;127
+290720 Casa Nova;334
+290730 Castro Alves;168
+290740 Catol�ndia;9
+290750 Catu;283
+290755 Caturama;55
+290760 Central;85
+290770 Chorroch�;41
+290780 C�cero Dantas;170
+290790 Cip�;90
+290800 Coaraci;177
+290810 Cocos;91
+290820 Concei��o da Feira;118
+290830 Concei��o do Almeida;140
+290840 Concei��o do Coit�;348
+290850 Concei��o do Jacu�pe;181
+290860 Conde;108
+290870 Conde�ba;106
+290880 Contendas do Sincor�;23
+290890 Cora��o de Maria;135
+290900 Cordeiros;47
+290910 Coribe;65
+290920 Coronel Jo�o S�;68
+290930 Correntina;109
+290940 Cotegipe;63
+290950 Cravol�ndia;31
+290960 Cris�polis;116
+290970 Crist�polis;59
+290980 Cruz das Almas;336
+290990 Cura��;162
+291000 D�rio Meira;49
+291005 Dias d'�vila;357
+291010 Dom Bas�lio;46
+291020 Dom Macedo Costa;46
+291030 El�sio Medrado;70
+291040 Encruzilhada;113
+291050 Entre Rios;235
+290050 �rico Cardoso;60
+291060 Esplanada;182
+291070 Euclides da Cunha;307
+291072 Eun�polis;659
+291075 F�tima;117
+291077 Feira da Mata;26
+291080 Feira de Santana;3311
+291085 Filad�lfia;96
+291090 Firmino Alves;20
+291100 Floresta Azul;69
+291110 Formosa do Rio Preto;107
+291120 Gandu;163
+291125 Gavi�o;27
+291130 Gentio do Ouro;52
+291140 Gl�ria;77
+291150 Gongogi;31
+291160 Governador Mangabeira;124
+291165 Guajeru;41
+291170 Guanambi;450
+291180 Guaratinga;88
+291185 Heli�polis;80
+291190 Ia�u;138
+291200 Ibiassuc�;68
+291210 Ibicara�;198
+291220 Ibicoara;87
+291230 Ibicu�;92
+291240 Ibipeba;89
+291250 Ibipitanga;78
+291260 Ibiquera;21
+291270 Ibirapitanga;132
+291280 Ibirapu�;53
+291290 Ibirataia;154
+291300 Ibitiara;82
+291310 Ibitit�;78
+291320 Ibotirama;148
+291330 Ichu;42
+291340 Igapor�;70
+291345 Igrapi�na;34
+291350 Igua�;143
+291360 Ilh�us;1176
+291370 Inhambupe;211
+291380 Ipecaet�;73
+291390 Ipia�;348
+291400 Ipir�;397
+291410 Ipupiara;68
+291420 Irajuba;36
+291430 Iramaia;64
+291440 Iraquara;106
+291450 Irar�;169
+291460 Irec�;331
+291465 Itabela;171
+291470 Itaberaba;434
+291480 Itabuna;1690
+291490 Itacar�;88
+291500 Itaet�;57
+291510 Itagi;94
+291520 Itagib�;77
+291530 Itagimirim;36
+291535 Itagua�u da Bahia;43
+291540 Itaju do Col�nia;33
+291550 Itaju�pe;171
+291560 Itamaraju;411
+291570 Itamari;56
+291580 Itamb�;192
+291590 Itanagra;25
+291600 Itanh�m;131
+291610 Itaparica;147
+291620 Itap�;67
+291630 Itapebi;48
+291640 Itapetinga;455
+291650 Itapicuru;154
+291660 Itapitanga;56
+291670 Itaquara;57
+291680 Itarantim;64
+291685 Itatim;54
+291690 Itiru�u;99
+291700 Iti�ba;199
+291710 Itoror�;149
+291720 Itua�u;82
+291730 Ituber�;158
+291733 Iui�;52
+291735 Jaborandi;36
+291740 Jacaraci;80
+291750 Jacobina;496
+291760 Jaguaquara;302
+291770 Jaguarari;176
+291780 Jaguaripe;72
+291790 Janda�ra;36
+291800 Jequi�;1032
+291810 Jeremoabo;170
+291820 Jiquiri��;82
+291830 Jita�na;62
+291835 Jo�o Dourado;94
+291840 Juazeiro;1160
+291845 Jucuru�u;37
+291850 Jussara;76
+291855 Jussari;54
+291860 Jussiape;60
+291870 Lafaiete Coutinho;25
+291875 Lagoa Real;47
+291880 Laje;129
+291890 Lajed�o;24
+291900 Lajedinho;17
+291905 Lajedo do Tabocal;36
+291910 Lamar�o;39
+291915 Lap�o;131
+291920 Lauro de Freitas;1015
+291930 Len��is;50
+291940 Lic�nio de Almeida;55
+291950 Livramento de Nossa Senhora;200
+291955 Lu�s Eduardo Magalh�es;240
+291960 Macajuba;63
+291970 Macarani;127
+291980 Maca�bas;249
+291990 Macurur�;38
+291992 Madre de Deus;103
+291995 Maetinga;45
+292000 Maiquinique;47
+292010 Mairi;144
+292020 Malhada;62
+292030 Malhada de Pedras;30
+292040 Manoel Vitorino;79
+292045 Mansid�o;18
+292050 Marac�s;124
+292060 Maragogipe;289
+292070 Mara�;58
+292080 Marcion�lio Souza;53
+292090 Mascote;51
+292100 Mata de S�o Jo�o;257
+292105 Matina;54
+292110 Medeiros Neto;168
+292120 Miguel Calmon;195
+292130 Milagres;74
+292140 Mirangaba;62
+292145 Mirante;38
+292150 Monte Santo;259
+292160 Morpar�;46
+292170 Morro do Chap�u;187
+292180 Mortugaba;70
+292190 Mucug�;51
+292200 Mucuri;192
+292205 Mulungu do Morro;76
+292210 Mundo Novo;123
+292220 Muniz Ferreira;47
+292225 Muqu�m de S�o Francisco;36
+292230 Muritiba;177
+292240 Mutu�pe;136
+292250 Nazar�;174
+292260 Nilo Pe�anha;55
+292265 Nordestina;65
+292270 Nova Cana�;94
+292273 Nova F�tima;48
+292275 Nova Ibi�;23
+292280 Nova Itarana;46
+292285 Nova Reden��o;38
+292290 Nova Soure;138
+292300 Nova Vi�osa;217
+292303 Novo Horizonte;46
+292305 Novo Triunfo;42
+292310 Olindina;109
+292320 Oliveira dos Brejinhos;105
+292330 Ouri�angas;47
+292335 Ourol�ndia;65
+292340 Palmas de Monte Alto;70
+292350 Palmeiras;33
+292360 Paramirim;137
+292370 Paratinga;129
+292380 Paripiranga;171
+292390 Pau Brasil;70
+292400 Paulo Afonso;654
+292405 P� de Serra;69
+292410 Pedr�o;40
+292420 Pedro Alexandre;55
+292430 Piat�;97
+292440 Pil�o Arcado;131
+292450 Pinda�;48
+292460 Pindoba�u;74
+292465 Pintadas;69
+292467 Pira� do Norte;35
+292470 Pirip�;76
+292480 Piritiba;129
+292490 Planaltino;42
+292500 Planalto;123
+292510 Po��es;338
+292520 Pojuca;182
+292525 Ponto Novo;78
+292530 Porto Seguro;627
+292540 Potiragu�;47
+292550 Prado;120
+292560 Presidente Dutra;77
+292570 Presidente J�nio Quadros;62
+292575 Presidente Tancredo Neves;122
+292580 Queimadas;133
+292590 Quijingue;109
+292593 Quixabeira;37
+292595 Rafael Jambeiro;123
+292600 Remanso;191
+292610 Retirol�ndia;61
+292620 Riach�o das Neves;141
+292630 Riach�o do Jacu�pe;215
+292640 Riacho de Santana;169
+292650 Ribeira do Amparo;60
+292660 Ribeira do Pombal;315
+292665 Ribeir�o do Largo;34
+292670 Rio de Contas;96
+292680 Rio do Ant�nio;49
+292690 Rio do Pires;72
+292700 Rio Real;209
+292710 Rodelas;33
+292720 Ruy Barbosa;253
+292730 Salinas da Margarida;68
+292740 Salvador;15696
+292750 Santa B�rbara;134
+292760 Santa Br�gida;84
+292770 Santa Cruz Cabr�lia;130
+292780 Santa Cruz da Vit�ria;41
+292790 Santa In�s;68
+292805 Santa Luzia;93
+292810 Santa Maria da Vit�ria;212
+292840 Santa Rita de C�ssia;120
+292850 Santa Teresinha;53
+292800 Santaluz;169
+292820 Santana;84
+292830 Santan�polis;52
+292860 Santo Amaro;365
+292870 Santo Ant�nio de Jesus;614
+292880 Santo Est�v�o;306
+292890 S�o Desid�rio;84
+292895 S�o Domingos;47
+292910 S�o Felipe;140
+292900 S�o F�lix;62
+292905 S�o F�lix do Coribe;74
+292920 S�o Francisco do Conde;177
+292925 S�o Gabriel;87
+292930 S�o Gon�alo dos Campos;204
+292935 S�o Jos� da Vit�ria;55
+292937 S�o Jos� do Jacu�pe;57
+292940 S�o Miguel das Matas;77
+292950 S�o Sebasti�o do Pass�;216
+292960 Sapea�u;113
+292970 S�tiro Dias;88
+292975 Saubara;80
+292980 Sa�de;79
+292990 Seabra;144
+293000 Sebasti�o Laranjeiras;47
+293010 Senhor do Bonfim;448
+293020 Sento S�;114
+293015 Serra do Ramalho;144
+293030 Serra Dourada;80
+293040 Serra Preta;134
+293050 Serrinha;428
+293060 Serrol�ndia;81
+293070 Sim�es Filho;745
+293075 S�tio do Mato;38
+293076 S�tio do Quinto;52
+293077 Sobradinho;134
+293080 Souto Soares;67
+293090 Tabocas do Brejo Velho;38
+293100 Tanha�u;114
+293105 Tanque Novo;75
+293110 Tanquinho;69
+293120 Tapero�;66
+293130 Tapiramut�;71
+293135 Teixeira de Freitas;883
+293140 Teodoro Sampaio;44
+293150 Teofil�ndia;108
+293160 Teol�ndia;65
+293170 Terra Nova;62
+293180 Tremedal;122
+293190 Tucano;261
+293200 Uau�;143
+293210 Uba�ra;124
+293220 Ubaitaba;127
+293230 Ubat�;129
+293240 Uiba�;85
+293245 Umburanas;44
+293250 Una;121
+293260 Urandi;86
+293270 Uru�uca;155
+293280 Utinga;106
+293290 Valen�a;539
+293300 Valente;94
+293305 V�rzea da Ro�a;78
+293310 V�rzea do Po�o;58
+293315 V�rzea Nova;71
+293317 Varzedo;49
+293320 Vera Cruz;258
+293325 Vereda;22
+293330 Vit�ria da Conquista;2053
+293340 Wagner;44
+293345 Wanderley;60
+293350 Wenceslau Guimar�es;96
+293360 Xique-Xique;134
+290000 Munic�pio ignorado - BA;632
+310010 Abadia dos Dourados;37
+310020 Abaet�;185
+310030 Abre Campo;95
+310040 Acaiaca;40
+310050 A�ucena;65
+310060 �gua Boa;54
+310070 �gua Comprida;9
+310080 Aguanil;19
+310090 �guas Formosas;134
+310100 �guas Vermelhas;67
+310110 Aimor�s;189
+310120 Aiuruoca;56
+310130 Alagoa;21
+310140 Albertina;25
+310150 Al�m Para�ba;345
+310160 Alfenas;551
+310163 Alfredo Vasconcelos;31
+310170 Almenara;240
+310180 Alpercata;43
+310190 Alpin�polis;113
+310200 Alterosa;119
+310205 Alto Capara�;35
+315350 Alto Jequitib�;63
+310210 Alto Rio Doce;113
+310220 Alvarenga;31
+310230 Alvin�polis;110
+310240 Alvorada de Minas;29
+310250 Amparo do Serra;53
+310260 Andradas;258
+310280 Andrel�ndia;98
+310285 Angel�ndia;42
+310290 Ant�nio Carlos;90
+310300 Ant�nio Dias;65
+310310 Ant�nio Prado de Minas;17
+310320 Ara�a�;15
+310330 Aracitaba;23
+310340 Ara�ua�;258
+310350 Araguari;768
+310360 Arantina;22
+310370 Araponga;34
+310375 Arapor�;28
+310380 Arapu�;15
+310390 Ara�jos;43
+310400 Arax�;688
+310410 Arceburgo;58
+310420 Arcos;211
+310430 Areado;112
+310440 Argirita;28
+310445 Aricanduva;27
+310450 Arinos;84
+310460 Astolfo Dutra;102
+310470 Atal�ia;100
+310480 Augusto de Lima;22
+310490 Baependi;151
+310500 Baldim;62
+310510 Bambu�;190
+310520 Bandeira;19
+310530 Bandeira do Sul;47
+310540 Bar�o de Cocais;156
+310550 Bar�o de Monte Alto;64
+310560 Barbacena;960
+310570 Barra Longa;59
+310590 Barroso;163
+310600 Bela Vista de Minas;51
+310610 Belmiro Braga;25
+310620 Belo Horizonte;14831
+310630 Belo Oriente;129
+310640 Belo Vale;51
+310650 Berilo;72
+310665 Berizal;22
+310660 Bert�polis;24
+310670 Betim;1932
+310680 Bias Fortes;28
+310690 Bicas;132
+310700 Biquinhas;18
+310710 Boa Esperan�a;311
+310720 Bocaina de Minas;27
+310730 Bocai�va;281
+310740 Bom Despacho;234
+310750 Bom Jardim de Minas;64
+310760 Bom Jesus da Penha;16
+310770 Bom Jesus do Amparo;42
+310780 Bom Jesus do Galho;120
+310790 Bom Repouso;59
+310800 Bom Sucesso;138
+310810 Bonfim;66
+310820 Bonfin�polis de Minas;42
+310825 Bonito de Minas;36
+310830 Borda da Mata;136
+310840 Botelhos;137
+310850 Botumirim;33
+310870 Br�s Pires;35
+310855 Brasil�ndia de Minas;68
+310860 Bras�lia de Minas;221
+310880 Bra�nas;40
+310890 Braz�polis;119
+310900 Brumadinho;191
+310910 Bueno Brand�o;78
+310920 Buen�polis;67
+310925 Bugre;16
+310930 Buritis;106
+310940 Buritizeiro;161
+310945 Cabeceira Grande;24
+310950 Cabo Verde;95
+310960 Cachoeira da Prata;28
+310970 Cachoeira de Minas;68
+310270 Cachoeira de Paje�;68
+310980 Cachoeira Dourada;18
+310990 Caetan�polis;64
+311000 Caet�;231
+311010 Caiana;30
+311020 Cajuri;21
+311030 Caldas;109
+311040 Camacho;16
+311050 Camanducaia;139
+311060 Cambu�;208
+311070 Cambuquira;107
+311080 Campan�rio;14
+311090 Campanha;111
+311100 Campestre;165
+311110 Campina Verde;150
+311115 Campo Azul;24
+311120 Campo Belo;412
+311130 Campo do Meio;104
+311140 Campo Florido;38
+311150 Campos Altos;91
+311160 Campos Gerais;163
+311190 Cana Verde;45
+311170 Cana�;27
+311180 Can�polis;57
+311200 Candeias;123
+311205 Cantagalo;17
+311210 Capara�;18
+311220 Capela Nova;42
+311230 Capelinha;171
+311240 Capetinga;45
+311250 Capim Branco;70
+311260 Capin�polis;99
+311265 Capit�o Andrade;35
+311270 Capit�o En�as;82
+311280 Capit�lio;50
+311290 Caputira;51
+311300 Cara�;151
+311310 Carana�ba;19
+311320 Caranda�;167
+311330 Carangola;305
+311340 Caratinga;539
+311350 Carbonita;62
+311360 Carea�u;51
+311370 Carlos Chagas;141
+311380 Carm�sia;19
+311390 Carmo da Cachoeira;66
+311400 Carmo da Mata;79
+311410 Carmo de Minas;73
+311420 Carmo do Cajuru;122
+311430 Carmo do Parana�ba;182
+311440 Carmo do Rio Claro;136
+311450 Carm�polis de Minas;126
+311455 Carneirinho;58
+311460 Carrancas;27
+311470 Carvalh�polis;26
+311480 Carvalhos;36
+311490 Casa Grande;19
+311500 Cascalho Rico;15
+311510 C�ssia;138
+311530 Cataguases;563
+311535 Catas Altas;44
+311540 Catas Altas da Noruega;21
+311545 Catuji;63
+311547 Catuti;20
+311550 Caxambu;182
+311560 Cedro do Abaet�;10
+311570 Central de Minas;51
+311580 Centralina;38
+311590 Ch�cara;24
+311600 Chal�;37
+311610 Chapada do Norte;57
+311615 Chapada Ga�cha;43
+311620 Chiador;18
+311630 Cipot�nea;52
+311640 Claraval;14
+311650 Claro dos Po��es;42
+311660 Cl�udio;142
+311670 Coimbra;50
+311680 Coluna;58
+311690 Comendador Gomes;11
+311700 Comercinho;39
+311710 Concei��o da Aparecida;51
+311520 Concei��o da Barra de Minas;18
+311730 Concei��o das Alagoas;153
+311720 Concei��o das Pedras;25
+311740 Concei��o de Ipanema;40
+311750 Concei��o do Mato Dentro;98
+311760 Concei��o do Par�;37
+311770 Concei��o do Rio Verde;101
+311780 Concei��o dos Ouros;64
+311783 C�nego Marinho;35
+311787 Confins;22
+311790 Congonhal;59
+311800 Congonhas;289
+311810 Congonhas do Norte;28
+311820 Conquista;51
+311830 Conselheiro Lafaiete;695
+311840 Conselheiro Pena;164
+311850 Consola��o;11
+311860 Contagem;3133
+311870 Coqueiral;56
+311880 Cora��o de Jesus;128
+311890 Cordisburgo;56
+311900 Cordisl�ndia;33
+311910 Corinto;180
+311920 Coroaci;65
+311930 Coromandel;147
+311940 Coronel Fabriciano;683
+311950 Coronel Murta;58
+311960 Coronel Pacheco;20
+311970 Coronel Xavier Chaves;18
+311980 C�rrego Danta;27
+311990 C�rrego do Bom Jesus;35
+311995 C�rrego Fundo;35
+312000 C�rrego Novo;18
+312010 Couto de Magalh�es de Minas;24
+312015 Cris�lita;49
+312020 Cristais;81
+312030 Crist�lia;39
+312040 Cristiano Otoni;27
+312050 Cristina;82
+312060 Crucil�ndia;38
+312070 Cruzeiro da Fortaleza;34
+312080 Cruz�lia;111
+312083 Cuparaque;23
+312087 Curral de Dentro;28
+312090 Curvelo;512
+312100 Datas;34
+312110 Delfim Moreira;56
+312120 Delfin�polis;40
+312125 Delta;27
+312130 Descoberto;37
+312140 Desterro de Entre Rios;60
+312150 Desterro do Melo;36
+312160 Diamantina;328
+312170 Diogo de Vasconcelos;23
+312180 Dion�sio;61
+312190 Divin�sia;21
+312200 Divino;126
+312210 Divino das Laranjeiras;31
+312220 Divinol�ndia de Minas;55
+312230 Divin�polis;1300
+312235 Divisa Alegre;37
+312240 Divisa Nova;38
+312245 Divis�polis;37
+312247 Dom Bosco;22
+312250 Dom Cavati;47
+312260 Dom Joaquim;30
+312270 Dom Silv�rio;56
+312280 Dom Vi�oso;14
+312290 Dona Eus�bia;47
+312300 Dores de Campos;73
+312310 Dores de Guanh�es;31
+312320 Dores do Indai�;133
+312330 Dores do Turvo;36
+312340 Dores�polis;16
+312350 Douradoquara;11
+312352 Durand�;40
+312360 El�i Mendes;150
+312370 Engenheiro Caldas;78
+312380 Engenheiro Navarro;43
+312385 Entre Folhas;47
+312390 Entre Rios de Minas;118
+312400 Erv�lia;109
+312410 Esmeraldas;297
+312420 Espera Feliz;158
+312430 Espinosa;165
+312440 Esp�rito Santo do Dourado;22
+312450 Estiva;65
+312460 Estrela Dalva;14
+312470 Estrela do Indai�;22
+312480 Estrela do Sul;40
+312490 Eugen�polis;74
+312500 Ewbank da C�mara;30
+312510 Extrema;162
+312520 Fama;21
+312530 Faria Lemos;26
+312540 Fel�cio dos Santos;40
+312560 Felisburgo;49
+312570 Felixl�ndia;71
+312580 Fernandes Tourinho;13
+312590 Ferros;83
+312595 Fervedouro;57
+312600 Florestal;44
+312610 Formiga;527
+312620 Formoso;23
+312630 Fortaleza de Minas;25
+312640 Fortuna de Minas;21
+312650 Francisco Badar�;52
+312660 Francisco Dumont;33
+312670 Francisco S�;159
+312675 Francisc�polis;27
+312680 Frei Gaspar;44
+312690 Frei Inoc�ncio;78
+312695 Frei Lagonegro;23
+312700 Fronteira;59
+312705 Fronteira dos Vales;37
+312707 Fruta de Leite;37
+312710 Frutal;422
+312720 Funil�ndia;25
+312730 Galil�ia;65
+312733 Gameleiras;30
+312735 Glaucil�ndia;15
+312737 Goiabeira;25
+312738 Goian�;30
+312740 Gon�alves;33
+312750 Gonzaga;31
+312760 Gouveia;76
+312770 Governador Valadares;1799
+312780 Gr�o Mogol;74
+312790 Grupiara;8
+312800 Guanh�es;185
+312810 Guap�;96
+312820 Guaraciaba;81
+312825 Guaraciama;24
+312830 Guaran�sia;158
+312840 Guarani;83
+312850 Guarar�;21
+312860 Guarda-Mor;21
+312870 Guaxup�;382
+312880 Guidoval;52
+312890 Guimar�nia;45
+312900 Guiricema;63
+312910 Gurinhat�;27
+312920 Heliodora;44
+312930 Iapu;81
+312940 Ibertioga;49
+312950 Ibi�;146
+312960 Ibia�;25
+312965 Ibiracatu;33
+312970 Ibiraci;60
+312980 Ibirit�;738
+312990 Ibiti�ra de Minas;32
+313000 Ibituruna;19
+313005 Icara� de Minas;69
+313010 Igarap�;211
+313020 Igaratinga;64
+313030 Iguatama;51
+313040 Ijaci;41
+313050 Ilic�nea;81
+313055 Imb� de Minas;37
+313060 Inconfidentes;54
+313065 Indaiabira;29
+313070 Indian�polis;24
+313080 Inga�;10
+313090 Inhapim;165
+313100 Inha�ma;49
+313110 Inimutaba;52
+313115 Ipaba;98
+313120 Ipanema;148
+313130 Ipatinga;1257
+313140 Ipia�u;28
+313150 Ipui�na;80
+313160 Ira� de Minas;33
+313170 Itabira;635
+313180 Itabirinha;68
+313190 Itabirito;271
+313200 Itacambira;20
+313210 Itacarambi;106
+313220 Itaguara;101
+313230 Itaip�;70
+313240 Itajub�;667
+313250 Itamarandiba;176
+313260 Itamarati de Minas;28
+313270 Itambacuri;192
+313280 Itamb� do Mato Dentro;7
+313290 Itamogi;69
+313300 Itamonte;100
+313310 Itanhandu;109
+313320 Itanhomi;86
+313330 Itaobim;171
+313340 Itapagipe;72
+313350 Itapecerica;160
+313360 Itapeva;43
+313370 Itatiaiu�u;61
+313375 Ita� de Minas;106
+313380 Ita�na;586
+313390 Itaverava;23
+313400 Itinga;87
+313410 Itueta;30
+313420 Ituiutaba;786
+313430 Itumirim;39
+313440 Iturama;215
+313450 Itutinga;32
+313460 Jaboticatubas;106
+313470 Jacinto;82
+313480 Jacu�;37
+313490 Jacutinga;142
+313500 Jaguara�u;12
+313505 Ja�ba;160
+313507 Jampruca;20
+313510 Jana�ba;399
+313520 Janu�ria;411
+313530 Japara�ba;20
+313535 Japonvar;59
+313540 Jeceaba;35
+313545 Jenipapo de Minas;31
+313550 Jequeri;83
+313560 Jequita�;66
+313570 Jequitib�;31
+313580 Jequitinhonha;158
+313590 Jesu�nia;29
+313600 Joa�ma;99
+313610 Joan�sia;30
+313620 Jo�o Monlevade;474
+313630 Jo�o Pinheiro;323
+313640 Joaquim Fel�cio;40
+313650 Jord�nia;47
+313652 Jos� Gon�alves de Minas;16
+313655 Jos� Raydan;28
+313657 Josen�polis;33
+313665 Juatuba;143
+313670 Juiz de Fora;3992
+313680 Juramento;25
+313690 Juruaia;59
+313695 Juven�lia;25
+313700 Ladainha;117
+313710 Lagamar;48
+313720 Lagoa da Prata;262
+313730 Lagoa dos Patos;17
+313740 Lagoa Dourada;88
+313750 Lagoa Formosa;114
+313753 Lagoa Grande;61
+313760 Lagoa Santa;275
+313770 Lajinha;108
+313780 Lambari;182
+313790 Lamim;15
+313800 Laranjal;59
+313810 Lassance;45
+313820 Lavras;613
+313830 Leandro Ferreira;26
+313835 Leme do Prado;25
+313840 Leopoldina;491
+313850 Liberdade;18
+313860 Lima Duarte;134
+313862 Limeira do Oeste;32
+313865 Lontra;50
+313867 Luisburgo;41
+313868 Luisl�ndia;26
+313870 Lumin�rias;32
+313880 Luz;127
+313890 Machacalis;52
+313900 Machado;245
+313910 Madre de Deus de Minas;44
+313920 Malacacheta;153
+313925 Mamonas;39
+313930 Manga;128
+313940 Manhua�u;513
+313950 Manhumirim;157
+313960 Mantena;175
+313980 Mar de Espanha;110
+313970 Maravilhas;45
+313990 Maria da F�;113
+314000 Mariana;312
+314010 Marilac;28
+314015 M�rio Campos;87
+314020 Marip� de Minas;16
+314030 Marli�ria;30
+314040 Marmel�polis;23
+314050 Martinho Campos;67
+314053 Martins Soares;49
+314055 Mata Verde;30
+314060 Materl�ndia;32
+314070 Mateus Leme;170
+317150 Mathias Lobato;23
+314080 Matias Barbosa;103
+314085 Matias Cardoso;40
+314090 Matip�;136
+314100 Mato Verde;86
+314110 Matozinhos;183
+314120 Matutina;40
+314130 Medeiros;15
+314140 Medina;124
+314150 Mendes Pimentel;38
+314160 Merc�s;91
+314170 Mesquita;50
+314180 Minas Novas;164
+314190 Minduri;29
+314200 Mirabela;82
+314210 Miradouro;67
+314220 Mira�;111
+314225 Mirav�nia;32
+314230 Moeda;26
+314240 Moema;38
+314250 Monjolos;13
+314260 Monsenhor Paulo;60
+314270 Montalv�nia;95
+314280 Monte Alegre de Minas;150
+314290 Monte Azul;136
+314300 Monte Belo;106
+314310 Monte Carmelo;287
+314315 Monte Formoso;21
+314320 Monte Santo de Minas;174
+314340 Monte Si�o;103
+314330 Montes Claros;2004
+314345 Montezuma;35
+314350 Morada Nova de Minas;61
+314360 Morro da Gar�a;20
+314370 Morro do Pilar;12
+314380 Munhoz;28
+314390 Muria�;764
+314400 Mutum;168
+314410 Muzambinho;172
+314420 Nacip Raydan;26
+314430 Nanuque;302
+314435 Naque;46
+314437 Natal�ndia;18
+314440 Nat�rcia;32
+314450 Nazareno;60
+314460 Nepomuceno;199
+314465 Ninheira;55
+314467 Nova Bel�m;16
+314470 Nova Era;108
+314480 Nova Lima;463
+314490 Nova M�dica;19
+314500 Nova Ponte;50
+314505 Nova Porteirinha;47
+314510 Nova Resende;86
+314520 Nova Serrana;268
+313660 Nova Uni�o;34
+314530 Novo Cruzeiro;215
+314535 Novo Oriente de Minas;62
+314537 Novorizonte;31
+314540 Olaria;17
+314545 Olhos-d'�gua;43
+314550 Ol�mpio Noronha;15
+314560 Oliveira;273
+314570 Oliveira Fortes;21
+314580 On�a de Pitangui;18
+314585 Orat�rios;33
+314587 Oriz�nia;25
+314590 Ouro Branco;144
+314600 Ouro Fino;238
+314610 Ouro Preto;428
+314620 Ouro Verde de Minas;50
+314625 Padre Carvalho;40
+314630 Padre Para�so;167
+314655 Pai Pedro;37
+314640 Paineiras;38
+314650 Pains;62
+314660 Paiva;8
+314670 Palma;50
+314675 Palm�polis;35
+314690 Papagaios;80
+314710 Par� de Minas;531
+314700 Paracatu;449
+314720 Paragua�u;146
+314730 Parais�polis;122
+314740 Paraopeba;114
+314760 Passa Quatro;102
+314770 Passa Tempo;56
+314780 Passa-Vinte;10
+314750 Passab�m;11
+314790 Passos;751
+314795 Patis;31
+314800 Patos de Minas;893
+314810 Patroc�nio;498
+314820 Patroc�nio do Muria�;46
+314830 Paula C�ndido;58
+314840 Paulistas;29
+314850 Pav�o;72
+314860 Pe�anha;107
+314870 Pedra Azul;151
+314875 Pedra Bonita;33
+314880 Pedra do Anta;19
+314890 Pedra do Indai�;29
+314900 Pedra Dourada;8
+314910 Pedralva;77
+314915 Pedras de Maria da Cruz;62
+314920 Pedrin�polis;27
+314930 Pedro Leopoldo;364
+314940 Pedro Teixeira;11
+314950 Pequeri;28
+314960 Pequi;37
+314970 Perdig�o;38
+314980 Perdizes;64
+314990 Perd�es;152
+314995 Periquito;51
+315000 Pescador;26
+315010 Piau;21
+315015 Piedade de Caratinga;47
+315020 Piedade de Ponte Nova;38
+315030 Piedade do Rio Grande;40
+315040 Piedade dos Gerais;39
+315050 Pimenta;52
+315053 Pingo-d'�gua;38
+315057 Pint�polis;24
+315060 Piracema;44
+315070 Pirajuba;22
+315080 Piranga;101
+315090 Pirangu�u;34
+315100 Piranguinho;46
+315110 Pirapetinga;81
+315120 Pirapora;315
+315130 Pira�ba;75
+315140 Pitangui;193
+315150 Piumhi;229
+315160 Planura;54
+315170 Po�o Fundo;102
+315180 Po�os de Caldas;1094
+315190 Pocrane;70
+315200 Pomp�u;186
+315210 Ponte Nova;460
+315213 Ponto Chique;19
+315217 Ponto dos Volantes;57
+315220 Porteirinha;268
+315230 Porto Firme;65
+315240 Pot�;132
+315250 Pouso Alegre;776
+315260 Pouso Alto;59
+315270 Prados;66
+315280 Prata;141
+315290 Prat�polis;68
+315300 Pratinha;21
+315310 Presidente Bernardes;40
+315320 Presidente Juscelino;20
+315330 Presidente Kubitschek;21
+315340 Presidente Oleg�rio;92
+315360 Prudente de Morais;55
+315370 Quartel Geral;19
+315380 Queluzito;11
+315390 Raposos;78
+315400 Raul Soares;186
+315410 Recreio;99
+315415 Reduto;50
+315420 Resende Costa;78
+315430 Resplendor;158
+315440 Ressaquinha;34
+315445 Riachinho;35
+315450 Riacho dos Machados;48
+315460 Ribeir�o das Neves;1320
+315470 Ribeir�o Vermelho;30
+315480 Rio Acima;61
+315490 Rio Casca;121
+315510 Rio do Prado;39
+315500 Rio Doce;17
+315520 Rio Espera;57
+315530 Rio Manso;35
+315540 Rio Novo;83
+315550 Rio Parana�ba;58
+315560 Rio Pardo de Minas;134
+315570 Rio Piracicaba;83
+315580 Rio Pomba;123
+315590 Rio Preto;39
+315600 Rio Vermelho;85
+315610 Rit�polis;38
+315620 Rochedo de Minas;20
+315630 Rodeiro;49
+315640 Romaria;25
+315645 Ros�rio da Limeira;33
+315650 Rubelita;48
+315660 Rubim;67
+315670 Sabar�;766
+315680 Sabin�polis;113
+315690 Sacramento;149
+315700 Salinas;253
+315710 Salto da Divisa;35
+315720 Santa B�rbara;146
+315725 Santa B�rbara do Leste;44
+315727 Santa B�rbara do Monte Verde;13
+315730 Santa B�rbara do Tug�rio;36
+315733 Santa Cruz de Minas;38
+315737 Santa Cruz de Salinas;27
+315740 Santa Cruz do Escalvado;38
+315750 Santa Efig�nia de Minas;20
+315760 Santa F� de Minas;14
+315765 Santa Helena de Minas;42
+315770 Santa Juliana;57
+315780 Santa Luzia;1062
+315790 Santa Margarida;87
+315800 Santa Maria de Itabira;58
+315810 Santa Maria do Salto;36
+315820 Santa Maria do Sua�u�;113
+315920 Santa Rita de Caldas;61
+315940 Santa Rita de Ibitipoca;28
+315930 Santa Rita de Jacutinga;44
+315935 Santa Rita de Minas;53
+315950 Santa Rita do Itueto;20
+315960 Santa Rita do Sapuca�;243
+315970 Santa Rosa da Serra;15
+315980 Santa Vit�ria;146
+315830 Santana da Vargem;40
+315840 Santana de Cataguases;25
+315850 Santana de Pirapama;68
+315860 Santana do Deserto;26
+315870 Santana do Garamb�u;16
+315880 Santana do Jacar�;38
+315890 Santana do Manhua�u;53
+315895 Santana do Para�so;140
+315900 Santana do Riacho;9
+315910 Santana dos Montes;26
+315990 Santo Ant�nio do Amparo;112
+316000 Santo Ant�nio do Aventureiro;24
+316010 Santo Ant�nio do Grama;38
+316020 Santo Ant�nio do Itamb�;25
+316030 Santo Ant�nio do Jacinto;32
+316040 Santo Ant�nio do Monte;144
+316045 Santo Ant�nio do Retiro;30
+316050 Santo Ant�nio do Rio Abaixo;12
+316060 Santo Hip�lito;16
+316070 Santos Dumont;398
+316080 S�o Bento Abade;23
+316090 S�o Br�s do Sua�u�;19
+316095 S�o Domingos das Dores;34
+316100 S�o Domingos do Prata;148
+316105 S�o F�lix de Minas;19
+316110 S�o Francisco;358
+316120 S�o Francisco de Paula;43
+316130 S�o Francisco de Sales;21
+316140 S�o Francisco do Gl�ria;46
+316150 S�o Geraldo;73
+316160 S�o Geraldo da Piedade;29
+316165 S�o Geraldo do Baixio;26
+316170 S�o Gon�alo do Abaet�;38
+316180 S�o Gon�alo do Par�;71
+316190 S�o Gon�alo do Rio Abaixo;61
+312550 S�o Gon�alo do Rio Preto;26
+316200 S�o Gon�alo do Sapuca�;159
+316210 S�o Gotardo;208
+316220 S�o Jo�o Batista do Gl�ria;54
+316225 S�o Jo�o da Lagoa;27
+316230 S�o Jo�o da Mata;22
+316240 S�o Jo�o da Ponte;145
+316245 S�o Jo�o das Miss�es;56
+316250 S�o Jo�o del Rei;631
+316255 S�o Jo�o do Manhua�u;71
+316257 S�o Jo�o do Manteninha;25
+316260 S�o Jo�o do Oriente;54
+316265 S�o Jo�o do Pacu�;27
+316270 S�o Jo�o do Para�so;117
+316280 S�o Jo�o Evangelista;102
+316290 S�o Jo�o Nepomuceno;221
+316292 S�o Joaquim de Bicas;130
+316294 S�o Jos� da Barra;34
+316295 S�o Jos� da Lapa;107
+316300 S�o Jos� da Safira;28
+316310 S�o Jos� da Varginha;22
+316320 S�o Jos� do Alegre;33
+316330 S�o Jos� do Divino;23
+316340 S�o Jos� do Goiabal;66
+316350 S�o Jos� do Jacuri;48
+316360 S�o Jos� do Mantimento;20
+316370 S�o Louren�o;306
+316380 S�o Miguel do Anta;42
+316390 S�o Pedro da Uni�o;37
+316410 S�o Pedro do Sua�u�;27
+316400 S�o Pedro dos Ferros;56
+316420 S�o Rom�o;51
+316430 S�o Roque de Minas;51
+316440 S�o Sebasti�o da Bela Vista;22
+316443 S�o Sebasti�o da Vargem Alegre;15
+316447 S�o Sebasti�o do Anta;33
+316450 S�o Sebasti�o do Maranh�o;53
+316460 S�o Sebasti�o do Oeste;32
+316470 S�o Sebasti�o do Para�so;493
+316480 S�o Sebasti�o do Rio Preto;5
+316490 S�o Sebasti�o do Rio Verde;14
+316520 S�o Thom� das Letras;35
+316500 S�o Tiago;73
+316510 S�o Tom�s de Aquino;45
+316530 S�o Vicente de Minas;55
+316540 Sapuca�-Mirim;22
+316550 Sardo�;24
+316553 Sarzedo;125
+316556 Sem-Peixe;21
+316557 Senador Amaral;27
+316560 Senador Cortes;18
+316570 Senador Firmino;76
+316580 Senador Jos� Bento;15
+316590 Senador Modestino Gon�alves;23
+316600 Senhora de Oliveira;21
+316610 Senhora do Porto;30
+316620 Senhora dos Rem�dios;69
+316630 Sericita;43
+316640 Seritinga;13
+316650 Serra Azul de Minas;17
+316660 Serra da Saudade;2
+316680 Serra do Salitre;69
+316670 Serra dos Aimor�s;55
+316690 Serrania;61
+316695 Serran�polis de Minas;28
+316700 Serranos;14
+316710 Serro;126
+316720 Sete Lagoas;1341
+316555 Setubinha;50
+316730 Silveir�nia;23
+316740 Silvian�polis;46
+316750 Sim�o Pereira;14
+316760 Simon�sia;111
+316770 Sobr�lia;45
+316780 Soledade de Minas;42
+316790 Tabuleiro;26
+316800 Taiobeiras;185
+316805 Taparuba;27
+316810 Tapira;21
+316820 Tapira�;9
+316830 Taquara�u de Minas;22
+316840 Tarumirim;107
+316850 Teixeiras;103
+316860 Te�filo Otoni;979
+316870 Tim�teo;447
+316880 Tiradentes;26
+316890 Tiros;46
+316900 Tocantins;136
+316905 Tocos do Moji;21
+316910 Toledo;41
+316920 Tombos;77
+316930 Tr�s Cora��es;493
+316935 Tr�s Marias;146
+316940 Tr�s Pontas;403
+316950 Tumiritinga;38
+316960 Tupaciguara;152
+316970 Turmalina;71
+316980 Turvol�ndia;29
+316990 Ub�;646
+317000 Uba�;61
+317005 Ubaporanga;77
+317010 Uberaba;2194
+317020 Uberl�ndia;3443
+317030 Umburatiba;15
+317040 Una�;417
+317043 Uni�o de Minas;23
+317047 Uruana de Minas;18
+317050 Uruc�nia;64
+317052 Urucuia;36
+317057 Vargem Alegre;57
+317060 Vargem Bonita;4
+317065 Vargem Grande do Rio Pardo;25
+317070 Varginha;728
+317075 Varj�o de Minas;30
+317080 V�rzea da Palma;208
+317090 Varzel�ndia;77
+317100 Vazante;101
+317103 Verdel�ndia;34
+317107 Veredinha;26
+317110 Ver�ssimo;19
+317115 Vermelho Novo;26
+317120 Vespasiano;526
+317130 Vi�osa;383
+317140 Vieiras;32
+317160 Virgem da Lapa;102
+317170 Virg�nia;55
+317180 Virgin�polis;89
+317190 Virgol�ndia;29
+317200 Visconde do Rio Branco;305
+317210 Volta Grande;53
+317220 Wenceslau Braz;21
+310000 Munic�pio ignorado - MG;283
+320010 Afonso Cl�udio;226
+320016 �gua Doce do Norte;83
+320013 �guia Branca;55
+320020 Alegre;229
+320030 Alfredo Chaves;81
+320035 Alto Rio Novo;46
+320040 Anchieta;130
+320050 Apiac�;68
+320060 Aracruz;436
+320070 Atilio Vivacqua;82
+320080 Baixo Guandu;234
+320090 Barra de S�o Francisco;306
+320100 Boa Esperan�a;113
+320110 Bom Jesus do Norte;92
+320115 Brejetuba;53
+320120 Cachoeiro de Itapemirim;1300
+320130 Cariacica;2183
+320140 Castelo;227
+320150 Colatina;753
+320160 Concei��o da Barra;169
+320170 Concei��o do Castelo;70
+320180 Divino de S�o Louren�o;25
+320190 Domingos Martins;184
+320200 Dores do Rio Preto;45
+320210 Ecoporanga;146
+320220 Fund�o;106
+320225 Governador Lindenberg;59
+320230 Gua�u�;209
+320240 Guarapari;657
+320245 Ibatiba;135
+320250 Ibira�u;70
+320255 Ibitirama;49
+320260 Iconha;67
+320265 Irupi;55
+320270 Itagua�u;89
+320280 Itapemirim;207
+320290 Itarana;92
+320300 I�na;171
+320305 Jaguar�;135
+320310 Jer�nimo Monteiro;78
+320313 Jo�o Neiva;113
+320316 Laranja da Terra;81
+320320 Linhares;793
+320330 Manten�polis;99
+320332 Marata�zes;194
+320334 Marechal Floriano;95
+320335 Maril�ndia;60
+320340 Mimoso do Sul;177
+320350 Montanha;137
+320360 Mucurici;51
+320370 Muniz Freire;102
+320380 Muqui;115
+320390 Nova Ven�cia;309
+320400 Pancas;114
+320405 Pedro Can�rio;138
+320410 Pinheiros;163
+320420 Pi�ma;117
+320425 Ponto Belo;51
+320430 Presidente Kennedy;62
+320435 Rio Bananal;71
+320440 Rio Novo do Sul;60
+320450 Santa Leopoldina;84
+320455 Santa Maria de Jetib�;203
+320460 Santa Teresa;168
+320465 S�o Domingos do Norte;51
+320470 S�o Gabriel da Palha;176
+320480 S�o Jos� do Cal�ado;92
+320490 S�o Mateus;621
+320495 S�o Roque do Cana�;78
+320500 Serra;2317
+320501 Sooretama;126
+320503 Vargem Alta;93
+320506 Venda Nova do Imigrante;109
+320510 Viana;341
+320515 Vila Pav�o;61
+320517 Vila Val�rio;87
+320520 Vila Velha;2466
+320530 Vit�ria;1893
+320000 Munic�pio ignorado - ES;33
+330010 Angra dos Reis;893
+330015 Aperib�;72
+330020 Araruama;913
+330022 Areal;73
+330023 Arma��o dos B�zios;177
+330025 Arraial do Cabo;202
+330030 Barra do Pira�;752
+330040 Barra Mansa;1230
+330045 Belford Roxo;3311
+330050 Bom Jardim;201
+330060 Bom Jesus do Itabapoana;291
+330070 Cabo Frio;1304
+330080 Cachoeiras de Macacu;406
+330090 Cambuci;155
+330100 Campos dos Goytacazes;3683
+330110 Cantagalo;171
+330093 Carapebus;76
+330115 Cardoso Moreira;95
+330120 Carmo;152
+330130 Casimiro de Abreu;228
+330095 Comendador Levy Gasparian;67
+330140 Concei��o de Macabu;129
+330150 Cordeiro;140
+330160 Duas Barras;63
+330170 Duque de Caxias;6364
+330180 Engenheiro Paulo de Frontin;95
+330185 Guapimirim;360
+330187 Iguaba Grande;173
+330190 Itabora�;1657
+330200 Itagua�;866
+330205 Italva;120
+330210 Itaocara;214
+330220 Itaperuna;752
+330225 Itatiaia;198
+330227 Japeri;635
+330230 Laje do Muria�;71
+330240 Maca�;1077
+330245 Macuco;57
+330250 Mag�;1736
+330260 Mangaratiba;295
+330270 Maric�;877
+330280 Mendes;169
+330285 Mesquita;1365
+330290 Miguel Pereira;234
+330300 Miracema;277
+330310 Natividade;129
+330320 Nil�polis;1359
+330330 Niter�i;4252
+330340 Nova Friburgo;1388
+330350 Nova Igua�u;5922
+330360 Paracambi;367
+330370 Para�ba do Sul;342
+330380 Paraty;191
+330385 Paty do Alferes;188
+330390 Petr�polis;2632
+330395 Pinheiral;156
+330400 Pira�;167
+330410 Porci�ncula;132
+330411 Porto Real;97
+330412 Quatis;86
+330414 Queimados;1039
+330415 Quissam�;143
+330420 Resende;779
+330430 Rio Bonito;410
+330440 Rio Claro;117
+330450 Rio das Flores;74
+330452 Rio das Ostras;621
+330455 Rio de Janeiro;52263
+330460 Santa Maria Madalena;81
+330470 Santo Ant�nio de P�dua;340
+330480 S�o Fid�lis;335
+330475 S�o Francisco de Itabapoana;279
+330490 S�o Gon�alo;7098
+330500 S�o Jo�o da Barra;301
+330510 S�o Jo�o de Meriti;3597
+330513 S�o Jos� de Ub�;47
+330515 S�o Jos� do Vale do Rio Preto;135
+330520 S�o Pedro da Aldeia;519
+330530 S�o Sebasti�o do Alto;72
+330540 Sapucaia;166
+330550 Saquarema;577
+330555 Serop�dica;535
+330560 Silva Jardim;161
+330570 Sumidouro;91
+330575 Tangu�;222
+330580 Teres�polis;1295
+330590 Trajano de Moraes;87
+330600 Tr�s Rios;658
+330610 Valen�a;627
+330615 Varre-Sai;50
+330620 Vassouras;323
+330630 Volta Redonda;1916
+330000 Munic�pio ignorado - RJ;1519
+350010 Adamantina;284
+350020 Adolfo;27
+350030 Agua�;253
+350040 �guas da Prata;76
+350050 �guas de Lind�ia;127
+350055 �guas de Santa B�rbara;42
+350060 �guas de S�o Pedro;42
+350070 Agudos;238
+350075 Alambari;24
+350080 Alfredo Marcondes;32
+350090 Altair;7
+350100 Altin�polis;112
+350110 Alto Alegre;27
+350115 Alum�nio;102
+350120 �lvares Florence;29
+350130 �lvares Machado;176
+350140 �lvaro de Carvalho;30
+350150 Alvinl�ndia;25
+350160 Americana;1426
+350170 Am�rico Brasiliense;158
+350180 Am�rico de Campos;50
+350190 Amparo;481
+350200 Anal�ndia;40
+350210 Andradina;423
+350220 Angatuba;128
+350230 Anhembi;31
+350240 Anhumas;26
+350250 Aparecida;275
+350260 Aparecida d'Oeste;58
+350270 Apia�;169
+350275 Ara�ariguama;96
+350280 Ara�atuba;1383
+350290 Ara�oiaba da Serra;213
+350300 Aramina;30
+350310 Arandu;30
+350315 Arape�;24
+350320 Araraquara;1592
+350330 Araras;855
+350335 Arco-�ris;16
+350340 Arealva;75
+350350 Areias;38
+350360 Arei�polis;55
+350370 Ariranha;62
+350380 Artur Nogueira;230
+350390 Aruj�;438
+350395 Asp�sia;12
+350400 Assis;734
+350410 Atibaia;976
+350420 Auriflama;118
+350430 Ava�;44
+350440 Avanhandava;76
+350450 Avar�;616
+350460 Bady Bassitt;81
+350470 Balbinos;15
+350480 B�lsamo;82
+350490 Bananal;66
+350500 Bar�o de Antonina;22
+350510 Barbosa;58
+350520 Bariri;274
+350530 Barra Bonita;290
+350535 Barra do Chap�u;39
+350540 Barra do Turvo;64
+350550 Barretos;977
+350560 Barrinha;146
+350570 Barueri;1680
+350580 Bastos;159
+350590 Batatais;461
+350600 Bauru;2437
+350610 Bebedouro;538
+350620 Bento de Abreu;16
+350630 Bernardino de Campos;99
+350635 Bertioga;247
+350640 Bilac;65
+350650 Birigui;703
+350660 Biritiba-Mirim;178
+350670 Boa Esperan�a do Sul;76
+350680 Bocaina;90
+350690 Bofete;66
+350700 Boituva;327
+350710 Bom Jesus dos Perd�es;127
+350715 Bom Sucesso de Itarar�;30
+350720 Bor�;6
+350730 Borac�ia;32
+350740 Borborema;110
+350745 Borebi;16
+350750 Botucatu;879
+350760 Bragan�a Paulista;1135
+350770 Bra�na;34
+350775 Brejo Alegre;22
+350780 Brodowski;160
+350790 Brotas;168
+350800 Buri;125
+350810 Buritama;121
+350820 Buritizal;24
+350830 Cabr�lia Paulista;46
+350840 Cabre�va;200
+350850 Ca�apava;545
+350860 Cachoeira Paulista;229
+350870 Caconde;161
+350880 Cafel�ndia;152
+350890 Caiabu;17
+350900 Caieiras;476
+350910 Caiu�;36
+350920 Cajamar;325
+350925 Cajati;164
+350930 Cajobi;67
+350940 Cajuru;149
+350945 Campina do Monte Alegre;39
+350950 Campinas;6726
+350960 Campo Limpo Paulista;461
+350970 Campos do Jord�o;346
+350980 Campos Novos Paulista;41
+350990 Canan�ia;71
+350995 Canas;28
+351000 C�ndido Mota;246
+351010 C�ndido Rodrigues;22
+351015 Canitar;24
+351020 Cap�o Bonito;356
+351030 Capela do Alto;94
+351040 Capivari;314
+351050 Caraguatatuba;625
+351060 Carapicu�ba;1672
+351070 Cardoso;121
+351080 Casa Branca;234
+351090 C�ssia dos Coqueiros;14
+351100 Castilho;127
+351110 Catanduva;989
+351120 Catigu�;55
+351130 Cedral;74
+351140 Cerqueira C�sar;111
+351150 Cerquilho;208
+351160 Ces�rio Lange;107
+351170 Charqueada;89
+355720 Chavantes;84
+351190 Clementina;38
+351200 Colina;130
+351210 Col�mbia;41
+351220 Conchal;136
+351230 Conchas;141
+351240 Cordeir�polis;116
+351250 Coroados;43
+351260 Coronel Macedo;40
+351270 Corumbata�;31
+351280 Cosm�polis;307
+351290 Cosmorama;67
+351300 Cotia;1146
+351310 Cravinhos;196
+351320 Cristais Paulista;42
+351330 Cruz�lia;20
+351340 Cruzeiro;564
+351350 Cubat�o;703
+351360 Cunha;154
+351370 Descalvado;223
+351380 Diadema;2009
+351385 Dirce Reis;20
+351390 Divinol�ndia;110
+351400 Dobrada;44
+351410 Dois C�rregos;250
+351420 Dolcin�polis;21
+351430 Dourado;55
+351440 Dracena;400
+351450 Duartina;107
+351460 Dumont;53
+351470 Echapor�;47
+351480 Eldorado;86
+351490 Elias Fausto;100
+351492 Elisi�rio;25
+351495 Emba�ba;26
+351500 Embu das Artes;1218
+351510 Embu-Gua�u;453
+351512 Emilian�polis;21
+351515 Engenheiro Coelho;69
+351518 Esp�rito Santo do Pinhal;349
+351519 Esp�rito Santo do Turvo;33
+355730 Estiva Gerbi;58
+351520 Estrela d'Oeste;64
+351530 Estrela do Norte;12
+351535 Euclides da Cunha Paulista;64
+351540 Fartura;120
+351560 Fernando Prestes;52
+351550 Fernand�polis;545
+351565 Fern�o;13
+351570 Ferraz de Vasconcelos;905
+351580 Flora Rica;11
+351590 Floreal;32
+351600 Fl�rida Paulista;100
+351610 Flor�nia;28
+351620 Franca;1960
+351630 Francisco Morato;743
+351640 Franco da Rocha;787
+351650 Gabriel Monteiro;38
+351660 G�lia;56
+351670 Gar�a;365
+351680 Gast�o Vidigal;26
+351685 Gavi�o Peixoto;21
+351690 General Salgado;85
+351700 Getulina;75
+351710 Glic�rio;39
+351720 Guai�ara;88
+351730 Guaimb�;41
+351740 Gua�ra;283
+351750 Guapia�u;123
+351760 Guapiara;125
+351770 Guar�;119
+351780 Guara�a�;64
+351790 Guaraci;71
+351800 Guarani d'Oeste;15
+351810 Guarant�;39
+351820 Guararapes;246
+351830 Guararema;187
+351840 Guaratinguet�;923
+351850 Guare�;67
+351860 Guariba;224
+351870 Guaruj�;1898
+351880 Guarulhos;6951
+351885 Guatapar�;38
+351890 Guzol�ndia;31
+351900 Hercul�ndia;50
+351905 Holambra;60
+351907 Hortol�ndia;1008
+351910 Iacanga;73
+351920 Iacri;39
+351925 Iaras;39
+351930 Ibat�;188
+351940 Ibir�;70
+351950 Ibirarema;66
+351960 Ibitinga;414
+351970 Ibi�na;512
+351980 Ic�m;50
+351990 Iep�;68
+352000 Igara�u do Tiet�;154
+352010 Igarapava;199
+352020 Igarat�;68
+352030 Iguape;207
+352042 Ilha Comprida;90
+352044 Ilha Solteira;164
+352040 Ilhabela;141
+352050 Indaiatuba;1071
+352060 Indiana;42
+352070 Indiapor�;37
+352080 In�bia Paulista;23
+352090 Ipaussu;112
+352100 Iper�;139
+352110 Ipe�na;29
+352115 Ipigu�;23
+352120 Iporanga;34
+352130 Ipu�;83
+352140 Iracem�polis;108
+352150 Irapu�;64
+352160 Irapuru;56
+352170 Itaber�;129
+352180 Ita�;180
+352190 Itajobi;131
+352200 Itaju;31
+352210 Itanha�m;753
+352215 Ita�ca;23
+352220 Itapecerica da Serra;850
+352230 Itapetininga;1041
+352240 Itapeva;592
+352250 Itapevi;978
+352260 Itapira;574
+352265 Itapirapu� Paulista;24
+352270 It�polis;336
+352280 Itaporanga;115
+352290 Itapu�;100
+352300 Itapura;34
+352310 Itaquaquecetuba;1607
+352320 Itarar�;332
+352330 Itariri;84
+352340 Itatiba;623
+352350 Itatinga;108
+352360 Itirapina;86
+352370 Itirapu�;38
+352380 Itobi;59
+352390 Itu;1012
+352400 Itupeva;183
+352410 Ituverava;302
+352420 Jaborandi;53
+352430 Jaboticabal;590
+352440 Jacare�;1365
+352450 Jaci;35
+352460 Jacupiranga;108
+352470 Jaguari�na;273
+352480 Jales;391
+352490 Jambeiro;28
+352500 Jandira;455
+352510 Jardin�polis;276
+352520 Jarinu;129
+352530 Ja�;988
+352540 Jeriquara;16
+352550 Joan�polis;98
+352560 Jo�o Ramalho;27
+352570 Jos� Bonif�cio;247
+352580 J�lio Mesquita;41
+352585 Jumirim;15
+352590 Jundia�;2540
+352600 Junqueir�polis;173
+352610 Juqui�;156
+352620 Juquitiba;173
+352630 Lagoinha;47
+352640 Laranjal Paulista;197
+352650 Lav�nia;49
+352660 Lavrinhas;46
+352670 Leme;643
+352680 Len��is Paulista;383
+352690 Limeira;1904
+352700 Lind�ia;47
+352710 Lins;589
+352720 Lorena;626
+352725 Lourdes;22
+352730 Louveira;207
+352740 Luc�lia;136
+352750 Lucian�polis;22
+352760 Lu�s Ant�nio;55
+352770 Luizi�nia;49
+352780 Lup�rcio;32
+352790 Lut�cia;26
+352800 Macatuba;101
+352810 Macaubal;64
+352820 Maced�nia;29
+352830 Magda;26
+352840 Mairinque;300
+352850 Mairipor�;518
+352860 Manduri;57
+352870 Marab� Paulista;23
+352880 Maraca�;91
+352885 Marapoama;19
+352890 Mari�polis;29
+352900 Mar�lia;1577
+352910 Marin�polis;19
+352920 Martin�polis;184
+352930 Mat�o;563
+352940 Mau�;2066
+352950 Mendon�a;33
+352960 Meridiano;33
+352965 Mes�polis;21
+352970 Miguel�polis;132
+352980 Mineiros do Tiet�;108
+353000 Mira Estrela;27
+352990 Miracatu;154
+353010 Mirand�polis;224
+353020 Mirante do Paranapanema;116
+353030 Mirassol;395
+353040 Mirassol�ndia;31
+353050 Mococa;507
+353060 Mogi das Cruzes;2503
+353070 Mogi Gua�u;965
+353080 Mogi Mirim;688
+353090 Mombuca;24
+353100 Mon��es;13
+353110 Mongagu�;401
+353120 Monte Alegre do Sul;59
+353130 Monte Alto;329
+353140 Monte Apraz�vel;175
+353150 Monte Azul Paulista;147
+353160 Monte Castelo;47
+353180 Monte Mor;292
+353170 Monteiro Lobato;28
+353190 Morro Agudo;153
+353200 Morungaba;76
+353205 Motuca;26
+353210 Murutinga do Sul;41
+353215 Nantes;21
+353220 Narandiba;21
+353230 Natividade da Serra;48
+353240 Nazar� Paulista;124
+353250 Neves Paulista;80
+353260 Nhandeara;97
+353270 Nipo�;33
+353280 Nova Alian�a;40
+353282 Nova Campina;46
+353284 Nova Cana� Paulista;27
+353286 Nova Castilho;2
+353290 Nova Europa;54
+353300 Nova Granada;146
+353310 Nova Guataporanga;21
+353320 Nova Independ�ncia;16
+353330 Nova Luzit�nia;16
+353340 Nova Odessa;333
+353325 Novais;28
+353350 Novo Horizonte;290
+353360 Nuporanga;56
+353370 Ocau�u;22
+353380 �leo;27
+353390 Ol�mpia;334
+353400 Onda Verde;20
+353410 Oriente;49
+353420 Orindi�va;30
+353430 Orl�ndia;242
+353440 Osasco;4095
+353450 Oscar Bressane;29
+353460 Osvaldo Cruz;249
+353470 Ourinhos;775
+353480 Ouro Verde;57
+353475 Ouroeste;57
+353490 Pacaembu;108
+353500 Palestina;90
+353510 Palmares Paulista;48
+353520 Palmeira d'Oeste;82
+353530 Palmital;192
+353540 Panorama;106
+353550 Paragua�u Paulista;364
+353560 Paraibuna;121
+353570 Para�so;43
+353580 Paranapanema;105
+353590 Paranapu�;34
+353600 Parapu�;72
+353610 Pardinho;42
+353620 Pariquera-A�u;147
+353625 Parisi;17
+353630 Patroc�nio Paulista;98
+353640 Paulic�ia;44
+353650 Paul�nia;410
+353657 Paulist�nia;14
+353660 Paulo de Faria;66
+353670 Pederneiras;302
+353680 Pedra Bela;63
+353690 Pedran�polis;22
+353700 Pedregulho;85
+353710 Pedreira;278
+353715 Pedrinhas Paulista;24
+353720 Pedro de Toledo;66
+353730 Pen�polis;518
+353740 Pereira Barreto;186
+353750 Pereiras;63
+353760 Peru�be;579
+353770 Piacatu;35
+353780 Piedade;400
+353790 Pilar do Sul;176
+353800 Pindamonhangaba;889
+353810 Pindorama;134
+353820 Pinhalzinho;105
+353830 Piquerobi;19
+353850 Piquete;114
+353860 Piracaia;221
+353870 Piracicaba;2560
+353880 Piraju;207
+353890 Piraju�;215
+353900 Pirangi;99
+353910 Pirapora do Bom Jesus;93
+353920 Pirapozinho;178
+353930 Pirassununga;600
+353940 Piratininga;99
+353950 Pitangueiras;201
+353960 Planalto;22
+353970 Platina;18
+353980 Po�;664
+353990 Poloni;38
+354000 Pomp�ia;156
+354010 Ponga�;40
+354020 Pontal;195
+354025 Pontalinda;35
+354030 Pontes Gestal;25
+354040 Populina;37
+354050 Porangaba;57
+354060 Porto Feliz;351
+354070 Porto Ferreira;385
+354075 Potim;109
+354080 Potirendaba;125
+354085 Pracinha;8
+354090 Prad�polis;74
+354100 Praia Grande;1949
+354105 Prat�nia;32
+354110 Presidente Alves;38
+354120 Presidente Bernardes;97
+354130 Presidente Epit�cio;319
+354140 Presidente Prudente;1477
+354150 Presidente Venceslau;268
+354160 Promiss�o;262
+354165 Quadra;17
+354170 Quat�;84
+354180 Queiroz;25
+354190 Queluz;64
+354200 Quintana;42
+354210 Rafard;61
+354220 Rancharia;242
+354230 Reden��o da Serra;24
+354240 Regente Feij�;146
+354250 Regin�polis;64
+354260 Registro;366
+354270 Restinga;38
+354280 Ribeira;27
+354290 Ribeir�o Bonito;70
+354300 Ribeir�o Branco;114
+354310 Ribeir�o Corrente;14
+354320 Ribeir�o do Sul;34
+354323 Ribeir�o dos �ndios;17
+354325 Ribeir�o Grande;34
+354330 Ribeir�o Pires;681
+354340 Ribeir�o Preto;4019
+354360 Rifaina;29
+354370 Rinc�o;86
+354380 Rin�polis;86
+354390 Rio Claro;1474
+354400 Rio das Pedras;162
+354410 Rio Grande da Serra;209
+354420 Riol�ndia;85
+354350 Riversul;68
+354425 Rosana;120
+354430 Roseira;70
+354440 Rubi�cea;11
+354450 Rubin�ia;26
+354460 Sabino;39
+354470 Sagres;21
+354480 Sales;37
+354490 Sales Oliveira;57
+354500 Sales�polis;123
+354510 Salmour�o;37
+354515 Saltinho;46
+354520 Salto;710
+354530 Salto de Pirapora;278
+354540 Salto Grande;71
+354550 Sandovalina;31
+354560 Santa Ad�lia;113
+354570 Santa Albertina;54
+354580 Santa B�rbara d'Oeste;1164
+354600 Santa Branca;80
+354610 Santa Clara d'Oeste;17
+354620 Santa Cruz da Concei��o;34
+354625 Santa Cruz da Esperan�a;6
+354630 Santa Cruz das Palmeiras;177
+354640 Santa Cruz do Rio Pardo;332
+354650 Santa Ernestina;31
+354660 Santa F� do Sul;253
+354670 Santa Gertrudes;110
+354680 Santa Isabel;316
+354690 Santa L�cia;41
+354700 Santa Maria da Serra;30
+354710 Santa Mercedes;23
+354740 Santa Rita d'Oeste;22
+354750 Santa Rita do Passa Quatro;261
+354760 Santa Rosa de Viterbo;187
+354765 Santa Salete;8
+354720 Santana da Ponte Pensa;12
+354730 Santana de Parna�ba;462
+354770 Santo Anast�cio;185
+354780 Santo Andr�;4736
+354790 Santo Ant�nio da Alegria;49
+354800 Santo Ant�nio de Posse;126
+354805 Santo Ant�nio do Aracangu�;43
+354810 Santo Ant�nio do Jardim;62
+354820 Santo Ant�nio do Pinhal;41
+354830 Santo Expedito;25
+354840 Sant�polis do Aguape�;26
+354850 Santos;4024
+354860 S�o Bento do Sapuca�;71
+354870 S�o Bernardo do Campo;4002
+354880 S�o Caetano do Sul;1377
+354890 S�o Carlos;1573
+354900 S�o Francisco;28
+354910 S�o Jo�o da Boa Vista;697
+354920 S�o Jo�o das Duas Pontes;23
+354925 S�o Jo�o de Iracema;11
+354930 S�o Jo�o do Pau d'Alho;14
+354940 S�o Joaquim da Barra;341
+354950 S�o Jos� da Bela Vista;38
+354960 S�o Jos� do Barreiro;24
+354970 S�o Jos� do Rio Pardo;492
+354980 S�o Jos� do Rio Preto;2925
+354990 S�o Jos� dos Campos;3378
+354995 S�o Louren�o da Serra;89
+355000 S�o Lu�s do Paraitinga;84
+355010 S�o Manuel;335
+355020 S�o Miguel Arcanjo;211
+355030 S�o Paulo;71003
+355040 S�o Pedro;240
+355050 S�o Pedro do Turvo;41
+355060 S�o Roque;539
+355070 S�o Sebasti�o;358
+355080 S�o Sebasti�o da Grama;92
+355090 S�o Sim�o;116
+355100 S�o Vicente;2378
+355110 Sarapu�;60
+355120 Sarutai�;40
+355130 Sebastian�polis do Sul;26
+355140 Serra Azul;64
+355160 Serra Negra;254
+355150 Serrana;215
+355170 Sert�ozinho;611
+355180 Sete Barras;94
+355190 Sever�nia;94
+355200 Silveiras;42
+355210 Socorro;289
+355220 Sorocaba;3863
+355230 Sud Mennucci;35
+355240 Sumar�;1210
+355255 Suzan�polis;25
+355250 Suzano;1419
+355260 Tabapu�;78
+355270 Tabatinga;119
+355280 Tabo�o da Serra;1376
+355290 Taciba;40
+355300 Tagua�;72
+355310 Taia�u;44
+355320 Tai�va;46
+355330 Tamba�;150
+355340 Tanabi;188
+355350 Tapira�;50
+355360 Tapiratiba;108
+355365 Taquaral;20
+355370 Taquaritinga;451
+355380 Taquarituba;196
+355385 Taquariva�;32
+355390 Tarabai;56
+355395 Tarum�;62
+355400 Tatu�;791
+355410 Taubat�;1891
+355420 Tejup�;41
+355430 Teodoro Sampaio;141
+355440 Terra Roxa;71
+355450 Tiet�;259
+355460 Timburi;19
+355465 Torre de Pedra;26
+355470 Torrinha;100
+355475 Trabiju;13
+355480 Trememb�;214
+355490 Tr�s Fronteiras;41
+355495 Tuiuti;37
+355500 Tup�;629
+355510 Tupi Paulista;128
+355520 Turi�ba;20
+355530 Turmalina;17
+355535 Ubarana;47
+355540 Ubatuba;433
+355550 Ubirajara;30
+355560 Uchoa;82
+355570 Uni�o Paulista;13
+355580 Ur�nia;70
+355590 Uru;12
+355600 Urup�s;101
+355610 Valentim Gentil;75
+355620 Valinhos;687
+355630 Valpara�so;131
+355635 Vargem;59
+355640 Vargem Grande do Sul;298
+355645 Vargem Grande Paulista;229
+355650 V�rzea Paulista;493
+355660 Vera Cruz;95
+355670 Vinhedo;348
+355680 Viradouro;127
+355690 Vista Alegre do Alto;34
+355695 Vit�ria Brasil;20
+355700 Votorantim;656
+355710 Votuporanga;654
+355715 Zacarias;13
+350000 Munic�pio ignorado - SP;705
+410010 Abati�;64
+410020 Adrian�polis;28
+410030 Agudos do Sul;51
+410040 Almirante Tamandar�;628
+410045 Altamira do Paran�;25
+412862 Alto Para�so;34
+410060 Alto Paran�;103
+410070 Alto Piquiri;87
+410050 Alt�nia;149
+410080 Alvorada do Sul;62
+410090 Amapor�;29
+410100 Amp�re;135
+410105 Anahy;22
+410110 Andir�;157
+410115 �ngulo;21
+410120 Antonina;159
+410130 Ant�nio Olinto;57
+410140 Apucarana;816
+410150 Arapongas;793
+410160 Arapoti;160
+410165 Arapu�;30
+410170 Araruna;89
+410180 Arauc�ria;654
+410185 Ariranha do Iva�;18
+410190 Assa�;110
+410200 Assis Chateaubriand;253
+410210 Astorga;187
+410220 Atalaia;20
+410230 Balsa Nova;81
+410240 Bandeirantes;240
+410250 Barbosa Ferraz;112
+410270 Barra do Jacar�;14
+410260 Barrac�o;67
+410275 Bela Vista da Caroba;26
+410280 Bela Vista do Para�so;116
+410290 Bituruna;85
+410300 Boa Esperan�a;27
+410302 Boa Esperan�a do Igua�u;10
+410304 Boa Ventura de S�o Roque;32
+410305 Boa Vista da Aparecida;69
+410310 Bocai�va do Sul;70
+410315 Bom Jesus do Sul;28
+410320 Bom Sucesso;52
+410322 Bom Sucesso do Sul;30
+410330 Borraz�polis;77
+410335 Braganey;44
+410337 Brasil�ndia do Sul;29
+410340 Cafeara;20
+410345 Cafel�ndia;62
+410347 Cafezal do Sul;32
+410350 Calif�rnia;75
+410360 Cambar�;186
+410370 Camb�;668
+410380 Cambira;56
+410390 Campina da Lagoa;134
+410395 Campina do Sim�o;29
+410400 Campina Grande do Sul;235
+410405 Campo Bonito;28
+410410 Campo do Tenente;42
+410420 Campo Largo;669
+410425 Campo Magro;144
+410430 Campo Mour�o;674
+410440 C�ndido de Abreu;123
+410442 Cand�i;97
+410445 Cantagalo;75
+410450 Capanema;141
+410460 Capit�o Le�nidas Marques;84
+410465 Carambe�;81
+410470 Carl�polis;113
+410480 Cascavel;1759
+410490 Castro;450
+410500 Catanduvas;64
+410510 Centen�rio do Sul;112
+410520 Cerro Azul;101
+410530 C�u Azul;83
+410540 Chopinzinho;109
+410550 Cianorte;390
+410560 Cidade Ga�cha;65
+410570 Clevel�ndia;151
+410580 Colombo;1220
+410590 Colorado;185
+410600 Congonhinhas;59
+410610 Conselheiro Mairinck;34
+410620 Contenda;111
+410630 Corb�lia;104
+410640 Corn�lio Proc�pio;366
+410645 Coronel Domingos Soares;32
+410650 Coronel Vivida;156
+410655 Corumbata� do Sul;29
+410680 Cruz Machado;110
+410657 Cruzeiro do Igua�u;28
+410660 Cruzeiro do Oeste;175
+410670 Cruzeiro do Sul;33
+410685 Cruzmaltina;27
+410690 Curitiba;10046
+410700 Curi�va;86
+410715 Diamante D'Oeste;43
+410710 Diamante do Norte;46
+410712 Diamante do Sul;23
+410720 Dois Vizinhos;213
+410725 Douradina;55
+410730 Doutor Camargo;46
+412863 Doutor Ulysses;32
+410740 En�as Marques;35
+410750 Engenheiro Beltr�o;102
+410753 Entre Rios do Oeste;15
+410752 Esperan�a Nova;17
+410754 Espig�o Alto do Igua�u;35
+410755 Farol;29
+410760 Faxinal;153
+410765 Fazenda Rio Grande;507
+410770 F�nix;50
+410773 Fernandes Pinheiro;27
+410775 Figueira;68
+410785 Flor da Serra do Sul;26
+410780 Flora�;49
+410790 Floresta;39
+410800 Florest�polis;84
+410810 Fl�rida;21
+410820 Formosa do Oeste;64
+410830 Foz do Igua�u;1451
+410845 Foz do Jord�o;37
+410832 Francisco Alves;66
+410840 Francisco Beltr�o;530
+410850 General Carneiro;106
+410855 Godoy Moreira;23
+410860 Goioer�;228
+410865 Goioxim;36
+410870 Grandes Rios;62
+410880 Gua�ra;241
+410890 Guaira��;38
+410895 Guamiranga;49
+410900 Guapirama;35
+410910 Guaporema;13
+410920 Guaraci;44
+410930 Guarania�u;96
+410940 Guarapuava;1160
+410950 Guaraque�aba;31
+410960 Guaratuba;244
+410965 Hon�rio Serpa;26
+410970 Ibaiti;230
+410975 Ibema;34
+410980 Ibipor�;320
+410990 Icara�ma;78
+411000 Iguara�u;28
+411005 Iguatu;16
+411007 Imba�;75
+411010 Imbituva;166
+411020 In�cio Martins;46
+411030 Inaj�;24
+411040 Indian�polis;25
+411050 Ipiranga;81
+411060 Ipor�;141
+411065 Iracema do Oeste;18
+411070 Irati;393
+411080 Iretama;84
+411090 Itaguaj�;27
+411095 Itaipul�ndia;70
+411100 Itambarac�;71
+411110 Itamb�;40
+411120 Itapejara d'Oeste;62
+411125 Itaperu�u;148
+411130 Ita�na do Sul;37
+411140 Iva�;90
+411150 Ivaipor�;277
+411155 Ivat�;51
+411160 Ivatuba;23
+411170 Jaboti;36
+411180 Jacarezinho;294
+411190 Jaguapit�;106
+411200 Jaguaria�va;205
+411210 Jandaia do Sul;169
+411220 Jani�polis;67
+411230 Japira;27
+411240 Japur�;58
+411250 Jardim Alegre;96
+411260 Jardim Olinda;8
+411270 Jataizinho;84
+411275 Jesu�tas;55
+411280 Joaquim T�vora;113
+411290 Jundia� do Sul;25
+411295 Juranda;46
+411300 Jussara;46
+411310 Kalor�;49
+411320 Lapa;307
+411325 Laranjal;36
+411330 Laranjeiras do Sul;210
+411340 Le�polis;26
+411342 Lidian�polis;31
+411345 Lindoeste;34
+411350 Loanda;126
+411360 Lobato;29
+411370 Londrina;3561
+411373 Luiziana;41
+411375 Lunardelli;34
+411380 Lupion�polis;45
+411390 Mallet;107
+411400 Mambor�;110
+411410 Mandagua�u;112
+411420 Mandaguari;214
+411430 Mandirituba;172
+411435 Manfrin�polis;20
+411440 Mangueirinha;80
+411450 Manoel Ribas;101
+411460 Marechal C�ndido Rondon;297
+411470 Maria Helena;35
+411480 Marialva;172
+411490 Maril�ndia do Sul;69
+411500 Marilena;40
+411510 Mariluz;79
+411520 Maring�;2058
+411530 Mari�polis;54
+411535 Marip�;38
+411540 Marmeleiro;96
+411545 Marquinho;27
+411550 Marumbi;31
+411560 Matel�ndia;100
+411570 Matinhos;232
+411573 Mato Rico;29
+411575 Mau� da Serra;48
+411580 Medianeira;262
+411585 Mercedes;42
+411590 Mirador;20
+411600 Miraselva;16
+411605 Missal;72
+411610 Moreira Sales;117
+411620 Morretes;140
+411630 Munhoz de Melo;22
+411640 Nossa Senhora das Gra�as;32
+411650 Nova Alian�a do Iva�;8
+411660 Nova Am�rica da Colina;18
+411670 Nova Aurora;85
+411680 Nova Cantu;54
+411690 Nova Esperan�a;213
+411695 Nova Esperan�a do Sudoeste;27
+411700 Nova F�tima;60
+411705 Nova Laranjeiras;87
+411710 Nova Londrina;103
+411720 Nova Ol�mpia;51
+411725 Nova Prata do Igua�u;58
+411721 Nova Santa B�rbara;39
+411722 Nova Santa Rosa;67
+411727 Nova Tebas;42
+411729 Novo Itacolomi;16
+411730 Ortigueira;166
+411740 Ourizona;15
+411745 Ouro Verde do Oeste;42
+411750 Pai�andu;238
+411760 Palmas;250
+411770 Palmeira;240
+411780 Palmital;86
+411790 Palotina;159
+411800 Para�so do Norte;68
+411810 Paranacity;69
+411820 Paranagu�;876
+411830 Paranapoema;17
+411840 Paranava�;620
+411845 Pato Bragado;41
+411850 Pato Branco;404
+411860 Paula Freitas;48
+411870 Paulo Frontin;62
+411880 Peabiru;85
+411885 Perobal;52
+411890 P�rola;86
+411900 P�rola d'Oeste;51
+411910 Pi�n;55
+411915 Pinhais;679
+411925 Pinhal de S�o Bento;21
+411920 Pinhal�o;51
+411930 Pinh�o;195
+411940 Pira� do Sul;159
+411950 Piraquara;565
+411960 Pitanga;233
+411965 Pitangueiras;18
+411970 Planaltina do Paran�;39
+411980 Planalto;106
+411990 Ponta Grossa;2099
+411995 Pontal do Paran�;135
+412000 Porecatu;111
+412010 Porto Amazonas;46
+412015 Porto Barreiro;16
+412020 Porto Rico;13
+412030 Porto Vit�ria;29
+412033 Prado Ferreira;29
+412035 Pranchita;50
+412040 Presidente Castelo Branco;27
+412050 Primeiro de Maio;80
+412060 Prudent�polis;364
+412065 Quarto Centen�rio;46
+412070 Quatigu�;58
+412080 Quatro Barras;124
+412085 Quatro Pontes;27
+412090 Quedas do Igua�u;201
+412100 Quer�ncia do Norte;85
+412110 Quinta do Sol;34
+412120 Quitandinha;121
+412125 Ramil�ndia;28
+412130 Rancho Alegre;31
+412135 Rancho Alegre D'Oeste;13
+412140 Realeza;119
+412150 Rebou�as;104
+412160 Renascen�a;48
+412170 Reserva;166
+412175 Reserva do Igua�u;34
+412180 Ribeir�o Claro;100
+412190 Ribeir�o do Pinhal;126
+412200 Rio Azul;101
+412210 Rio Bom;35
+412215 Rio Bonito do Igua�u;74
+412217 Rio Branco do Iva�;22
+412220 Rio Branco do Sul;207
+412230 Rio Negro;204
+412240 Rol�ndia;423
+412250 Roncador;81
+412260 Rondon;57
+412265 Ros�rio do Iva�;48
+412270 Sab�udia;55
+412280 Salgado Filho;33
+412290 Salto do Itarar�;59
+412300 Salto do Lontra;91
+412310 Santa Am�lia;30
+412320 Santa Cec�lia do Pav�o;32
+412330 Santa Cruz de Monte Castelo;67
+412340 Santa F�;75
+412350 Santa Helena;162
+412360 Santa In�s;11
+412370 Santa Isabel do Iva�;86
+412380 Santa Izabel do Oeste;83
+412382 Santa L�cia;31
+412385 Santa Maria do Oeste;62
+412390 Santa Mariana;115
+412395 Santa M�nica;25
+412402 Santa Tereza do Oeste;73
+412405 Santa Terezinha de Itaipu;129
+412400 Santana do Itarar�;40
+412410 Santo Ant�nio da Platina;330
+412420 Santo Ant�nio do Caiu�;21
+412430 Santo Ant�nio do Para�so;18
+412440 Santo Ant�nio do Sudoeste;119
+412450 Santo In�cio;35
+412460 S�o Carlos do Iva�;37
+412470 S�o Jer�nimo da Serra;64
+412480 S�o Jo�o;82
+412490 S�o Jo�o do Caiu�;48
+412500 S�o Jo�o do Iva�;100
+412510 S�o Jo�o do Triunfo;75
+412520 S�o Jorge d'Oeste;54
+412530 S�o Jorge do Iva�;40
+412535 S�o Jorge do Patroc�nio;45
+412540 S�o Jos� da Boa Vista;67
+412545 S�o Jos� das Palmeiras;29
+412550 S�o Jos� dos Pinhais;1554
+412555 S�o Manoel do Paran�;13
+412560 S�o Mateus do Sul;235
+412570 S�o Miguel do Igua�u;176
+412575 S�o Pedro do Igua�u;42
+412580 S�o Pedro do Iva�;52
+412590 S�o Pedro do Paran�;19
+412600 S�o Sebasti�o da Amoreira;62
+412610 S�o Tom�;42
+412620 Sapopema;61
+412625 Sarandi;594
+412627 Saudade do Igua�u;31
+412630 Seng�s;103
+412635 Serran�polis do Igua�u;30
+412640 Sertaneja;38
+412650 Sertan�polis;142
+412660 Siqueira Campos;154
+412665 Sulina;21
+412667 Tamarana;81
+412670 Tamboara;40
+412680 Tapejara;95
+412690 Tapira;46
+412700 Teixeira Soares;63
+412710 Tel�maco Borba;471
+412720 Terra Boa;105
+412730 Terra Rica;118
+412740 Terra Roxa;126
+412750 Tibagi;113
+412760 Tijucas do Sul;97
+412770 Toledo;687
+412780 Tomazina;84
+412785 Tr�s Barras do Paran�;60
+412788 Tunas do Paran�;38
+412790 Tuneiras do Oeste;58
+412795 Tup�ssi;51
+412796 Turvo;87
+412800 Ubirat�;158
+412810 Umuarama;641
+412820 Uni�o da Vit�ria;377
+412830 Uniflor;19
+412840 Ura�;106
+412853 Ventania;56
+412855 Vera Cruz do Oeste;86
+412860 Ver�;66
+412865 Virmond;34
+412870 Vitorino;48
+412850 Wenceslau Braz;161
+412880 Xambr�;51
+410000 Munic�pio ignorado - PR;221
+420005 Abdon Batista;17
+420010 Abelardo Luz;81
+420020 Agrol�ndia;49
+420030 Agron�mica;36
+420040 �gua Doce;48
+420050 �guas de Chapec�;39
+420055 �guas Frias;13
+420060 �guas Mornas;40
+420070 Alfredo Wagner;68
+420075 Alto Bela Vista;17
+420080 Anchieta;41
+420090 Angelina;31
+420100 Anita Garibaldi;55
+420110 Anit�polis;18
+420120 Ant�nio Carlos;40
+420125 Api�na;74
+420127 Arabut�;29
+420130 Araquari;118
+420140 Ararangu�;323
+420150 Armaz�m;54
+420160 Arroio Trinta;16
+420165 Arvoredo;4
+420170 Ascurra;64
+420180 Atalanta;19
+420190 Aurora;40
+420195 Balne�rio Arroio do Silva;81
+420205 Balne�rio Barra do Sul;60
+420200 Balne�rio Cambori�;554
+420207 Balne�rio Gaivota;51
+421280 Balne�rio Pi�arras;109
+420208 Bandeirante;23
+420209 Barra Bonita;16
+420210 Barra Velha;145
+420213 Bela Vista do Toldo;27
+420215 Belmonte;10
+420220 Benedito Novo;61
+420230 Bigua�u;312
+420240 Blumenau;1643
+420243 Bocaina do Sul;23
+420250 Bom Jardim da Serra;21
+420253 Bom Jesus;11
+420257 Bom Jesus do Oeste;10
+420260 Bom Retiro;60
+420245 Bombinhas;70
+420270 Botuver�;22
+420280 Bra�o do Norte;154
+420285 Bra�o do Trombudo;30
+420287 Brun�polis;24
+420290 Brusque;523
+420300 Ca�ador;422
+420310 Caibi;41
+420315 Calmon;10
+420320 Cambori�;316
+420330 Campo Alegre;87
+420340 Campo Belo do Sul;40
+420350 Campo Er�;65
+420360 Campos Novos;196
+420370 Canelinha;57
+420380 Canoinhas;358
+420325 Cap�o Alto;21
+420390 Capinzal;127
+420395 Capivari de Baixo;149
+420400 Catanduvas;49
+420410 Caxambu do Sul;31
+420415 Celso Ramos;12
+420417 Cerro Negro;23
+420419 Chapad�o do Lageado;11
+420420 Chapec�;906
+420425 Cocal do Sul;78
+420430 Conc�rdia;386
+420435 Cordilheira Alta;25
+420440 Coronel Freitas;64
+420445 Coronel Martins;13
+420455 Correia Pinto;95
+420450 Corup�;104
+420460 Crici�ma;1142
+420470 Cunha Por�;83
+420475 Cunhata�;10
+420480 Curitibanos;295
+420490 Descanso;60
+420500 Dion�sio Cerqueira;93
+420510 Dona Emma;27
+420515 Doutor Pedrinho;25
+420517 Entre Rios;20
+420519 Ermo;13
+420520 Erval Velho;23
+420530 Faxinal dos Guedes;53
+420535 Flor do Sert�o;10
+420540 Florian�polis;2030
+420543 Formosa do Sul;22
+420545 Forquilhinha;109
+420550 Fraiburgo;189
+420555 Frei Rog�rio;19
+420560 Galv�o;18
+420570 Garopaba;110
+420580 Garuva;76
+420590 Gaspar;300
+420600 Governador Celso Ramos;87
+420610 Gr�o Par�;34
+420620 Gravatal;66
+420630 Guabiruba;73
+420640 Guaraciaba;49
+420650 Guaramirim;144
+420660 Guaruj� do Sul;37
+420665 Guatamb�;39
+420670 Herval d'Oeste;124
+420675 Ibiam;10
+420680 Ibicar�;27
+420690 Ibirama;116
+420700 I�ara;343
+420710 Ilhota;63
+420720 Imaru�;106
+420730 Imbituba;234
+420740 Imbuia;34
+420750 Indaial;325
+420757 Iomer�;18
+420760 Ipira;30
+420765 Ipor� do Oeste;36
+420768 Ipua�u;44
+420770 Ipumirim;51
+420775 Iraceminha;22
+420780 Irani;53
+420785 Irati;18
+420790 Irine�polis;56
+420800 It�;28
+420810 Itai�polis;140
+420820 Itaja�;1115
+420830 Itapema;213
+420840 Itapiranga;78
+420845 Itapo�;97
+420850 Ituporanga;125
+420860 Jabor�;19
+420870 Jacinto Machado;55
+420880 Jaguaruna;123
+420890 Jaragu� do Sul;706
+420895 Jardin�polis;13
+420900 Joa�aba;136
+420910 Joinville;2651
+420915 Jos� Boiteux;37
+420917 Jupi�;12
+420920 Lacerd�polis;8
+420930 Lages;1048
+420940 Laguna;395
+420945 Lajeado Grande;9
+420950 Laurentino;35
+420960 Lauro Muller;95
+420970 Lebon R�gis;57
+420980 Leoberto Leal;21
+420985 Lind�ia do Sul;27
+420990 Lontras;80
+421000 Luiz Alves;65
+421003 Luzerna;29
+421005 Macieira;15
+421010 Mafra;380
+421020 Major Gercino;18
+421030 Major Vieira;45
+421040 Maracaj�;45
+421050 Maravilha;141
+421055 Marema;8
+421060 Massaranduba;106
+421070 Matos Costa;8
+421080 Meleiro;53
+421085 Mirim Doce;17
+421090 Modelo;25
+421100 Monda�;55
+421105 Monte Carlo;43
+421110 Monte Castelo;56
+421120 Morro da Fuma�a;98
+421125 Morro Grande;10
+421130 Navegantes;353
+421140 Nova Erechim;21
+421145 Nova Itaberaba;16
+421150 Nova Trento;72
+421160 Nova Veneza;78
+421165 Novo Horizonte;12
+421170 Orleans;136
+421175 Otac�lio Costa;107
+421180 Ouro;31
+421185 Ouro Verde;8
+421187 Paial;12
+421189 Painel;13
+421190 Palho�a;662
+421200 Palma Sola;41
+421205 Palmeira;11
+421210 Palmitos;115
+421220 Papanduva;128
+421223 Para�so;25
+421225 Passo de Torres;42
+421227 Passos Maia;21
+421230 Paulo Lopes;40
+421240 Pedras Grandes;33
+421250 Penha;160
+421260 Peritiba;17
+421270 Petrol�ndia;37
+421290 Pinhalzinho;84
+421300 Pinheiro Preto;21
+421310 Piratuba;36
+421315 Planalto Alegre;18
+421320 Pomerode;208
+421330 Ponte Alta;34
+421335 Ponte Alta do Norte;28
+421340 Ponte Serrada;76
+421350 Porto Belo;93
+421360 Porto Uni�o;211
+421370 Pouso Redondo;91
+421380 Praia Grande;32
+421390 Presidente Castello Branco;5
+421400 Presidente Get�lio;110
+421410 Presidente Nereu;12
+421415 Princesa;12
+421420 Quilombo;54
+421430 Rancho Queimado;25
+421440 Rio das Antas;40
+421450 Rio do Campo;42
+421460 Rio do Oeste;57
+421480 Rio do Sul;370
+421470 Rio dos Cedros;63
+421490 Rio Fortuna;32
+421500 Rio Negrinho;193
+421505 Rio Rufino;13
+421507 Riqueza;29
+421510 Rodeio;73
+421520 Romel�ndia;31
+421530 Salete;45
+421535 Saltinho;18
+421540 Salto Veloso;28
+421545 Sang�o;65
+421550 Santa Cec�lia;107
+421555 Santa Helena;11
+421560 Santa Rosa de Lima;12
+421565 Santa Rosa do Sul;42
+421567 Santa Terezinha;48
+421568 Santa Terezinha do Progresso;13
+421569 Santiago do Sul;8
+421570 Santo Amaro da Imperatriz;138
+421580 S�o Bento do Sul;374
+421575 S�o Bernardino;12
+421590 S�o Bonif�cio;25
+421600 S�o Carlos;64
+421605 S�o Cristov�o do Sul;31
+421610 S�o Domingos;55
+421620 S�o Francisco do Sul;306
+421630 S�o Jo�o Batista;113
+421635 S�o Jo�o do Itaperi�;19
+421625 S�o Jo�o do Oeste;37
+421640 S�o Jo�o do Sul;42
+421650 S�o Joaquim;174
+421660 S�o Jos�;1010
+421670 S�o Jos� do Cedro;69
+421680 S�o Jos� do Cerrito;57
+421690 S�o Louren�o do Oeste;152
+421700 S�o Ludgero;56
+421710 S�o Martinho;29
+421715 S�o Miguel da Boa Vista;16
+421720 S�o Miguel do Oeste;204
+421725 S�o Pedro de Alc�ntara;31
+421730 Saudades;45
+421740 Schroeder;83
+421750 Seara;82
+421755 Serra Alta;13
+421760 Sider�polis;97
+421770 Sombrio;147
+421775 Sul Brasil;14
+421780 Tai�;110
+421790 Tangar�;58
+421795 Tigrinhos;21
+421800 Tijucas;225
+421810 Timb� do Sul;24
+421820 Timb�;202
+421825 Timb� Grande;34
+421830 Tr�s Barras;75
+421835 Treviso;21
+421840 Treze de Maio;42
+421850 Treze T�lias;37
+421860 Trombudo Central;32
+421870 Tubar�o;672
+421875 Tun�polis;26
+421880 Turvo;46
+421885 Uni�o do Oeste;19
+421890 Urubici;66
+421895 Urupema;2
+421900 Urussanga;123
+421910 Varge�o;27
+421915 Vargem;14
+421917 Vargem Bonita;26
+421920 Vidal Ramos;30
+421930 Videira;282
+421935 Vitor Meireles;25
+421940 Witmarsum;29
+421950 Xanxer�;214
+421960 Xavantina;26
+421970 Xaxim;167
+421985 Zort�a;12
+420000 Munic�pio ignorado - SC;6
+430003 Acegu�;29
+430005 �gua Santa;18
+430010 Agudo;142
+430020 Ajuricaba;44
+430030 Alecrim;58
+430040 Alegrete;612
+430045 Alegria;40
+430047 Almirante Tamandar� do Sul;15
+430050 Alpestre;56
+430055 Alto Alegre;19
+430057 Alto Feliz;16
+430060 Alvorada;1570
+430063 Amaral Ferrador;38
+430064 Ametista do Sul;53
+430066 Andr� da Rocha;9
+430070 Anta Gorda;42
+430080 Ant�nio Prado;89
+430085 Arambar�;42
+430087 Araric�;43
+430090 Aratiba;47
+430100 Arroio do Meio;121
+430107 Arroio do Padre;13
+430105 Arroio do Sal;63
+430120 Arroio do Tigre;91
+430110 Arroio dos Ratos;109
+430130 Arroio Grande;173
+430140 Arvorezinha;68
+430150 Augusto Pestana;61
+430155 �urea;31
+430160 Bag�;986
+430163 Balne�rio Pinhal;102
+430165 Bar�o;32
+430170 Bar�o de Cotegipe;47
+430175 Bar�o do Triunfo;37
+430185 Barra do Guarita;24
+430187 Barra do Quara�;20
+430190 Barra do Ribeiro;97
+430192 Barra do Rio Azul;15
+430195 Barra Funda;5
+430180 Barrac�o;34
+430200 Barros Cassal;95
+430205 Benjamin Constant do Sul;13
+430210 Bento Gon�alves;625
+430215 Boa Vista das Miss�es;9
+430220 Boa Vista do Buric�;40
+430222 Boa Vista do Cadeado;25
+430223 Boa Vista do Incra;22
+430225 Boa Vista do Sul;26
+430230 Bom Jesus;84
+430235 Bom Princ�pio;67
+430237 Bom Progresso;18
+430240 Bom Retiro do Sul;96
+430245 Boqueir�o do Le�o;49
+430250 Bossoroca;57
+430258 Bozano;19
+430260 Braga;28
+430265 Brochier;39
+430270 Buti�;140
+430280 Ca�apava do Sul;334
+430290 Cacequi;99
+430300 Cachoeira do Sul;806
+430310 Cachoeirinha;758
+430320 Cacique Doble;31
+430330 Caibat�;49
+430340 Cai�ara;37
+430350 Camaqu�;451
+430355 Camargo;18
+430360 Cambar� do Sul;38
+430367 Campestre da Serra;21
+430370 Campina das Miss�es;67
+430380 Campinas do Sul;50
+430390 Campo Bom;382
+430400 Campo Novo;28
+430410 Campos Borges;29
+430420 Candel�ria;275
+430430 C�ndido God�i;46
+430435 Candiota;54
+430440 Canela;257
+430450 Cangu�u;447
+430460 Canoas;2430
+430461 Canudos do Vale;16
+430462 Cap�o Bonito do Sul;15
+430463 Cap�o da Canoa;300
+430465 Cap�o do Cip�;13
+430466 Cap�o do Le�o;185
+430468 Capela de Santana;64
+430469 Capit�o;19
+430467 Capivari do Sul;22
+430471 Cara�;52
+430470 Carazinho;518
+430480 Carlos Barbosa;125
+430485 Carlos Gomes;13
+430490 Casca;62
+430495 Caseiros;26
+430500 Catu�pe;73
+430510 Caxias do Sul;2490
+430511 Centen�rio;28
+430512 Cerrito;47
+430513 Cerro Branco;35
+430515 Cerro Grande;21
+430517 Cerro Grande do Sul;44
+430520 Cerro Largo;95
+430530 Chapada;66
+430535 Charqueadas;225
+430537 Charrua;25
+430540 Chiapetta;32
+430543 Chu�;18
+430544 Chuvisca;31
+430545 Cidreira;131
+430550 Cir�aco;43
+430558 Colinas;12
+430560 Colorado;26
+430570 Condor;31
+430580 Constantina;72
+430583 Coqueiro Baixo;15
+430585 Coqueiros do Sul;20
+430587 Coronel Barros;25
+430590 Coronel Bicaco;54
+430593 Coronel Pilar;15
+430595 Cotipor�;38
+430597 Coxilha;21
+430600 Crissiumal;126
+430605 Cristal;54
+430607 Cristal do Sul;20
+430610 Cruz Alta;572
+430613 Cruzaltense;18
+430620 Cruzeiro do Sul;105
+430630 David Canabarro;31
+430632 Derrubadas;30
+430635 Dezesseis de Novembro;25
+430637 Dilermando de Aguiar;17
+430640 Dois Irm�os;143
+430642 Dois Irm�os das Miss�es;7
+430645 Dois Lajeados;20
+430650 Dom Feliciano;88
+430660 Dom Pedrito;347
+430655 Dom Pedro de Alc�ntara;20
+430670 Dona Francisca;18
+430673 Doutor Maur�cio Cardoso;52
+430675 Doutor Ricardo;12
+430676 Eldorado do Sul;192
+430680 Encantado;146
+430690 Encruzilhada do Sul;205
+430692 Engenho Velho;15
+430695 Entre Rios do Sul;22
+430693 Entre-Iju�s;64
+430697 Erebango;23
+430700 Erechim;652
+430705 Ernestina;24
+430720 Erval Grande;34
+430730 Erval Seco;59
+430740 Esmeralda;16
+430745 Esperan�a do Sul;27
+430750 Espumoso;116
+430755 Esta��o;43
+430760 Est�ncia Velha;229
+430770 Esteio;564
+430780 Estrela;226
+430781 Estrela Velha;25
+430783 Eug�nio de Castro;21
+430786 Fagundes Varela;23
+430790 Farroupilha;427
+430800 Faxinal do Soturno;54
+430805 Faxinalzinho;32
+430807 Fazenda Vilanova;22
+430810 Feliz;96
+430820 Flores da Cunha;157
+430825 Floriano Peixoto;12
+430830 Fontoura Xavier;62
+430840 Formigueiro;71
+430843 Forquetinha;21
+430845 Fortaleza dos Valos;32
+430850 Frederico Westphalen;198
+430860 Garibaldi;179
+430865 Garruchos;21
+430870 Gaurama;62
+430880 General C�mara;55
+430885 Gentil;17
+430890 Get�lio Vargas;135
+430900 Giru�;177
+430905 Glorinha;55
+430910 Gramado;226
+430912 Gramado dos Loureiros;9
+430915 Gramado Xavier;31
+430920 Gravata�;1573
+430925 Guabiju;16
+430930 Gua�ba;647
+430940 Guapor�;152
+430950 Guarani das Miss�es;77
+430955 Harmonia;19
+430710 Herval;53
+430957 Herveiras;20
+430960 Horizontina;151
+430965 Hulha Negra;33
+430970 Humait�;51
+430975 Ibarama;34
+430980 Ibia��;38
+430990 Ibiraiaras;46
+430995 Ibirapuit�;30
+431000 Ibirub�;144
+431010 Igrejinha;180
+431020 Iju�;603
+431030 Il�polis;31
+431033 Imb�;141
+431036 Imigrante;41
+431040 Independ�ncia;50
+431041 Inhacor�;13
+431043 Ip�;54
+431046 Ipiranga do Sul;17
+431050 Ira�;67
+431053 Itaara;33
+431055 Itacurubi;20
+431057 Itapuca;18
+431060 Itaqui;274
+431065 Itati;16
+431070 Itatiba do Sul;34
+431075 Ivor�;20
+431080 Ivoti;107
+431085 Jaboticaba;28
+431087 Jacuizinho;6
+431090 Jacutinga;32
+431100 Jaguar�o;261
+431110 Jaguari;98
+431112 Jaquirana;33
+431113 Jari;24
+431115 J�ia;49
+431120 J�lio de Castilhos;143
+431123 Lagoa Bonita do Sul;17
+431127 Lagoa dos Tr�s Cantos;20
+431130 Lagoa Vermelha;242
+431125 Lago�o;45
+431140 Lajeado;426
+431142 Lajeado do Bugre;22
+431150 Lavras do Sul;79
+431160 Liberato Salzano;30
+431162 Lindolfo Collor;19
+431164 Linha Nova;11
+431171 Ma�ambar�;21
+431170 Machadinho;46
+431173 Mampituba;21
+431175 Manoel Viana;43
+431177 Maquin�;68
+431179 Marat�;17
+431180 Marau;211
+431190 Marcelino Ramos;46
+431198 Mariana Pimentel;25
+431200 Mariano Moro;16
+431205 Marques de Souza;35
+431210 Mata;48
+431213 Mato Castelhano;18
+431215 Mato Leit�o;14
+431217 Mato Queimado;16
+431220 Maximiliano de Almeida;42
+431225 Minas do Le�o;60
+431230 Miragua�;35
+431235 Montauri;14
+431237 Monte Alegre dos Campos;19
+431238 Monte Belo do Sul;32
+431240 Montenegro;452
+431242 Morma�o;28
+431244 Morrinhos do Sul;22
+431245 Morro Redondo;61
+431247 Morro Reuter;32
+431250 Mostardas;78
+431260 Mu�um;39
+431261 Muitos Cap�es;13
+431262 Muliterno;7
+431265 N�o-Me-Toque;129
+431267 Nicolau Vergueiro;7
+431270 Nonoai;74
+431275 Nova Alvorada;18
+431280 Nova Ara��;20
+431290 Nova Bassano;60
+431295 Nova Boa Vista;13
+431300 Nova Br�scia;29
+431301 Nova Candel�ria;15
+431303 Nova Esperan�a do Sul;32
+431306 Nova Hartz;84
+431308 Nova P�dua;20
+431310 Nova Palma;45
+431320 Nova Petr�polis;156
+431330 Nova Prata;158
+431333 Nova Ramada;19
+431335 Nova Roma do Sul;18
+431337 Nova Santa Rita;128
+431349 Novo Barreiro;31
+431339 Novo Cabrais;36
+431340 Novo Hamburgo;1678
+431342 Novo Machado;29
+431344 Novo Tiradentes;15
+431346 Novo Xingu;8
+431350 Os�rio;294
+431360 Paim Filho;27
+431365 Palmares do Sul;79
+431370 Palmeira das Miss�es;226
+431380 Palmitinho;60
+431390 Panambi;226
+431395 Pantano Grande;85
+431400 Para�;42
+431402 Para�so do Sul;59
+431403 Pareci Novo;30
+431405 Parob�;265
+431406 Passa Sete;38
+431407 Passo do Sobrado;47
+431410 Passo Fundo;1304
+431413 Paulo Bento;14
+431415 Paverama;67
+431417 Pedras Altas;11
+431420 Pedro Os�rio;90
+431430 Peju�ara;33
+431440 Pelotas;2947
+431442 Picada Caf�;48
+431445 Pinhal;21
+431446 Pinhal da Serra;13
+431447 Pinhal Grande;31
+431449 Pinheirinho do Vale;27
+431450 Pinheiro Machado;117
+431455 Pirap�;23
+431460 Piratini;189
+431470 Planalto;88
+431475 Po�o das Antas;16
+431477 Pont�o;27
+431478 Ponte Preta;14
+431480 Port�o;187
+431490 Porto Alegre;11131
+431500 Porto Lucena;46
+431505 Porto Mau�;21
+431507 Porto Vera Cruz;20
+431510 Porto Xavier;70
+431513 Pouso Novo;6
+431514 Presidente Lucena;18
+431515 Progresso;36
+431517 Prot�sio Alves;16
+431520 Putinga;37
+431530 Quara�;194
+431531 Quatro Irm�os;12
+431532 Quevedos;19
+431535 Quinze de Novembro;36
+431540 Redentora;58
+431545 Relvado;18
+431550 Restinga Seca;136
+431555 Rio dos �ndios;23
+431560 Rio Grande;1716
+431570 Rio Pardo;267
+431575 Riozinho;38
+431580 Roca Sales;90
+431590 Rodeio Bonito;52
+431595 Rolador;12
+431600 Rolante;143
+431610 Ronda Alta;65
+431620 Rondinha;40
+431630 Roque Gonzales;60
+431640 Ros�rio do Sul;375
+431642 Sagrada Fam�lia;16
+431643 Saldanha Marinho;15
+431645 Salto do Jacu�;91
+431647 Salvador das Miss�es;17
+431650 Salvador do Sul;40
+431660 Sananduva;111
+431710 Sant'Ana do Livramento;730
+431670 Santa B�rbara do Sul;60
+431673 Santa Cec�lia do Sul;9
+431675 Santa Clara do Sul;46
+431680 Santa Cruz do Sul;874
+431697 Santa Margarida do Sul;14
+431690 Santa Maria;1911
+431695 Santa Maria do Herval;30
+431720 Santa Rosa;409
+431725 Santa Tereza;22
+431730 Santa Vit�ria do Palmar;258
+431700 Santana da Boa Vista;71
+431740 Santiago;381
+431750 Santo �ngelo;578
+431760 Santo Ant�nio da Patrulha;357
+431770 Santo Ant�nio das Miss�es;82
+431755 Santo Ant�nio do Palma;20
+431775 Santo Ant�nio do Planalto;7
+431780 Santo Augusto;95
+431790 Santo Cristo;110
+431795 Santo Expedito do Sul;14
+431800 S�o Borja;456
+431805 S�o Domingos do Sul;17
+431810 S�o Francisco de Assis;155
+431820 S�o Francisco de Paula;139
+431830 S�o Gabriel;525
+431840 S�o Jer�nimo;158
+431842 S�o Jo�o da Urtiga;36
+431843 S�o Jo�o do Pol�sine;24
+431844 S�o Jorge;13
+431845 S�o Jos� das Miss�es;17
+431846 S�o Jos� do Herval;12
+431848 S�o Jos� do Hort�ncio;30
+431849 S�o Jos� do Inhacor�;13
+431850 S�o Jos� do Norte;195
+431860 S�o Jos� do Ouro;52
+431861 S�o Jos� do Sul;16
+431862 S�o Jos� dos Ausentes;11
+431870 S�o Leopoldo;1526
+431880 S�o Louren�o do Sul;347
+431890 S�o Luiz Gonzaga;279
+431900 S�o Marcos;126
+431910 S�o Martinho;50
+431912 S�o Martinho da Serra;27
+431915 S�o Miguel das Miss�es;58
+431920 S�o Nicolau;42
+431930 S�o Paulo das Miss�es;62
+431935 S�o Pedro da Serra;19
+431936 S�o Pedro das Miss�es;8
+431937 S�o Pedro do Buti�;14
+431940 S�o Pedro do Sul;161
+431950 S�o Sebasti�o do Ca�;178
+431960 S�o Sep�;203
+431970 S�o Valentim;27
+431971 S�o Valentim do Sul;7
+431973 S�o Val�rio do Sul;20
+431975 S�o Vendelino;18
+431980 S�o Vicente do Sul;60
+431990 Sapiranga;467
+432000 Sapucaia do Sul;869
+432010 Sarandi;114
+432020 Seberi;89
+432023 Sede Nova;17
+432026 Segredo;50
+432030 Selbach;44
+432032 Senador Salgado Filho;20
+432035 Sentinela do Sul;47
+432040 Serafina Corr�a;82
+432045 S�rio;26
+432050 Sert�o;55
+432055 Sert�o Santana;39
+432057 Sete de Setembro;18
+432060 Severiano de Almeida;24
+432065 Silveira Martins;22
+432067 Sinimbu;81
+432070 Sobradinho;129
+432080 Soledade;241
+432085 Taba�;19
+432090 Tapejara;109
+432100 Tapera;87
+432110 Tapes;127
+432120 Taquara;441
+432130 Taquari;201
+432132 Taquaru�u do Sul;23
+432135 Tavares;36
+432140 Tenente Portela;97
+432143 Terra de Areia;90
+432145 Teut�nia;177
+432146 Tio Hugo;21
+432147 Tiradentes do Sul;57
+432149 Toropi;27
+432150 Torres;255
+432160 Tramanda�;435
+432162 Travesseiro;26
+432163 Tr�s Arroios;26
+432166 Tr�s Cachoeiras;72
+432170 Tr�s Coroas;135
+432180 Tr�s de Maio;203
+432183 Tr�s Forquilhas;26
+432185 Tr�s Palmeiras;36
+432190 Tr�s Passos;234
+432195 Trindade do Sul;50
+432200 Triunfo;185
+432210 Tucunduva;51
+432215 Tunas;32
+432218 Tupanci do Sul;7
+432220 Tupanciret�;188
+432225 Tupandi;24
+432230 Tuparendi;72
+432232 Turu�u;27
+432234 Ubiretama;19
+432235 Uni�o da Serra;22
+432237 Unistalda;27
+432240 Uruguaiana;896
+432250 Vacaria;471
+432253 Vale do Sol;82
+432254 Vale Real;28
+432252 Vale Verde;38
+432255 Vanini;14
+432260 Ven�ncio Aires;515
+432270 Vera Cruz;193
+432280 Veran�polis;152
+432285 Vespasiano Correa;21
+432290 Viadutos;38
+432300 Viam�o;1764
+432310 Vicente Dutra;41
+432320 Victor Graeff;31
+432330 Vila Flores;16
+432335 Vila L�ngaro;11
+432340 Vila Maria;33
+432345 Vila Nova do Sul;36
+432350 Vista Alegre;22
+432360 Vista Alegre do Prata;12
+432370 Vista Ga�cha;19
+432375 Vit�ria das Miss�es;28
+432377 Westfalia;31
+432380 Xangri-l�;93
+500020 �gua Clara;64
+500025 Alcin�polis;14
+500060 Amambai;232
+500070 Anast�cio;182
+500080 Anauril�ndia;49
+500085 Ang�lica;59
+500090 Ant�nio Jo�o;68
+500100 Aparecida do Taboado;155
+500110 Aquidauana;351
+500124 Aral Moreira;44
+500150 Bandeirantes;42
+500190 Bataguassu;109
+500200 Bataypor�;64
+500210 Bela Vista;136
+500215 Bodoquena;36
+500220 Bonito;108
+500230 Brasil�ndia;77
+500240 Caarap�;151
+500260 Camapu�;70
+500270 Campo Grande;4583
+500280 Caracol;26
+500290 Cassil�ndia;153
+500295 Chapad�o do Sul;65
+500310 Corguinho;24
+500315 Coronel Sapucaia;104
+500320 Corumb�;721
+500325 Costa Rica;102
+500330 Coxim;215
+500345 Deod�polis;74
+500348 Dois Irm�os do Buriti;54
+500350 Douradina;47
+500370 Dourados;1197
+500375 Eldorado;70
+500380 F�tima do Sul;156
+500390 Figueir�o;17
+500400 Gl�ria de Dourados;66
+500410 Guia Lopes da Laguna;71
+500430 Iguatemi;80
+500440 Inoc�ncia;30
+500450 Itapor�;95
+500460 Itaquira�;89
+500470 Ivinhema;147
+500480 Japor�;47
+500490 Jaraguari;26
+500500 Jardim;150
+500510 Jate�;34
+500515 Juti;53
+500520 Lad�rio;102
+500525 Laguna Carap�;25
+500540 Maracaju;200
+500560 Miranda;169
+500568 Mundo Novo;140
+500570 Navira�;268
+500580 Nioaque;52
+500600 Nova Alvorada do Sul;70
+500620 Nova Andradina;245
+500625 Novo Horizonte do Sul;25
+500630 Parana�ba;291
+500635 Paranhos;88
+500640 Pedro Gomes;44
+500660 Ponta Por�;570
+500690 Porto Murtinho;76
+500710 Ribas do Rio Pardo;96
+500720 Rio Brilhante;128
+500730 Rio Negro;34
+500740 Rio Verde de Mato Grosso;130
+500750 Rochedo;25
+500755 Santa Rita do Pardo;31
+500769 S�o Gabriel do Oeste;93
+500780 Selv�ria;39
+500770 Sete Quedas;92
+500790 Sidrol�ndia;173
+500793 Sonora;49
+500795 Tacuru;66
+500797 Taquarussu;24
+500800 Terenos;72
+500830 Tr�s Lagoas;673
+500840 Vicentina;35
+500000 Munic�pio ignorado - MS;2
+510010 Acorizal;32
+510020 �gua Boa;102
+510025 Alta Floresta;273
+510030 Alto Araguaia;70
+510035 Alto Boa Vista;16
+510040 Alto Gar�as;57
+510050 Alto Paraguai;66
+510060 Alto Taquari;30
+510080 Apiac�s;34
+510100 Araguaiana;10
+510120 Araguainha;4
+510125 Araputanga;82
+510130 Aren�polis;63
+510140 Aripuan�;74
+510160 Bar�o de Melga�o;31
+510170 Barra do Bugres;144
+510180 Barra do Gar�as;336
+510185 Bom Jesus do Araguaia;25
+510190 Brasnorte;72
+510250 C�ceres;525
+510260 Campin�polis;69
+510263 Campo Novo do Parecis;123
+510267 Campo Verde;119
+510268 Campos de J�lio;15
+510269 Canabrava do Norte;23
+510270 Canarana;84
+510279 Carlinda;70
+510285 Castanheira;33
+510300 Chapada dos Guimar�es;93
+510305 Cl�udia;36
+510310 Cocalinho;23
+510320 Col�der;176
+510325 Colniza;76
+510330 Comodoro;69
+510335 Confresa;93
+510336 Conquista D'Oeste;13
+510337 Cotrigua�u;37
+510340 Cuiab�;3270
+510343 Curvel�ndia;41
+510345 Denise;37
+510350 Diamantino;103
+510360 Dom Aquino;51
+510370 Feliz Natal;34
+510380 Figueir�polis D'Oeste;20
+510385 Ga�cha do Norte;21
+510390 General Carneiro;31
+510395 Gl�ria D'Oeste;27
+510410 Guarant� do Norte;122
+510420 Guiratinga;85
+510450 Indiava�;14
+510452 Ipiranga do Norte;17
+510454 Itanhang�;15
+510455 Ita�ba;21
+510460 Itiquira;51
+510480 Jaciara;158
+510490 Jangada;40
+510500 Jauru;65
+510510 Juara;144
+510515 Ju�na;196
+510517 Juruena;34
+510520 Juscimeira;73
+510523 Lambari D'Oeste;31
+510525 Lucas do Rio Verde;164
+510530 Luciara;9
+510558 Marcel�ndia;58
+510560 Matup�;61
+510562 Mirassol d'Oeste;133
+510590 Nobres;115
+510600 Nortel�ndia;50
+510610 Nossa Senhora do Livramento;75
+510615 Nova Bandeirantes;41
+510620 Nova Brasil�ndia;26
+510621 Nova Cana� do Norte;55
+510880 Nova Guarita;29
+510618 Nova Lacerda;21
+510885 Nova Maril�ndia;13
+510890 Nova Maring�;21
+510895 Nova Monte Verde;25
+510622 Nova Mutum;131
+510617 Nova Nazar�;17
+510623 Nova Ol�mpia;77
+510619 Nova Santa Helena;16
+510624 Nova Ubirat�;29
+510625 Nova Xavantina;112
+510627 Novo Horizonte do Norte;15
+510626 Novo Mundo;28
+510631 Novo Santo Ant�nio;10
+510628 Novo S�o Joaquim;37
+510629 Parana�ta;50
+510630 Paranatinga;119
+510637 Pedra Preta;95
+510642 Peixoto de Azevedo;138
+510645 Planalto da Serra;23
+510650 Pocon�;171
+510665 Pontal do Araguaia;35
+510670 Ponte Branca;12
+510675 Pontes e Lacerda;225
+510677 Porto Alegre do Norte;34
+510680 Porto dos Ga�chos;16
+510682 Porto Esperidi�o;53
+510685 Porto Estrela;19
+510700 Poxor�o;109
+510704 Primavera do Leste;249
+510706 Quer�ncia;51
+510715 Reserva do Caba�al;11
+510718 Ribeir�o Cascalheira;46
+510719 Ribeir�ozinho;10
+510720 Rio Branco;29
+510757 Rondol�ndia;5
+510760 Rondon�polis;1257
+510770 Ros�rio Oeste;111
+510775 Salto do C�u;25
+510724 Santa Carmem;12
+510774 Santa Cruz do Xingu;9
+510776 Santa Rita do Trivelato;9
+510777 Santa Terezinha;24
+510726 Santo Afonso;9
+510779 Santo Ant�nio do Leste;17
+510780 Santo Ant�nio do Leverger;96
+510785 S�o F�lix do Araguaia;36
+510729 S�o Jos� do Povo;12
+510730 S�o Jos� do Rio Claro;83
+510735 S�o Jos� do Xingu;21
+510710 S�o Jos� dos Quatro Marcos;116
+510740 S�o Pedro da Cipa;18
+510787 Sapezal;70
+510788 Serra Nova Dourada;2
+510790 Sinop;560
+510792 Sorriso;272
+510794 Tabapor�;31
+510795 Tangar� da Serra;420
+510800 Tapurah;27
+510805 Terra Nova do Norte;62
+510810 Tesouro;27
+510820 Torixor�u;42
+510830 Uni�o do Sul;15
+510835 Vale de S�o Domingos;12
+510840 V�rzea Grande;1543
+510850 Vera;54
+510550 Vila Bela da Sant�ssima Trindade;34
+510860 Vila Rica;80
+510000 Munic�pio ignorado - MT;28
+520005 Abadia de Goi�s;38
+520010 Abadi�nia;83
+520013 Acre�na;114
+520015 Adel�ndia;20
+520017 �gua Fria de Goi�s;26
+520020 �gua Limpa;14
+520025 �guas Lindas de Goi�s;609
+520030 Alex�nia;143
+520050 Alo�ndia;16
+520055 Alto Horizonte;26
+520060 Alto Para�so de Goi�s;30
+520080 Alvorada do Norte;75
+520082 Amaralina;16
+520085 Americano do Brasil;36
+520090 Amorin�polis;24
+520110 An�polis;2319
+520120 Anhanguera;1
+520130 Anicuns;123
+520140 Aparecida de Goi�nia;2390
+520145 Aparecida do Rio Doce;14
+520150 Apor�;19
+520160 Ara�u;26
+520170 Aragar�as;128
+520180 Aragoi�nia;53
+520215 Araguapaz;51
+520235 Aren�polis;34
+520250 Aruan�;47
+520260 Auril�ndia;32
+520280 Avelin�polis;16
+520310 Baliza;16
+520320 Barro Alto;49
+520330 Bela Vista de Goi�s;149
+520340 Bom Jardim de Goi�s;53
+520350 Bom Jesus de Goi�s;95
+520355 Bonfin�polis;67
+520357 Bon�polis;17
+520360 Brazabrantes;22
+520380 Brit�nia;38
+520390 Buriti Alegre;79
+520393 Buriti de Goi�s;14
+520396 Buritin�polis;13
+520400 Cabeceiras;38
+520410 Cachoeira Alta;40
+520420 Cachoeira de Goi�s;7
+520425 Cachoeira Dourada;49
+520430 Ca�u;84
+520440 Caiap�nia;112
+520450 Caldas Novas;394
+520455 Caldazinha;14
+520460 Campestre de Goi�s;21
+520465 Campina�u;17
+520470 Campinorte;61
+520480 Campo Alegre de Goi�s;36
+520485 Campo Limpo de Goi�s;21
+520490 Campos Belos;101
+520495 Campos Verdes;35
+520500 Carmo do Rio Verde;66
+520505 Castel�ndia;25
+520510 Catal�o;519
+520520 Catura�;23
+520530 Cavalcante;44
+520540 Ceres;126
+520545 Cezarina;46
+520547 Chapad�o do C�u;25
+520549 Cidade Ocidental;252
+520551 Cocalzinho de Goi�s;97
+520552 Colinas do Sul;20
+520570 C�rrego do Ouro;20
+520580 Corumb� de Goi�s;76
+520590 Corumba�ba;67
+520620 Cristalina;266
+520630 Cristian�polis;15
+520640 Crix�s;86
+520650 Crom�nia;29
+520660 Cumari;19
+520670 Damian�polis;10
+520680 Damol�ndia;21
+520690 Davin�polis;10
+520710 Diorama;10
+520830 Divin�polis de Goi�s;21
+520725 Doverl�ndia;56
+520735 Edealina;15
+520740 Ed�ia;75
+520750 Estrela do Norte;20
+520753 Faina;38
+520760 Fazenda Nova;31
+520780 Firmin�polis;70
+520790 Flores de Goi�s;44
+520800 Formosa;569
+520810 Formoso;20
+520815 Gameleira de Goi�s;16
+520840 Goian�polis;89
+520850 Goiandira;32
+520860 Goian�sia;413
+520870 Goi�nia;8355
+520880 Goianira;195
+520890 Goi�s;185
+520910 Goiatuba;206
+520915 Gouvel�ndia;24
+520920 Guap�;85
+520929 Guara�ta;6
+520940 Guarani de Goi�s;16
+520945 Guarinos;8
+520960 Heitora�;40
+520970 Hidrol�ndia;106
+520980 Hidrolina;25
+520990 Iaciara;61
+520993 Inaciol�ndia;42
+520995 Indiara;74
+521000 Inhumas;363
+521010 Ipameri;181
+521015 Ipiranga de Goi�s;16
+521020 Ipor�;259
+521030 Israel�ndia;16
+521040 Itabera�;236
+521056 Itaguari;26
+521060 Itaguaru;34
+521080 Itaj�;35
+521090 Itapaci;96
+521100 Itapirapu�;53
+521120 Itapuranga;188
+521130 Itarum�;38
+521140 Itau�u;76
+521150 Itumbiara;688
+521160 Ivol�ndia;10
+521170 Jandaia;40
+521180 Jaragu�;222
+521190 Jata�;547
+521200 Jaupaci;28
+521205 Jes�polis;10
+521210 Jovi�nia;47
+521220 Jussara;146
+521225 Lagoa Santa;3
+521230 Leopoldo de Bulh�es;44
+521250 Luzi�nia;957
+521260 Mairipotaba;15
+521270 Mamba�;38
+521280 Mara Rosa;73
+521290 Marzag�o;16
+521295 Matrinch�;22
+521300 Mauril�ndia;60
+521305 Mimoso de Goi�s;12
+521308 Mina�u;174
+521310 Mineiros;304
+521340 Moipor�;13
+521350 Monte Alegre de Goi�s;40
+521370 Montes Claros de Goi�s;46
+521375 Montividiu;34
+521377 Montividiu do Norte;18
+521380 Morrinhos;291
+521385 Morro Agudo de Goi�s;22
+521390 Moss�medes;36
+521400 Mozarl�ndia;85
+521405 Mundo Novo;36
+521410 Mutun�polis;13
+521440 Naz�rio;71
+521450 Ner�polis;151
+521460 Niquel�ndia;249
+521470 Nova Am�rica;14
+521480 Nova Aurora;16
+521483 Nova Crix�s;55
+521486 Nova Gl�ria;62
+521487 Nova Igua�u de Goi�s;13
+521490 Nova Roma;16
+521500 Nova Veneza;51
+521520 Novo Brasil;27
+521523 Novo Gama;415
+521525 Novo Planalto;16
+521530 Orizona;87
+521540 Ouro Verde de Goi�s;24
+521550 Ouvidor;41
+521560 Padre Bernardo;151
+521565 Palestina de Goi�s;16
+521570 Palmeiras de Goi�s;130
+521580 Palmelo;16
+521590 Palmin�polis;28
+521600 Panam�;11
+521630 Paranaiguara;79
+521640 Para�na;72
+521645 Perol�ndia;19
+521680 Petrolina de Goi�s;71
+521690 Pilar de Goi�s;17
+521710 Piracanjuba;154
+521720 Piranhas;76
+521730 Piren�polis;142
+521740 Pires do Rio;190
+521760 Planaltina;394
+521770 Pontalina;126
+521800 Porangatu;240
+521805 Porteir�o;11
+521810 Portel�ndia;23
+521830 Posse;144
+521839 Professor Jamil;22
+521850 Quirin�polis;272
+521860 Rialma;90
+521870 Rian�polis;39
+521878 Rio Quente;14
+521880 Rio Verde;1019
+521890 Rubiataba;123
+521900 Sanclerl�ndia;38
+521910 Santa B�rbara de Goi�s;43
+521920 Santa Cruz de Goi�s;19
+521925 Santa F� de Goi�s;28
+521930 Santa Helena de Goi�s;271
+521935 Santa Isabel;19
+521940 Santa Rita do Araguaia;28
+521945 Santa Rita do Novo Destino;21
+521950 Santa Rosa de Goi�s;19
+521960 Santa Tereza de Goi�s;33
+521970 Santa Terezinha de Goi�s;61
+521971 Santo Ant�nio da Barra;23
+521973 Santo Ant�nio de Goi�s;26
+521975 Santo Ant�nio do Descoberto;284
+521980 S�o Domingos;43
+521990 S�o Francisco de Goi�s;45
+522000 S�o Jo�o d'Alian�a;44
+522005 S�o Jo�o da Para�na;8
+522010 S�o Lu�s de Montes Belos;194
+522015 S�o Lu�z do Norte;22
+522020 S�o Miguel do Araguaia;139
+522026 S�o Miguel do Passa Quatro;25
+522028 S�o Patr�cio;19
+522040 S�o Sim�o;124
+522045 Senador Canedo;529
+522050 Serran�polis;37
+522060 Silv�nia;107
+522068 Simol�ndia;40
+522070 S�tio d'Abadia;7
+522100 Taquaral de Goi�s;40
+522108 Teresina de Goi�s;7
+522119 Terez�polis de Goi�s;45
+522130 Tr�s Ranchos;12
+522140 Trindade;632
+522145 Trombas;23
+522150 Turv�nia;34
+522155 Turvel�ndia;25
+522157 Uirapuru;20
+522160 Urua�u;254
+522170 Uruana;92
+522180 Uruta�;18
+522185 Valpara�so de Goi�s;546
+522190 Varj�o;21
+522200 Vian�polis;75
+522205 Vicentin�polis;36
+522220 Vila Boa;17
+522230 Vila Prop�cio;18
+520000 Munic�pio ignorado - GO;111
+530010 Bras�lia;11308
