@@ -1,7 +1,6 @@
 package com.infnet.ml
 
-import org.apache.spark.ml.evaluation.RegressionEvaluator
-import org.apache.spark.ml.tuning.TrainValidationSplit
+
 import org.apache.spark.sql.functions.{lower,col,round}
 
 object RegressaoLinearObitos {
@@ -19,6 +18,7 @@ object RegressaoLinearObitos {
 
     import sparks.implicits._
 
+    println("Iniciando criação de dataframes")
 
     val obt2013 = sparks.read.option("header", "true")
       .option("inferSchema", "true")
@@ -48,6 +48,7 @@ object RegressaoLinearObitos {
       .withColumn("ano",lit("2010"))
       .select(lower($"municipios").as("municipios"), $"obitos",$"ano")
 
+    println("Dataframes anuais de óbitos criados")
 
     val leitos2013 = sparks.read.option("header", "true")
       .option("inferSchema", "true").option("delimiter", ";")
@@ -81,15 +82,15 @@ object RegressaoLinearObitos {
       .select(lower($"municipios").as("municipios"), $"qexistente", $"SUS", $"NSUS",$"ano")
 
 
-
+    println("Dataframes anuais de leitos criados")
 
 
     val pibc2013 = sparks.read.option("header","true")
-        .option("inferSchema","true")
-        .option("delimiter",";")
-        .csv("file:///Users/nilosaj/Desenvolvimento/projetos/datasets/posgrad_ml/pibcapta/PIB_CAPTA_2013.csv")
-        .withColumn("ano",lit("2013"))
-        .select(lower($"municipios").as("municipios"), $"pibcapta",$"ano")
+      .option("inferSchema","true")
+      .option("delimiter",";")
+      .csv("file:///Users/nilosaj/Desenvolvimento/projetos/datasets/posgrad_ml/pibcapta/PIB_CAPTA_2013.csv")
+      .withColumn("ano",lit("2013"))
+      .select(lower($"municipios").as("municipios"), $"pibcapta",$"ano")
 
     val pibc2012 = sparks.read.option("header","true")
       .option("inferSchema","true")
@@ -112,6 +113,7 @@ object RegressaoLinearObitos {
       .withColumn("ano",lit("2010"))
       .select(lower($"municipios").as("municipios"), $"pibcapta",$"ano")
 
+    println("Dataframes anuais de PIBs criados")
 
     val evitaveis2013 = sparks.read.option("header","true")
       .option("inferSchema","true")
@@ -175,6 +177,8 @@ object RegressaoLinearObitos {
       .withColumn("Total", when($"Total".isNull, 0).otherwise($"Total"))
       .select(lower($"municipios").as("municipios"),$"rd_imunoprev",$"rd_infectoprev",$"rd_naotransmissprev",$"rd_causamaterna",$"rd_causaexterna",$"mal_definidas",$"nao_evitaveis",$"Total",$"ano")
 
+    println("Dataframes anuais de causas evitáveis criados")
+
     val equipamentos2013 = sparks.read.option("header","true")
       .option("inferSchema","true")
       .option("delimiter",";")
@@ -192,7 +196,6 @@ object RegressaoLinearObitos {
       .select(lower($"municipios").as("municipios"),$"audiologia",$"diagnistico_img",$"infra_estrutura",$"odontologia",$"manutencao_vida",$"metodos_graficos",$"metodos_opticos",$"outros",$"Total".as("total_equips"),$"ano")
 
 
-    equipamentos2013.filter(equipamentos2013("municipios") === "220585 madeiro").show(10)
 
     val equipamentos2012 = sparks.read.option("header","true")
       .option("inferSchema","true")
@@ -245,6 +248,7 @@ object RegressaoLinearObitos {
       .withColumn("Total", when($"Total".isNull, 0).otherwise($"Total"))
       .select(lower($"municipios").as("municipios"),$"audiologia",$"diagnistico_img",$"infra_estrutura",$"odontologia",$"manutencao_vida",$"metodos_graficos",$"metodos_opticos",$"outros",$"Total".as("total_equips"),$"ano")
 
+    println("Dataframes anuais de equipamentos criados")
 
     val popul2013 = sparks.read.option("header", "true")
       .option("inferSchema", "true")
@@ -277,37 +281,44 @@ object RegressaoLinearObitos {
       .withColumn("ano",lit("2010"))
       .select(lower($"municipios").as("municipios"), $"populacao",$"ano")
 
+    println("Dataframes anuais de população estimada criados")
 
-    obt2013.show(5, false)
-    leitos2013.show(5, false)
-
+    println("Efetuando Joins de Dataframes de óbitos")
 
     val dfObitos = obt2013
-    .union(obt2012)
-    .union(obt2011)
-    .union(obt2010)
+      .union(obt2012)
+      .union(obt2011)
+      .union(obt2010)
+
+    println("Efetuando Joins de Dataframes de leitos")
 
     val dfLeitos =  leitos2013
-    .union(leitos2012)
-    .union(leitos2011)
-    .union(leitos2010)
+      .union(leitos2012)
+      .union(leitos2011)
+      .union(leitos2010)
 
+    println("Efetuando Joins de Dataframes de PIBs")
 
     val dfPib = pibc2013
       .union(pibc2012)
       .union(pibc2011)
       .union(pibc2010)
 
+    println("Efetuando Joins de Dataframes de causas evitaveis")
+
     val dfEvitaveis = evitaveis2013
       .union(evitaveis2012)
       .union(evitaveis2011)
       .union(evitaveis2010)
 
+    println("Efetuando Joins de Dataframes de equipamentos")
 
     val dfEquip = equipamentos2013
       .union(equipamentos2012)
       .union(equipamentos2011)
       .union(equipamentos2010)
+
+    println("Efetuando Joins de Dataframes de população estimada")
 
     val dfPopulacao = popul2013
       .union(popul2012)
@@ -321,69 +332,84 @@ object RegressaoLinearObitos {
     val proporcaoMalDef= List(col("populacao"),col("mal_definidas"))
 
 
-
+    println("Efetuando Joins de Dataframes consolidados e  adição de colunas de proporção (COLUNAS EXISTENTES / POPULACAO)")
 
     val pessoasPorLeito=List(col("populacao"),col("qexistente"))
 
     val dfCompleteAll = dfObitos
-              .join(dfLeitos, Seq(("municipios"),("ano")))
-              .distinct()
-              .join(dfPib, Seq(("municipios"),("ano")))
-              .distinct()
-              .join(dfEvitaveis, Seq(("municipios"),("ano")))
-              .distinct()
-              .join(dfEquip, Seq(("municipios"),("ano")))
-              .distinct()
-              .join(dfPopulacao, Seq(("municipios"),("ano")))
-              .distinct()
-              .withColumn("pessoas_por_leito",round(pessoasPorLeito.reduce( _/_ )))
-              .withColumn("proporcao_sus",proporcaoSUS.reduce( _/_ ))
-              .withColumn("proporcao_imuno",proporcaoImunoPop.reduce( _/_ ))
-              .withColumn("proporcao_infecto",proporcaoInfectoPop.reduce( _/_ ))
-              .withColumn("proporcao_externa",proporcaoCausExterna.reduce( _/_ ))
-              .withColumn("proporcao_mal_definid",proporcaoMalDef.reduce( _/_ ))
-              .withColumn("proporcao_imuno", when($"proporcao_imuno".isNull, 0).otherwise($"proporcao_imuno"))
-              .withColumn("proporcao_infecto", when($"proporcao_infecto".isNull, 0).otherwise($"proporcao_infecto"))
-              .withColumn("proporcao_externa", when($"proporcao_externa".isNull, 0).otherwise($"proporcao_externa"))
-              .withColumn("proporcao_mal_definid", when($"proporcao_mal_definid".isNull, 0).otherwise($"proporcao_mal_definid"))
+      .join(dfLeitos, Seq(("municipios"),("ano")))
+      .distinct()
+      .join(dfPib, Seq(("municipios"),("ano")))
+      .distinct()
+      .join(dfEvitaveis, Seq(("municipios"),("ano")))
+      .distinct()
+      .join(dfEquip, Seq(("municipios"),("ano")))
+      .distinct()
+      .join(dfPopulacao, Seq(("municipios"),("ano")))
+      .distinct()
+      .withColumn("pessoas_por_leito",round(pessoasPorLeito.reduce( _/_ )))
+      .withColumn("proporcao_sus",proporcaoSUS.reduce( _/_ ))
+      .withColumn("proporcao_imuno",proporcaoImunoPop.reduce( _/_ ))
+      .withColumn("proporcao_infecto",proporcaoInfectoPop.reduce( _/_ ))
+      .withColumn("proporcao_externa",proporcaoCausExterna.reduce( _/_ ))
+      .withColumn("proporcao_mal_definid",proporcaoMalDef.reduce( _/_ ))
+      .withColumn("proporcao_imuno", when($"proporcao_imuno".isNull, 0).otherwise($"proporcao_imuno"))
+      .withColumn("proporcao_infecto", when($"proporcao_infecto".isNull, 0).otherwise($"proporcao_infecto"))
+      .withColumn("proporcao_externa", when($"proporcao_externa".isNull, 0).otherwise($"proporcao_externa"))
+      .withColumn("proporcao_mal_definid", when($"proporcao_mal_definid".isNull, 0).otherwise($"proporcao_mal_definid"))
 
     dfCompleteAll.show(5, false)
 
-    dfCompleteAll.filter(dfCompleteAll("municipios") === "220585 madeiro").show(10)
+    dfCompleteAll.printSchema()
 
-    val finalDf = dfCompleteAll.select($"obitos".as("label"), $"municipios", $"rd_infectoprev", $"rd_naotransmissprev", $"nao_evitaveis",$"pessoas_por_leito")
-
-    import org.apache.spark.ml.regression.LinearRegression
-    import org.apache.spark.ml.feature.VectorAssembler
-    //import org.apache.spark.ml.tuning.{ParamGridBuilder,TrainValidationSplit}
-    //import org.apache.spark.ml.linalg.Vectors
-
-
-    val va = new VectorAssembler().setInputCols(Array("rd_infectoprev", "rd_naotransmissprev", "nao_evitaveis")).setOutputCol("features").setHandleInvalid("skip")
-
-    val output = va.transform(finalDf).select($"label", $"features")
-
-    output.show(20)
-
-    val lr = new LinearRegression()
+    //dfCompleteAll.filter(dfCompleteAll("municipios") === "220585 madeiro").show(10)
 
     dfCompleteAll.coalesce(1).write.format("com.databricks.spark.csv").option("delimiter", ";").save("completeCsv")
 
+    val finalDf = dfCompleteAll.select($"obitos".as("label"), $"municipios", $"rd_infectoprev", $"rd_naotransmissprev",$"rd_causaexterna", $"nao_evitaveis",$"pessoas_por_leito")
+
+    val Array(treino,teste) = finalDf.randomSplit(Array(0.7,0.3), seed= 1111)
+
+    import org.apache.spark.ml.regression.LinearRegression
+    import org.apache.spark.ml.feature.VectorAssembler
+
+    println("Iniciando Vector Assembler")
+
+    val va = new VectorAssembler().setInputCols(Array("rd_infectoprev", "rd_naotransmissprev", "rd_causaexterna","nao_evitaveis")).setOutputCol("features").setHandleInvalid("skip")
+
+
+    val output = va.transform(treino).select($"label", $"features")
+
+    output.show(20)
+
+    val lr = new LinearRegression().setMaxIter(10).setRegParam(0.3).setElasticNetParam(0.8)
+
+
+
+    println("Criando modelo para colunas rd_infectoprev , rd_naotransmissprev , rd_causaexterna , nao_evitaveis")
     val model = lr.fit(output)
 
+    println("Executando dados de teste")
 
-    println(s"Coeficientes : ${model.coefficients}   Intercept :  ${model.intercept} ") //intercept  é o "a"
+    val testOutput = va.transform(teste).select($"label", $"features")
+    model.transform(testOutput).show()
+    model.coefficients.toArray.foreach(X => println("Coeficiente: "+X.toString()) )
 
-    val summTraining = model.summary
+    val summary = model.summary
 
-    println(s"numero de iterações: ${summTraining.totalIterations}")
+    println("Resultados finais:")
+    println(s"numero de iterações: ${summary.totalIterations}")
+    println("Residuos")
+    summary.residuals.show()
 
-    summTraining.residuals.show()
-    summTraining.predictions.show()
+    println(s"RMSE: ${summary.rootMeanSquaredError}")
+    println(s"MSE: ${summary.meanSquaredError}")
+    println(s"R2 (Coeficiente de Determinação) : ${summary.r2}")   //coeficiente de ajuste
 
-    println(s"RMSE: ${summTraining.rootMeanSquaredError}")
-    println(s"MSE: ${summTraining.meanSquaredError}")
-    println(s"R2: ${summTraining.r2}")   //coeficiente de ajuste
+
+    println("Predições")
+    summary.predictions.show()
+
   }
 
 }
